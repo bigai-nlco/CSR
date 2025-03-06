@@ -1,0 +1,822 @@
+[
+    {
+        "sentence1": "Fluffy pins back his ears and growls a warning at the weird cat in the mirror.",
+        "sentence2": "a cat sitting  in front of a mirror in front of a person holding a camera.",
+        "condition": "The number of the person.",
+        "answer1": "Unknown",
+        "answer2": "The number of the person: unknown",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "Fluffy pins back his ears and growls a warning at the weird cat in the mirror.",
+        "sentence2": "a cat sitting  in front of a mirror in front of a person holding a camera.",
+        "condition": "The name of the object.",
+        "answer1": "unknown",
+        "answer2": "unknown",
+        "common_score": "five",
+        "common_difficulty": "hard",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A woman sits on the floor in front of a bookcase typing on a laptop.",
+        "sentence2": "A laptop keyboard with its reflection of it and a book in the screen.",
+        "condition": "The reflective quality of the object.",
+        "answer1": "unknown",
+        "answer2": "reflection",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A woman sits on the floor in front of a bookcase typing on a laptop.",
+        "sentence2": "A laptop keyboard with its reflection of it and a book in the screen.",
+        "condition": "The electronic object.",
+        "answer1": "laptop",
+        "answer2": "laptop, keyboard",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A cat reaches up a paw to touch a dog on a television screen.",
+        "sentence2": "A black and white cat sitting in front of a computer looking at the mouse.",
+        "condition": "The name of the animal.",
+        "answer1": "cat, dog",
+        "answer2": "cat",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A cat reaches up a paw to touch a dog on a television screen.",
+        "sentence2": "A black and white cat sitting in front of a computer looking at the mouse.",
+        "condition": "The color of the cat.",
+        "answer1": "unknown",
+        "answer2": "black, white",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "Corn on the cob, salad, and a potato dish are being served on a table. ",
+        "sentence2": "A plate of food, dishes with food, and a pot of flowers sitting on top of a table. ",
+        "condition": "The dish.",
+        "answer1": "potato dish",
+        "answer2": "dishes",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "Corn on the cob, salad, and a potato dish are being served on a table. ",
+        "sentence2": "A plate of food, dishes with food, and a pot of flowers sitting on top of a table. ",
+        "condition": "The number of dish.",
+        "answer1": "The keywords that match the condition \"number of dish\" in the sentence are unknown.",
+        "answer2": "unknown",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A bunch of people standing around at the beach with a kite in the air.",
+        "sentence2": "a beach scene with a beach chair decorated with the Canadian Flag and surfers walking by with their surfboards",
+        "condition": "The type of location.",
+        "answer1": "beach",
+        "answer2": "beach",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A bunch of people standing around at the beach with a kite in the air.",
+        "sentence2": "a beach scene with a beach chair decorated with the Canadian Flag and surfers walking by with their surfboards",
+        "condition": "The type of hobby.",
+        "answer1": "unknown",
+        "answer2": "hobby",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "A baby elephant that is laying on the ground looking at two larger elephants.",
+        "sentence2": "Two elephants standing next to each other on a grassy field next to a tree.",
+        "condition": "The type of animal.",
+        "answer1": "elephant",
+        "answer2": "Elephants",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A baby elephant that is laying on the ground looking at two larger elephants.",
+        "sentence2": "Two elephants standing next to each other on a grassy field next to a tree.",
+        "condition": "The number of animals.",
+        "answer1": "Three elephants",
+        "answer2": "Two elephants",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A small child opening their mouth for a donut that is being dangled above them.",
+        "sentence2": "A little girl sitting at a table with a half eaten donut in front of her.",
+        "condition": "The name of the person.",
+        "answer1": "unknown",
+        "answer2": "A little girl",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A small child opening their mouth for a donut that is being dangled above them.",
+        "sentence2": "A little girl sitting at a table with a half eaten donut in front of her.",
+        "condition": "The activity of the person.",
+        "answer1": "unknown",
+        "answer2": "sitting",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A person para sailing in the ocean with a person fishing from the shore.",
+        "sentence2": "Many kites are seen flying over the sea by the people in the sea.",
+        "condition": "The location.",
+        "answer1": "ocean, shore",
+        "answer2": "sea",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "There are some sandwiches, an olive, potato salad and a tomato on this plate.",
+        "sentence2": "a dish with a fork, a side and a sandwich that has meat, a tomato and other ingredients.",
+        "condition": "The ingredients in the meal.",
+        "answer1": "sandwiches, olive, potato salad, tomato",
+        "answer2": "meat, tomato, other ingredients",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "There are some sandwiches, an olive, potato salad and a tomato on this plate.",
+        "sentence2": "a dish with a fork, a side and a sandwich that has meat, a tomato and other ingredients.",
+        "condition": "The main course of the meal.",
+        "answer1": "sandwiches, potato salad",
+        "answer2": "sandwich, meat, tomato",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "Asian diners give peace signs at a table filled with food in a restaurant.",
+        "sentence2": "there is a very large table with many foods and people sitting at it",
+        "condition": "The type of location.",
+        "answer1": "restaurant",
+        "answer2": "unknown",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A kitchen with nice wooden cabinets and flooring, but with one cabinet door missing.",
+        "sentence2": "A kitchen that has a grey tile floor with granite counter top and a silver stove and a silver refrigerator.",
+        "condition": "The type of room.",
+        "answer1": "kitchen",
+        "answer2": "Kitchen",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A kitchen with nice wooden cabinets and flooring, but with one cabinet door missing.",
+        "sentence2": "A kitchen that has a grey tile floor with granite counter top and a silver stove and a silver refrigerator.",
+        "condition": "The number of appliances.",
+        "answer1": "unknown",
+        "answer2": "2, refrigerator, stove",
+        "common_score": "one",
+        "common_difficulty": "hard",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "A man and a woman sitting on a bench by the New York Bay.",
+        "sentence2": "A person lying on a bench next to the ocean, with a bicycle parked next to it.",
+        "condition": "The number of person.",
+        "answer1": "The keyword(s) based on the given condition \"The number of person\" is \"two\".",
+        "answer2": "1",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "A man and a woman sitting on a bench by the New York Bay.",
+        "sentence2": "A person lying on a bench next to the ocean, with a bicycle parked next to it.",
+        "condition": "The name of the action.",
+        "answer1": "sitting",
+        "answer2": "lying",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A piece of paper resting on a keyboard with a phone and cup of water.",
+        "sentence2": "A kitchen table being occupied by workplace items such as a book, notebook, calculator, and computer.",
+        "condition": "The number of object.",
+        "answer1": "3 objects",
+        "answer2": "book, notebook, calculator, computer",
+        "common_score": "two",
+        "common_difficulty": "simple",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "A piece of paper resting on a keyboard with a phone and cup of water.",
+        "sentence2": "A kitchen table being occupied by workplace items such as a book, notebook, calculator, and computer.",
+        "condition": "The object.",
+        "answer1": "keyboard, phone, cup",
+        "answer2": "book, notebook, calculator, computer",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "a black and white photo of a group of people near a large plane",
+        "sentence2": "The back end of an airplane on tarmac with hundreds of people around it.",
+        "condition": "The name of the vehicle.",
+        "answer1": "plane",
+        "answer2": "airplane",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "a black and white photo of a group of people near a large plane",
+        "sentence2": "The back end of an airplane on tarmac with hundreds of people around it.",
+        "condition": "The activity of the vehicle.",
+        "answer1": "unknown",
+        "answer2": "Unknown",
+        "common_score": "one",
+        "common_difficulty": "hard",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "A sheep grazing next to her baby sheep in a green grass covered field.",
+        "sentence2": "a meadow filled with sheep and a white lamb with black legs, ears and nose",
+        "condition": "The animals graze here.",
+        "answer1": "sheep, field",
+        "answer2": "sheep, lamb",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A sheep grazing next to her baby sheep in a green grass covered field.",
+        "sentence2": "a meadow filled with sheep and a white lamb with black legs, ears and nose",
+        "condition": "The overall number of sheep.",
+        "answer1": "2 sheep",
+        "answer2": "The keyword that matches the given condition is \"sheep\".",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "a woman leaning over so she can hit a tennis ball with a racket",
+        "sentence2": "A group of people holding up tennis racquets  next to a flying tennis ball.",
+        "condition": "The game played.",
+        "answer1": "unknown",
+        "answer2": "unknown",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "a woman leaning over so she can hit a tennis ball with a racket",
+        "sentence2": "A group of people holding up tennis racquets  next to a flying tennis ball.",
+        "condition": "The number of players.",
+        "answer1": "unknown",
+        "answer2": "unknown",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "two bowls of food on a table, one with fruit and the other with pasta and meat in it\n",
+        "sentence2": "A sandwich full of fruit and yogurt is next to a bowl of salad.",
+        "condition": "The number of dish.",
+        "answer1": "two bowls",
+        "answer2": "unknown",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "View of a kitchen island with a sink in the middle and a book case at the end cap.",
+        "sentence2": "A kitchen has white cabinets, wood floors, pots above the sink, and black appliances.",
+        "condition": "The type of room.",
+        "answer1": "Kitchen",
+        "answer2": "kitchen",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "View of a kitchen island with a sink in the middle and a book case at the end cap.",
+        "sentence2": "A kitchen has white cabinets, wood floors, pots above the sink, and black appliances.",
+        "condition": "The number of appliances.",
+        "answer1": "unknown",
+        "answer2": "The keyword(s) that match the given condition is: black appliances",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "A large room with tile flooring and four pieces of furniture on a Persian style carpet.",
+        "sentence2": "A room decorated with multiple rocking chairs and lots of art on the walls.",
+        "condition": "The art's position.",
+        "answer1": "unknown",
+        "answer2": "unknown",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "A bed with cover's on it and a lamp on a stand beside it.",
+        "sentence2": "A small white bed sitting up against a wall next to a night stand.",
+        "condition": "How the bed looks.",
+        "answer1": "unknown",
+        "answer2": "white",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A bed with cover's on it and a lamp on a stand beside it.",
+        "sentence2": "A small white bed sitting up against a wall next to a night stand.",
+        "condition": "The type of furniture.",
+        "answer1": "bed, lamp",
+        "answer2": "bed, night stand",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A sandwich of rye bread pickles and hotdogs is next to some french fries.",
+        "sentence2": "A sandwich with jalapenos and various other vegetables on top of a plastic bag.",
+        "condition": "The food.",
+        "answer1": "The keywords that match the condition \"The food\" in the given sentence are: sandwich, hotdogs, french fries.",
+        "answer2": "jalapenos, vegetables, sandwich",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A sandwich of rye bread pickles and hotdogs is next to some french fries.",
+        "sentence2": "A sandwich with jalapenos and various other vegetables on top of a plastic bag.",
+        "condition": "The ingredients.",
+        "answer1": "rye bread, pickles, hotdogs, french fries",
+        "answer2": "jalapenos, vegetables",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A longhorn trophy hangs on the wall beside a lamp hanging from the ceiling.",
+        "sentence2": "A clock hanging from a pipe next to a window under a bulls head.",
+        "condition": "The name of the object.",
+        "answer1": "unknown",
+        "answer2": "The exact keyword that matches the condition \"The name of the object\" from the given sentence is \"clock\".",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A longhorn trophy hangs on the wall beside a lamp hanging from the ceiling.",
+        "sentence2": "A clock hanging from a pipe next to a window under a bulls head.",
+        "condition": "The name of the activity.",
+        "answer1": "unknown",
+        "answer2": "unknown",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "Two pictures of a white and black spotted cat and a orange, white and black spotted cat in front of a bathroom mirror. ",
+        "sentence2": "Two cats one on their back, one over top of the other, playing together on a bed.",
+        "condition": "Type of animal.",
+        "answer1": "cat",
+        "answer2": "cats",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "Two pictures of a white and black spotted cat and a orange, white and black spotted cat in front of a bathroom mirror. ",
+        "sentence2": "Two cats one on their back, one over top of the other, playing together on a bed.",
+        "condition": "Proximity of animals.",
+        "answer1": "white and black spotted cat, orange, white and black spotted cat",
+        "answer2": "cats, playing",
+        "common_score": "four",
+        "common_difficulty": "hard",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A girl trying to catch a baseball with her mitt while another girl runs pass her.",
+        "sentence2": "A base ball player is on the ground near a flurry of dust as a catcher stands next to him.",
+        "condition": "The name of the game.",
+        "answer1": "Unknown",
+        "answer2": "Unknown",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "A girl trying to catch a baseball with her mitt while another girl runs pass her.",
+        "sentence2": "A base ball player is on the ground near a flurry of dust as a catcher stands next to him.",
+        "condition": "The name of the place.",
+        "answer1": "unknown",
+        "answer2": "unknown",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A man with a bat raring back as another man holds up his glove.",
+        "sentence2": "A pitch just about to cross a plate and a second before the hitter decides to swing or not.",
+        "condition": "The number of the man.",
+        "answer1": "Two",
+        "answer2": "Unknown",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A man on a skateboard, riding in the street with a person on a motorbike in the close foreground. ",
+        "sentence2": "A young man jumping a skateboard into the air in front of a brick wall.",
+        "condition": "What item the man has.",
+        "answer1": "skateboard",
+        "answer2": "skateboard",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A man on a skateboard, riding in the street with a person on a motorbike in the close foreground. ",
+        "sentence2": "A young man jumping a skateboard into the air in front of a brick wall.",
+        "condition": "The relative location of the man to the floor.",
+        "answer1": "unknown",
+        "answer2": "unknown",
+        "common_score": "five",
+        "common_difficulty": "hard",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "Three hotdogs on buns with whole slices of relish sit on a white plate.",
+        "sentence2": "A hot dog on a bun with a drop of ketchup on the table.",
+        "condition": "The dog with bun.",
+        "answer1": "hotdog, bun",
+        "answer2": "hot dog, bun",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "Three different flavored donuts sitting on a table next to a cup of coffee.",
+        "sentence2": "A variety of donuts on a tray with various types of frosting and toppings.",
+        "condition": "The type of food.",
+        "answer1": "donuts",
+        "answer2": "Donuts",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A teddy bear sitting on the edge of a toilet seat in a bathroom.",
+        "sentence2": "A porcelain toilet with a square lid in a bathroom with blue tiled walls.",
+        "condition": "Location.",
+        "answer1": "bathroom",
+        "answer2": "bathroom",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A bus and a few other vehicles that appear to be traveling down the road.",
+        "sentence2": "A trailer attached to a truck with palm trees and tall buildings in the background.",
+        "condition": "The name of the vehicle.",
+        "answer1": "bus",
+        "answer2": "truck",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A bus and a few other vehicles that appear to be traveling down the road.",
+        "sentence2": "A trailer attached to a truck with palm trees and tall buildings in the background.",
+        "condition": "The name of the place.",
+        "answer1": "unknown",
+        "answer2": "Unknown",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A little girl is posing with a baseball bat near a T ball stand.",
+        "sentence2": "A kid is holding a baseball in a glove and smiling at the camera.",
+        "condition": "Type of sport.",
+        "answer1": "baseball",
+        "answer2": "baseball",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A woman with her arms above her head holding into strings for a kite shaped like a hamburger.",
+        "sentence2": "Man playing with kite far up in the sky, showing only the deep blue sky.",
+        "condition": "The color of sky.",
+        "answer1": "Unknown",
+        "answer2": "deep blue sky",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A woman with her arms above her head holding into strings for a kite shaped like a hamburger.",
+        "sentence2": "Man playing with kite far up in the sky, showing only the deep blue sky.",
+        "condition": "The activity of people.",
+        "answer1": "Unknown",
+        "answer2": "Playing",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A person throwing a tennis ball up in the air and getting ready to hit it.",
+        "sentence2": "A tennis player wears a backward hat and a pink shirt has he holds his red racket.",
+        "condition": "The game being played.",
+        "answer1": "unknown",
+        "answer2": "Unknown",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "Split images with one being a woman looking pensive while the other shows a tired looking dog.",
+        "sentence2": "a woman holds a dog as she looks at her reflection in the mirror",
+        "condition": "The action of woman.",
+        "answer1": "woman looking pensive",
+        "answer2": "holds",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "Split images with one being a woman looking pensive while the other shows a tired looking dog.",
+        "sentence2": "a woman holds a dog as she looks at her reflection in the mirror",
+        "condition": "The number of person.",
+        "answer1": "unknown",
+        "answer2": "One",
+        "common_score": "one",
+        "common_difficulty": "hard",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "A red cake with white frosting is displayed in front of a vase of sunflowers.",
+        "sentence2": "a plate with a slice of pie, a strawberry with a blackberry on top, and a fork",
+        "condition": "The presence of food.",
+        "answer1": "cake",
+        "answer2": "pie, strawberry, blackberry",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A red cake with white frosting is displayed in front of a vase of sunflowers.",
+        "sentence2": "a plate with a slice of pie, a strawberry with a blackberry on top, and a fork",
+        "condition": "The type of food.",
+        "answer1": "cake",
+        "answer2": "pie, strawberry, blackberry",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A vintage  living area with white furniture, a grand piano and peacock stain glassed windows.",
+        "sentence2": "A room with a laptop on the bed, dishes on the table and remote controls on a table. ",
+        "condition": "The type of area.",
+        "answer1": "Living\tarea",
+        "answer2": "Unknown",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A vintage  living area with white furniture, a grand piano and peacock stain glassed windows.",
+        "sentence2": "A room with a laptop on the bed, dishes on the table and remote controls on a table. ",
+        "condition": "The items in the area.",
+        "answer1": "furniture, grand piano, windows",
+        "answer2": "laptop, dishes, remote controls",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A couch sitting in a living room under a clock on a wood floor.",
+        "sentence2": " A bright, sunny room containing chairs, a table, a plant and some other items",
+        "condition": "The type of room.",
+        "answer1": "Living room",
+        "answer2": "unknown",
+        "common_score": "four",
+        "common_difficulty": "hard",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A couch sitting in a living room under a clock on a wood floor.",
+        "sentence2": " A bright, sunny room containing chairs, a table, a plant and some other items",
+        "condition": "The seating type.",
+        "answer1": "couch",
+        "answer2": "chairs",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A table topped with two white plates of food next to glasses filled with drinks.",
+        "sentence2": "A plate full of cut salad with a fork and a glass full of cold drink with ice.",
+        "condition": "The drink.",
+        "answer1": "drinks",
+        "answer2": "cold drink",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "This rustic style kitchen has storage for lots of cookware and  gadgets for the avid cook.",
+        "sentence2": "A narrow kitchen and dining room utilizes the flow of neutral paint to offset clutter.",
+        "condition": "The room's size.",
+        "answer1": "unknown",
+        "answer2": "narrow, small",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "This rustic style kitchen has storage for lots of cookware and  gadgets for the avid cook.",
+        "sentence2": "A narrow kitchen and dining room utilizes the flow of neutral paint to offset clutter.",
+        "condition": "The type of room.",
+        "answer1": "kitchen",
+        "answer2": "kitchen, dining room",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A woman standing near a basket on the back of a bike with food.",
+        "sentence2": "A women who is holding a small child and a bowl of some fruit.",
+        "condition": "Number of people.",
+        "answer1": "1",
+        "answer2": "A women, small child",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "Two plates of food a sandwich with French fries and sandwich with a salad.",
+        "sentence2": "A white plate topped with a cut in half sandwich next to chips and veggies.",
+        "condition": "The type of food.",
+        "answer1": "sandwich, French fries, salad",
+        "answer2": "Sandwich, chips, veggies",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "Two plates of food a sandwich with French fries and sandwich with a salad.",
+        "sentence2": "A white plate topped with a cut in half sandwich next to chips and veggies.",
+        "condition": "The quantity of food.",
+        "answer1": "Unknown",
+        "answer2": "unknown",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A couple of carrots sitting on a cutting board next to an apple and other vegetables.",
+        "sentence2": "A bunch of vegetables are piled on a sink next to a knife holder.",
+        "condition": "The arrangement of food.",
+        "answer1": "carrots, cutting board, apple, vegetables",
+        "answer2": "vegetables",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A girl in a pink snow suit is on a small hill on skis.",
+        "sentence2": "An older woman standing on a snowy surface wearing skis, holding ski poles and looking timid.",
+        "condition": "The gender of the person.",
+        "answer1": "girl",
+        "answer2": "woman",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A girl in a pink snow suit is on a small hill on skis.",
+        "sentence2": "An older woman standing on a snowy surface wearing skis, holding ski poles and looking timid.",
+        "condition": "The type of the wearing.",
+        "answer1": "pink snow suit",
+        "answer2": "ski boots",
+        "common_score": "one",
+        "common_difficulty": "hard",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "A mattress used as a coffee table in the middle of a living room.",
+        "sentence2": "This sunny bedroom features  dark wood furniture and a bedspread with bold geometric design",
+        "condition": "General location of the furniture.",
+        "answer1": "living room",
+        "answer2": "dark wood furniture",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A mattress used as a coffee table in the middle of a living room.",
+        "sentence2": "This sunny bedroom features  dark wood furniture and a bedspread with bold geometric design",
+        "condition": "Specific areas of the home.",
+        "answer1": "living room",
+        "answer2": "Unknown",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "A picture taken of the nose of an airplane which is sitting on a runway.",
+        "sentence2": "A plane parked in front of a yellow line with people leaving the plane.",
+        "condition": "The type of vehicle.",
+        "answer1": "airplane",
+        "answer2": "plane",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A piece of pizza sitting on a plastic plate with a lot of different toppings on it.",
+        "sentence2": "A slice of pizza and a fork sit on a tray covered in wax paper.",
+        "condition": "The type of food.",
+        "answer1": "pizza",
+        "answer2": "pizza",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A piece of pizza sitting on a plastic plate with a lot of different toppings on it.",
+        "sentence2": "A slice of pizza and a fork sit on a tray covered in wax paper.",
+        "condition": "The material under the pizza.",
+        "answer1": "plastic plate",
+        "answer2": "wax paper",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A bus with a woman on the side and back of hit going down the road beside other vehicles.",
+        "sentence2": "A long blue city bus parked at a bus stop next to a tall building.",
+        "condition": "Number of vehicles.",
+        "answer1": "Unknown",
+        "answer2": "One, bus",
+        "common_score": "one",
+        "common_difficulty": "hard",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "A bus with a woman on the side and back of hit going down the road beside other vehicles.",
+        "sentence2": "A long blue city bus parked at a bus stop next to a tall building.",
+        "condition": "Type of vehicle.",
+        "answer1": "bus, vehicles",
+        "answer2": "bus",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "a dual shot featuring a bathroom containing a toilet, a sink, and a shower. ",
+        "sentence2": "Part of a living room with a mirror sitting on a mantel over an unused fireplace.",
+        "condition": "The type of room.",
+        "answer1": "bathroom",
+        "answer2": "Living room",
+        "common_score": "five",
+        "common_difficulty": "hard",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A messy kitchen with a table, stove, open cabinet doors and books on the table.",
+        "sentence2": "View of a kitchen and computer with a sheet of plywood on the back of a counter.",
+        "condition": "The room's state.",
+        "answer1": "messy",
+        "answer2": "unknown",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "no"
+    }
+]

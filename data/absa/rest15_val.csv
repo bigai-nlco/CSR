@@ -1,0 +1,242 @@
+text,condition,label,score
+the food is a diamond in rough -- the food is delicious and homemade with the perfect balance of herbs and tomatoes .,balance of herbs and tomatoes,Positive,2
+"i 've been to sapphire twice and both times the food was fine , if not good .",food,Positive,2
+"the decor is vibrant and eye - pleasing with several semi - private boths on the right side of the dining hall , which are great for a date .",decor,Positive,2
+"once you step into cosette , you 're miraculously in a small , off - the - beaten path parisian bistro .",cosette,Positive,2
+it is one the nicest outdoor restaurants i have ever seen in ny -- i am from italy and this place rivals the ones in my country .,outdoor restaurants,Positive,2
+the yellowtail was particularly good as well .,yellowtail,Positive,2
+food is great .,food,Positive,2
+suan is a great place that i often take my friends ( classmates ) too .,suan,Positive,2
+awsome pizza especially the margheritta slice .,pizza,Positive,2
+i highly recommend the restaurant based on our experience last night .,restaurant,Positive,2
+"it was the first place we ate on our first trip to new york , and it will be the last place we stop as we head out of town on our next trip to new york .",place,Positive,2
+the sake menu should not be overlooked !,sake menu,Positive,2
+"we concluded with tiramisu chocolate cake , both were delicious .",tiramisu chocolate cake,Positive,2
+"i like the somosas , chai , and the chole , but the dhosas and dhal were kinda dissapointing .",chai,Positive,2
+i would highly recommand requesting a table by the window .,table by the window,Positive,2
+fish was overdone .,fish,Negative,0
+the pizza was delivered cold and the cheese was n't even fully melted !,cheese,Negative,0
+"you can get a completely delish martini in a glass ( that 's about 2 1/2 drinks ) for $ 8.50 ( i recommend the vanilla shanty , mmmm ! ) in a great homey setting with great music .",martini,Positive,2
+chennai garden is my favorite indian restaurant in the city .,chennai garden,Positive,2
+"the food arrived 20 minutes after i called , cold and soggy .",food,Negative,0
+we had the lobster sandwich and it was fantastic .,lobster sandwich,Positive,2
+try their chef 's specials -- they are to die for .,chef 's specials,Positive,2
+the food was bland oily .,food,Negative,0
+"i found the food to be outstanding , particulary the salmon dish i had .",salmon dish,Positive,2
+"over the years the host , vittorio , and his crew , have always treated me as family -- although with all the business this not - so - little gem does , it amazing he 's even able to remember a consistent but not - so - frequent visitor .",host,Positive,2
+"however , if you want great food at a great price and do n't mind the decor , you ca n't beat this place .",decor,Neutral,1
+the place is a lot of fun .,place,Positive,2
+i had the best ravioli ever .,ravioli,Positive,2
+"limited menu , no - so - fresh ingredients , thinly - sliced fish , fall - apart rice .",menu,Negative,0
+my girlfriend and i stumbled onto this hopping place the other night and had a great time !,place,Positive,2
+"do n't dine at tamarind for the vegetarian dishes , they are simply not up to par with the non - veg selections .",vegetarian dishes,Negative,0
+"the service is excellent , the decor is great , and the food is delicious and comes in large portions .",decor,Positive,2
+"the bagels always warm , soft on the inside , crispy on the outside and enormous in size .",bagels,Positive,2
+"they have it all -- great price , food , and service .",food,Positive,2
+the mussels were fantastic and so was the dessert ... definitely going to be back very soon .,mussels,Positive,2
+our food was great too !,food,Positive,2
+we were 4 and got the family size penne a la vodka which was tremendously gigantic portion ... a bucket of food literally .,penne a la vodka,Positive,2
+the service was excellent and the food was delicious .,food,Positive,2
+"it 's boring on the inside , and our sushi was pretty below average ... the tuna was soggy and the other rolls had no flavor .",tuna,Negative,0
+our family never expected such incredible entertainment in a restaurant .,entertainment,Positive,2
+if you like spicy food get the chicken vindaloo .,chicken vindaloo,Positive,2
+but the staff was so horrible to us .,staff,Negative,0
+the service is good and ambience is good for a date or group outing .,ambience,Positive,2
+delicious simple food in nice outdoor atmosphere .,outdoor atmosphere,Positive,2
+mermaid inn is an overall good restaurant with really good seafood .,seafood,Positive,2
+we took advanatage of the half price sushi deal on saturday so it was well worth it .,half price sushi deal,Positive,2
+the dining room is quietly elegant with no music to shout over -- how refreshing !,dining room,Positive,2
+"the freshest , best variety , and the fastest delivery .",delivery,Positive,2
+"the food was delicious ( i had a halibut special , my husband had steak ) , and the service was top - notch .",halibut special,Positive,2
+"the food is very average ... the thai fusion stuff is a bit too sweet , every thing they serve is too sweet here .",food,Negative,0
+this place has got to be the best japanese restaurant in the new york area .,place,Positive,2
+"limited menu , no - so - fresh ingredients , thinly - sliced fish , fall - apart rice .",fish,Negative,0
+"food is usually very good , though ocasionally i wondered about freshmess of raw vegatables in side orders .",food,Positive,2
+it 's a small cute restaurant .,restaurant,Positive,2
+enjoyed a very nice caesar salad while my wife had arugula and goat cheese .... both very tasty .,arugula and goat cheese,Positive,2
+sauce was watery and the food did n't have much flavor .,food,Negative,0
+"but the best part about ls is the late night atmosphere , delightfully free of the bts .",late night atmosphere,Positive,2
+"the ambience was nice , but service was n't so great .",ambience,Positive,2
+but that was n't the icing on the cake : a tiramisu that resembled nothing i have ever had .,tiramisu,Negative,0
+the food is tasty and portion sizes are appropriate .,food,Positive,2
+i will be out with friends and all of a sudden i am hungry and i only crave one thing ... their pizza .,pizza,Positive,2
+"leon is an east village gem : casual but hip , with well prepared basic french bistro fare , good specials , a warm and lively atmosphere .",french bistro fare,Positive,2
+"nice atmosphere , the service was very pleasant and the desert was good .",service,Positive,2
+"this is some really good , inexpensive sushi .",sushi,Positive,2
+patroon features a nice cigar bar and has great staff .,staff,Positive,2
+the tuna and wasabe potatoes are excellent .,tuna,Positive,2
+truly the mark of an attentive waiter .,waiter,Positive,2
+"a cool bar with great food , and tons of excellent beer .",food,Positive,2
+"the service is excellent , the decor is great , and the food is delicious and comes in large portions .",portions,Positive,2
+the food was well prepared and the service impecable .,food,Positive,2
+i got an excellent piece of cheesecake and we had several other nice pastries .,pastries,Positive,2
+the fish was not fresh and the rice tasted old and stale .,rice,Negative,0
+"the staff was accomodating , the food was absolutely delicious and the place is lovely .",place,Positive,2
+"over the years the host , vittorio , and his crew , have always treated me as family -- although with all the business this not - so - little gem does , it amazing he 's even able to remember a consistent but not - so - frequent visitor .",crew,Positive,2
+great bagels made the old - fashioned way .,bagels,Positive,2
+"excellent atmosphere , delicious dishes good and friendly service .",service,Positive,2
+haru on park s is simply disgusting .,haru on park s,Negative,0
+"$ 6 and there is much tasty food , all of it fresh and continually refilled .",food,Positive,2
+mizu is home to creative and unique rolls not to found anywhere else .,rolls,Positive,2
+i also recommend the rice dishes or the different varieties of congee ( rice porridge ) .,rice dishes,Positive,2
+"the seafood is amazing , there 's a good wine list , and the ever - changing menu always offers some great surprises .",menu,Positive,2
+"the food here is rather good , but only if you like to wait for it .",food,Positive,2
+"we are very particular about sushi and were both please with every choice which included : ceviche mix ( special ) , crab dumplings , assorted sashimi , sushi and rolls , two types of sake , and the banana tempura .",banana tempura,Positive,2
+"while their kitchen food is delicious , their sushi is out of this world .",sushi,Positive,2
+food was good and the view of the new york city skiline was terrific even on a foggy rainy day like that of when i went .,view of the new york city skiline,Positive,2
+service is not what you are coming here for ...,service,Negative,0
+"on a recent sunday afternoon , a friend and i accidently found this great restaurant on our way to see the pulitzer prize winning play doubt .",restaurant,Positive,2
+"skip this restaurant , it 's a big disappointment .",restaurant,Negative,0
+"i 've also been amazed at all the new additions in the past few years : a new jazz bar , the most fantastic dining garden , the best thin crust pizzas , and now a lasagna menu which is to die for ( these are not your average lasagnas ) !",dining garden,Positive,2
+and yes dal bukhara is so dam good and so are all the kababs .,kababs,Positive,2
+"limited menu , no - so - fresh ingredients , thinly - sliced fish , fall - apart rice .",ingredients,Negative,0
+"love the scene first off- the place has a character and nice light to it .. very fortunate , location wise .",place,Positive,2
+kind of a small place but i guess if they are not too busy might be able to fit a group or kids .,place,Neutral,1
+i almost hesititate to write a review because the atmosphere was so great and i would hate for it too become to crowded .,atmosphere,Positive,2
+the rice was poor quality and was cooked so badly it was hard .,rice,Negative,0
+"great food , great decor , great service .",service,Positive,2
+the food was pretty tradional but it was hot and good with large portions .,food,Positive,2
+a restaurant that does n't try to do anything except serve great food with great service in a pleasant atmosphere .,food,Positive,2
+somehow working the italian charm with constant mille grazie does not constitute proper service .,service,Negative,0
+the fish was not fresh and the rice tasted old and stale .,fish,Negative,0
+you can not go wrong with this place .,place,Positive,2
+"the tables are crammed way too close , the menu is typical of any italian restaurant , and the wine list is simply overpriced .",menu,Neutral,1
+we ordered some beef and noodle soup dishes from the thai section of the menu but nothing we got was thai .,beef and noodle soup dishes,Negative,0
+the menu is very limited - i think we counted 4 or 5 entrees .,menu,Negative,0
+"pizza - the only pizza in nyc that should not have additional toppings - the crust tastes like the best , freshly baked bread !",crust,Positive,2
+the outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful .,outdoor atmosphere,Positive,2
+the service is good and ambience is good for a date or group outing .,service,Positive,2
+"in an area sadly lacking in decent thai food , this is one of the best spots .",thai food,Positive,2
+baluchi 's has solid food and a nice decor at reasonable prices .,baluchi 's,Positive,2
+"yes , they use fancy ingredients , but even fancy ingredients do n't make for good pizza unless someone knows how to get the crust right .",pizza,Negative,0
+the menu is limited but almost all of the dishes are excellent .,menu,Negative,0
+the pizza is yummy and i like the atmoshpere .,pizza,Positive,2
+the service is awful .,service,Negative,0
+the bar is very well stocked with interesting beers and well priced wines .,bar,Positive,2
+myagi is one of my favorite restaurants in the city ; the place the negative reviews describe sound like they were somewhere else .,myagi,Positive,2
+"bagels are ok , but be sure not to make any special requests !",bagels,Neutral,1
+one of us actually liked the expresso - that 's it .,expresso,Positive,2
+"the quantity is also very good , you will come out satisfied .",quantity,Positive,2
+delivery is fast too .,delivery,Positive,2
+"took my mom for mother 's day , and the maitre d ' was pretty rude .",maitre d ',Negative,0
+"we are very particular about sushi and were both please with every choice which included : ceviche mix ( special ) , crab dumplings , assorted sashimi , sushi and rolls , two types of sake , and the banana tempura .",rolls,Positive,2
+i can not imagine better indian food in all of the city .,indian food,Positive,2
+i 'm not sure where the other reviewers ate but it seems as if we visited two different restaurants because my friends and i all enjoy mizu very much ... and we 're repeat customers .,mizu,Positive,2
+the pizza and wine were excellent - the service too -- but what really made this place was the backyard dining area .,backyard dining area,Positive,2
+"while the ambiance and atmosphere were great , the food and service could have been a lot better .",ambiance,Positive,2
+mine was a little burnt but still delicious with goat cheese and panchetta ( raddichio was kind of bitter though ) .,raddichio,Negative,0
+this place is always very crowded and popular .,place,Positive,2
+"despite a slightly limited menu , everything prepared is done to perfection , ultra fresh and a work of food art .",menu,Negative,0
+drawbacks : service is slow and they do n't toast !,service,Negative,0
+i fell in love with the egg noodles in the beef broth with shrimp dumplings and slices of bbq roast pork .,egg noodles in the beef broth with shrimp dumplings and slices of bbq roast pork,Positive,2
+"this place , which is only a few months old , is perhaps queens ' biggest secret !",place,Positive,2
+"as a retired hipster , i can say with some degree of certainty that for the last year lucky strike has been the best laid - back late night in the city .",lucky strike,Positive,2
+the food was mediocre at best but it was the horrible service that made me vow never to go back .,service,Negative,0
+"try the pad thai , it 's fabulous and their prices are so cheap !",pad thai,Positive,2
+"the food is good , i ca n't lie .",food,Positive,2
+"other guests enjoyed pizza , santa fe chopped salad and fish and chips .",fish and chips,Positive,2
+"the anti - pasta was excellent , especially the calamari , as were the filling pasta mains .",anti - pasta,Positive,2
+"have eaten at ginger house several times , and it 's always good .",ginger house,Positive,2
+the restaurant is a bit noisy but that is something that can be overlooked once you sit down and enjoy a great meal,meal,Positive,2
+"there was a small wait , but shorter than i expected .",wait,Positive,2
+"the atmosphere is unheralded , the service impecible , and the food magnificant .",atmosphere,Positive,2
+try sushimi cucumber roll .,sushimi cucumber roll,Positive,2
+this was my frist time at cafe st. bart 's and i must say how delicous the food and the service was .,service,Positive,2
+"planet thailand has always been a hit with me , i go there usually for the sushi , which is great , the thai food is excellent too .",sushi,Positive,2
+"admittedly some nights inside the restaurant were rather warm , but the open kitchen is part of the charm .",open kitchen,Positive,2
+"i highly recommend cafe st. bart 's for their food , the ambience and wonderful service .",food,Positive,2
+"their bagels are fine , but they are a little overcooked , and not really a ' special ' bagel experience .",bagels,Negative,0
+"the whole set up is truly unprofessional and i wish cafe noir would get some good staff , because despite the current one this is a great place .",cafe noir,Positive,2
+i loved everythig about it - especially the shows and actors .,shows,Positive,2
+the waiter was attentive .,waiter,Positive,2
+winnie and her staff are the best crew you can find serving you .,staff,Positive,2
+the portions are small but being that the food was so good makes up for that .,portions,Negative,0
+an excellent service,service,Positive,2
+"great wine selection , gigondas is worth the price , and the house champagne is a great value .",gigondas,Positive,2
+"still , any quibbles about the bill were off - set by the pour - your - own measures of liquers which were courtesey of the house ...",measures of liquers,Positive,2
+"service was slow , but the people were friendly .",service,Negative,0
+"i also ordered the change mojito , which was out of this world .",change mojito,Positive,2
+"looking around , i saw a room full of new yorkers enjoying a real meal in a real restaurant , not a clubhouse of the fabulous trying to be seen .",restaurant,Positive,2
+"great food , great prices , great service .",service,Positive,2
+"admittedly some nights inside the restaurant were rather warm , but the open kitchen is part of the charm .",restaurant,Negative,0
+service was good and food is wonderful .,service,Positive,2
+i started out with a bombay beer which was big enough for two .,bombay beer,Positive,2
+the hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed .,hanger steak,Negative,0
+good drink .,drink,Positive,2
+"the only things u could really taste are the very salty soy sauce ( even its low sodium ) , the vinegar - soaked rice , and the scallion on top of the fish .",soy sauce,Negative,0
+the place 's decor and hidden bathrooms made for a good laugh .,decor,Positive,2
+warning : you may find it difficult to dine at other japanese restaurants after a visit to mizu !,mizu,Positive,2
+i 'd highly recommend it for a special occasion -- it provides and intimate setting and nice service .,setting,Positive,2
+"the food was not fresh , the sauces were bland and very oily .",sauces,Negative,0
+"with the exception of our lemon salad that had so much pepper on it that our eyes started watering , the food here was decent , not great .",lemon salad,Negative,0
+the soup for the udon was soy sauce and water .,soup for the udon,Negative,0
+"the restaurant has a family feel , not least with regard to the portions which are enormous ; the veal alone could have single - handedly solved third world famine .",portions,Positive,2
+"terrible , terrible management - deserves to be shut - down .",management,Negative,0
+this is a nice restaurant if you are looking for a good place to host an intimate dinner meeting with business associates .,restaurant,Positive,2
+be sure not to get anything other than bagels ! ..,bagels,Positive,2
+"the signs , the specials menus , food , and even all the waitstaff are all totally japanese .",waitstaff,Positive,2
+she was very helpful in suggesting us drinks and helped us in ordering a lot of good dishes since we knew nothing about indian food .,dishes,Positive,2
+"good spreads , great beverage selections and bagels really tasty .",beverage selections,Positive,2
+"the spicy tuna roll was unusually good and the rock shrimp tempura was awesome , great appetizer to share !",spicy tuna roll,Positive,2
+service was prompt and courteous .,service,Positive,2
+"for authentic thai food , look no further than toons .",thai food,Positive,2
+right off the l in brooklyn this is a nice cozy place with good pizza .,place,Positive,2
+"the food is amazing , rich pastas and fresh doughy pizza .",pizza,Positive,2
+fine dining restaurant quality .,dining,Positive,2
+you must try the shrimp appetizers .,shrimp appetizers,Positive,2
+excellent spot for holiday get togethers with co - workers or friends that you have n't seen in a while .,spot,Positive,2
+"the porcini mushroom pasta special was tasteless , so was the seafood tagliatelle .",porcini mushroom pasta special,Negative,0
+best pastrami i ever had and great portion without being ridiculous .,pastrami,Positive,2
+"i recommend the jelly fish , drunken chicken and the soupy dumplings , certainly the stir fry blue crab .",stir fry blue crab,Positive,2
+try the lobster teriyaki and the rose special roll .,rose special roll,Positive,2
+service was also horrible and the ambience is not that great .,service,Negative,0
+"cute place , nice wait staff but would never go there again .",wait staff,Positive,2
+"service , however , was excellent ... and i liked the setting / atmosphere a lot .",setting / atmosphere,Positive,2
+( always ask the bartender for the seasonal beer ! ! !,seasonal beer,Positive,2
+we had a great time at the jekyll and hyde pub last night .,jekyll and hyde pub,Positive,2
+baluchi 's has solid food and a nice decor at reasonable prices .,decor,Positive,2
+"the chicken pot pie is excpetiona , the cheeseburger huge and delictable , and the service professional wan warm .",chicken pot pie,Positive,2
+service was slow had to wait to order and get food although not crowded .,service,Negative,0
+i am relatively new to the area and tried pick a bgel on 2nd and was disappointed with the service and i thought the food was overated and on the pricey side .,food,Negative,0
+love the atmosphere - felt like i was in paris .,atmosphere,Positive,2
+"great food , great decor , great service .",decor,Positive,2
+i was very disappointed with this restaurant .,restaurant,Negative,0
+"the food is delicious - from the specials to the regular menu - fare , the dishes are never a disappointment .",dishes,Positive,2
+"this place is pricey , and yes , the food is worth it ; but the service makes you feel like you should be paying a quater of the price .",food,Positive,2
+"a cool bar with great food , and tons of excellent beer .",beer,Positive,2
+"i like the somosas , chai , and the chole , but the dhosas and dhal were kinda dissapointing .",chole,Positive,2
+"if you do n't mind pre - sliced low quality fish , unfriendly staff and a sushi chef that looks like he is miserable then this is your place .",staff,Negative,0
+"the kitchen however , is almost always slow .",kitchen,Negative,0
+"the pad se ew chicken was delicious , however the pad thai was far too oily .",pad se ew chicken,Positive,2
+"( the asparagus , truffle oil , parmesan bruschetta is a winner ! )","asparagus , truffle oil , parmesan bruschetta",Positive,2
+it 's the only place you can get yummy authentic japanese comfort food .,japanese comfort food,Positive,2
+"stick with the chicken , beef , and lamb dishes .",lamb dishes,Positive,2
+the wine the service was very good too .,wine,Positive,2
+"whether it 's the parmesean porcini souffle or the lamb glazed with balsamic vinegar , you will surely be transported to northern italy with one bite .",lamb glazed with balsamic vinegar,Positive,2
+"the pesto pizza was excellent , thin - crust pizza with a nice amount of spicy italian cheese that i 'd never heard of before .",spicy italian cheese,Positive,2
+delicious crab cakes too .,crab cakes,Positive,2
+food is excellent .,food,Positive,2
+"although the tables may be closely situated , the candle - light , food - quality and service overcompensate .",tables,Negative,0
+"great vibe , lots of people .",vibe,Positive,2
+even the wine by the glass was good .,wine by the glass,Positive,2
+"the pad se ew chicken was delicious , however the pad thai was far too oily .",pad thai,Negative,0
+"the decor in this place is very diner - ish and the kind of place you expect in the east village - not romantic , just simple , small and sparse .",decor,Neutral,1
+"a few tips : skip the turnip cake , roast pork buns and egg custards .",roast pork buns,Negative,0
+salads were fantastic .,salads,Positive,2
+go to volare for 1st class service and terrific food .,food,Positive,2
+"best of all is the warm vibe , the owner is super friendly and service is fast .",service,Positive,2
+my boyfriend had the new england chowder it was good but i think the award should go to the lobster bisque .,lobster bisque,Positive,2
+"in any event , this is a place i 'll be sure to stop by again when i 'm in this part of town .",place,Positive,2
+"the svc can be a bit rude at times , esp if you have big group , but overall the restaurant is a must !",restaurant,Positive,2
+this restaurant was way overhyped .,restaurant,Negative,0
+pizza here is consistently good .,pizza,Positive,2
+"the wait here is long for dim sum , but if you do n't like sharing tables or if the typical raucous dim sum atmosphere is not your gig , this is a sleek ( for chinatown ) alternative .",atmosphere,Negative,0
+and the tom kha soup was pathetic .,tom kha soup,Negative,0
+"i like the ambience , it 's very dark and original .",ambience,Positive,2
+"service here was great , food was fantastic .",food,Positive,2
+this place is always packed .,place,Neutral,1
+i think i 've had some the best meals of my life at minnow .,meals,Positive,2
+"if we were to move from the upper east side , we would genuinely miss this restaurant .",restaurant,Positive,2
+"i like cafe noir do nt get me wrong , it is jsut that the people who work there are evil and incompetent ! !",cafe noir,Positive,2
+"sometimes i get bad food and bad service , sometimes i get good good and bad service.",service,Negative,0
+this place is great .,place,Positive,2

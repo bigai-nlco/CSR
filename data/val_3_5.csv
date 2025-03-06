@@ -1,0 +1,2846 @@
+index,answer1,answer2,condition,label
+0,One,One,The number of person.,5
+1,Food preparation,Cuisine.,The type of work.,2
+2,Restroom,Public restroom.,The room's function.,2
+3,On floor,Beside commode.,The location of trash.,1
+4,Sophisticated.,Socializing.,The people's demeanor.,5
+5,One bottle,Multiple,The number of bottles.,1
+6,Computer,Laptop,The name of the device.,3
+7,Monkey,No animal mentioned.,The name of the animal.,3
+8,Mixed meal,Sandwich with coleslaw,The type of meal.,3
+9,Four items,Half a sandwich with coleslaw,The quantity of food.,2
+10,Boat,Ship,The type of conveyance.,5
+11,Lake,Bay,The body of water type.,4
+12,One,One,The number of people.,5
+13,Skateboarding,Skateboarding,The sport.,2
+14,Orange,Gray,The color of the dress.,5
+15,Tennis,Tennis,The name of the game.,4
+16,Pizza,Pizza,The name of the food.,4
+17,Food and utensil,Pizza with half and half toppings,The type of items.,3
+18,Giraffe,Giraffe,The type of animal.,5
+19,Resting,Stretching up.,The animal's posture.,2
+20,Single person,One person.,The number of people in the room.,5
+21,Living room,Bedroom,The room type.,2
+22,Aging fire hydrant.,Accessible,The fire hydrant.,2
+23,Not applicable.,N/A,The number of people.,2
+24,Female,Two players.,The number of the player.,3
+25,Tennis,Tennis,The name of the game`.,2
+26,Two people,Unknown,The number of people.,5
+27,Work or Personal Use,Input device.,The object's function.,3
+28,Main Course,Appetizer,The type of meal.,5
+29,Mixed meal.,on a blue paisley plate,The variety of food.,5
+30,Surfing,Surfing,The sport.,4
+31,Black and White,Blue,The color of object.,1
+32,Cycling,Biking,The sport.,4
+33,Reflection,Blue,The color of object.,2
+34,Bed,Bed,The type of furniture.,4
+35,Foot kicking,Still,The movement of the child.,3
+36,Beach frisbee.,Surfing,The activity of people.,2
+37,One person.,One person.,The number of people.,1
+38,Horse.,Horses.,The type of animal.,5
+39,One horse,Two horses,The number of horses.,1
+40,Breakfast sandwich with croissant and diced potatoes,Meat dish,The type of food.,4
+41,"Croissant sandwich with egg, cheese, and diced potatoes",Hamburger with meat & ketchup,The food with plate.,2
+42,Futuristic design,Entertainment setup,The living room.,5
+43,Modern design,Viewing TV,The different activity.,1
+44,Dessert,Dessert plate,The name of things.,4
+45,One.,Three.,The number of thing.,2
+46,"""Kitchen Items"".",Kitchen items,The name of the things.,2
+47,Kitchen,Kitchen counter,The name of the object.,2
+48,Red,Brown,The color of animal.,3
+49,cow and calf,Horse,The animal.,3
+50,Zebra,Zebras,The type of animal.,5
+51,zebra rolling,Behavior.,The animal's attention.,5
+52,Multiple boats,Two,The number of boats.,3
+53,Float plane,Boats,The mode of transportation.,1
+54,One,One,The number of people.,4
+55,Birds,Bird,The animal.,3
+56,Standard Room,Bedroom,The type of room.,4
+57,Stone walls,Red print.,The material of the walls.,2
+58,Bedroom.,Bedroom,The room type.,5
+59,Three objects.,Five,The number of objects.,1
+60,Beach,Beach,Location.,4
+61,Zero,Three,Number of people.,1
+62,Furniture,House Interior,The name of the object.,3
+63,Furnishing.,Observation.,The name of the action.,3
+64,Oak.,Coffee table,The table.,1
+65,Next to dining room,Living Room,The kitchen.,1
+66,Elephant,Elephant,The name of the animal.,5
+67,One person.,2 people,The number of people.,4
+68,Cats,Unconventional.,The animal.,5
+69,2 cats,One,The number of animal.,5
+70,Fully furnished,Modern and stylish.,The kitchen.,5
+71,Kitchen,Kitchen,The place.,3
+72,Surfing,Surfing,The sport.,5
+73,Blue,Surfboard.,The color of object.,2
+74,Glass table,Cabinet,The name of the object.,4
+75,Modern Kitchen,Kitchen,The name of the place.,4
+76,Tennis,Tennis,The activity.,2
+77,Tennis racket,A sports equipment.,The racket.,1
+78,Brown,Brown,The color of object.,4
+79,Bench,Bench.,The object.,4
+80,Train,Train,The type of vehicle.,5
+81,Many,Two.,The number of vehicles.,1
+82,Downtown,Busy Downtown Crosswalk,The location of the scenery.,3
+83,Bus and traffic light,Traffic,The vehicles in sight.,3
+84,Ski racing,Skiing.,The name of the game.,3
+85,Ski racing,Alpine skiing.,The type of play.,3
+86,Snow.,Snow,The snow.,3
+87,Skiing,Snowboarding,The actvity.,3
+88,Field,Livestock grazing,The grazes field.,2
+89,Sunshine and grazing.,Animal grazing,The activity.,2
+90,Female.,Female,The gender.,5
+91,Swinging tennis racket.,Tennis swing,The physical motion.,4
+92,Neutral tones.,Pea green,The color of room.,2
+93,Disorganized office,Furnished room,The room with products.,1
+94,Net,Net,The presence of a net.,5
+95,Two,Two men.,The number of men.,5
+96,Elephants,Elephants,The animal.,5
+97,Elephants walking.,Elephant water exchange.,The physical actions.,1
+98,Sitting,In front of the sink,The position of the man.,4
+99,Yes.,Toilet,There is a toilet in the room.,3
+100,No Parking,Symbolism,The name of the action.,4
+101,2 signs,One grasshopper,The number of object.,3
+102,Small,Small,The size of animal.,3
+103,Dog,Cat,The animal.,1
+104,Cats,Cat,The animal.,5
+105,Indoors,On a chair,The location of the animal.,2
+106,Cooking breakfast,Food preparation,The activity of the place.,5
+107,No animal name is mentioned in the given sentence.,hot dogs,The name of the animal.,4
+108,Resting,Sitting,The activity of animal.,5
+109,Cat,Cat,The animal.,3
+110,Stopped,Entering,The vehicle's speed.,4
+111,Train,Train,The type of vehicle.,4
+112,Plaid Shirt Meal,Hotdog with onions,The name of the dish.,5
+113,Red and white plaid,Plaid Shirt,The name of the plaid shirt.,3
+114,Bedroom,Child's bedroom,The place.,4
+115,One,Two people,The number of people.,2
+116,Edible,Edible.,The edibility.,4
+117,Cheeseburger and drink,"Sandwich, pickles, hotdogs, fries",The foods.,2
+118,Motorcycles,Motorcycles,The vehicle type.,4
+119,Patriotic display.,Formation riding,The reason for riding.,2
+120,Boating,Docked boat.,The activity.,5
+121,Passenger boat,Red bench.,The boat.,4
+122,Chopped vegetables and ingredients,Food ingredients,The presence of food.,5
+123,Cutting board,Plate,The type of food container.,1
+124,One horse.,Two.,The number of animal.,4
+125,Horse,Crow,The animal.,2
+126,1 dish,One dish,The number of dish.,3
+127,Fried fish sandwich with potato chips and condiments.,Plate.,The plate.,3
+128,Empty with white appliances.,"Kitchen with cabinets, countertop, sink, refrigerator, stove, and small appliances.",The setting.,4
+129,Low-density,Kitchen items,The density of objects.,2
+130,Restroom,Restroom,The place.,5
+131,Four objects,Sinks,The number of object.,1
+132,Living Room,Living Room,Type of room.,2
+133,TV present,Entertainment,If a tv is present.,2
+134,Street regulations,Traffic signal,The type of signal.,3
+135,Traffic regulations,All-way,The type of stop.,2
+136,Luggage,Suitcase,The name of the object.,5
+137,Travel or Photograph.,Traveling,The activity of the place.,3
+138,Messy Kitchen,Cooking area.,The kitchen.,2
+139,Green.,Multiple,The color of object.,1
+140,Many.,Unknown,The number of people observed.,4
+141,Urban intersection.,City street,The setting.,2
+142,Kitchen,Kitchen,The place kitchen.,2
+143,Kitchen items.,Cookware.,The poducts of kitchen room.,2
+144,Laptop,Furniture.,The name of the object.,3
+145,One,Three,The number of person.,1
+146,Black,White,The color of counter.,4
+147,Body oils,Toiletries,The personal care items.,3
+148,Two individuals,Two people,The number of people.,3
+149,Tennis,Tennis,The sport.,2
+150,No parking restrictions,Intersection.,The place.,5
+151,Parking and stopping restrictions,Traffic signage,The sign.,4
+152,Mealtime.,Morning,The time of day.,4
+153,Tray,Plate,The surface.,3
+154,Elderly,Ancient,The structure's age.,4
+155,Decoration,Boundary Marker,The structure's function.,4
+156,Brown,Brown,Color of the bear.,4
+157,Riverscape,Grassland,Type of landscape.,1
+158,Red stand out,Halt,The name of actions.,5
+159,Red,Not mentioned,The color of the car.,2
+160,Video walls.,Wii Controller,The name of the device.,3
+161,Video games.,Video gaming,The type of play.,2
+162,Skiing instructor.,Skiing,The type of job.,5
+163,Two,One,The number of person.,1
+164,Mets,Player Number,The number of the player.,5
+165,Swing.,Pitching,The name of the action.,2
+166,Sitting,Busy,The speed of the people.,5
+167,One table.,Many tables,The amount of tables.,4
+168,Batting,Playing baseball,The action of a person.,3
+169,Batter,Baseball Player,The person playing game.,3
+170,One,One,The number of people.,5
+171,Pizza,Pizza,The food.,4
+172,Furniture,Bed,The furniture.,4
+173,Furniture in a hotel room.,Bed with white bedding,The objects.,4
+174,Pizza,Pizza,The dish.,5
+175,Small,Small,The size of dish.,4
+176,Observation.,Urban intersection,The action of that place.,4
+177,Building.,Seymour Street,The name of the place.,3
+178,Overcast,Few clouds,How cloudy.,3
+179,Prominent Clock,Clock Tower,Presence of clock.,3
+180,Male,Male,The sex of the player.,2
+181,Fallen,Skateboarding.,The speed of the player.,2
+182,Bathroom,Bathroom,The type of room.,5
+183,Three items,Two objects,The number of objects.,3
+184,Navy Blue.,Bright Red,The color of the jacket.,4
+185,Business attire,Clothing.,The objects are same.,4
+186,Meal variety,Dining/setup.,The purpose of the object's gathered.,2
+187,No beverages.,Four drinks,The number of beverages.,1
+188,Cozy bedroom,Cluttered bedroom,The bedroom setting.,5
+189,Occupied,Occupied,The occupancy of the bed.,1
+190,Beach relaxation,Beach lounging,The activity of people.,4
+191,Beach chair,Orange,The color of object.,3
+192,1,Two people,The number of persons.,4
+193,Dangerous skiing,Sledding,The actions are same.,1
+194,Illuminated clock,Clock,The object is clock.,4
+195,Illuminated,Large,The size of clock.,4
+196,Pastries,Donuts.,The all are food.,4
+197,arranged in a circle,Two donuts,The plate.,3
+198,Cat,Cat,The type of animal.,2
+199,White and gray.,Two colors.,The color of the animal.,1
+200,Unknown,One.,The number of the person.,4
+201,Mirror,Cat.,The name of the object.,2
+202,Reflective,Mirror Image,The reflective quality of the object.,4
+203,Laptop,Laptop,The electronic object.,3
+204,Cat,Cat,The name of the animal.,4
+205,Color: Not mentioned.,Black and white,The color of the cat.,2
+206,Potatoes,Tabletop décor.,The dish.,4
+207,Three dishes,Many dishes.,The number of dish.,2
+208,Beach,Beach,The type of location.,4
+209,Kite flying.,Surfing,The type of hobby.,2
+210,Elephant,Elephants,The type of animal.,4
+211,3 elephants,Two,The number of animals.,2
+212,Child,No Name Given,The name of the person.,2
+213,Eating.,Eating,The activity of the person.,2
+214,Two people,Many.,The number of people.,3
+215,Ocean shore,Sea,The location.,2
+216,"Sandwiches, olive, potato salad, tomato","Meat, tomato, and other ingredients.",The ingredients in the meal.,4
+217,Sandwiches,Sandwich,The main course of the meal.,3
+218,Restaurant,Banquet Table,The type of location.,5
+219,Peace signs,Sitting,The motion of the people.,1
+220,Kitchen,Kitchen,The type of room.,5
+221,Missing,Two appliances,The number of appliances.,3
+222,Two people,One,The number of person.,3
+223,Sitting.,Resting,The name of the action.,2
+224,Four objects.,5 objects,The number of object.,5
+225,Paper,Workspace items,The object.,4
+226,Plane,Airplane,The name of the vehicle.,3
+227,Boarding.,Loading,The activity of the vehicle.,3
+228,Sheep.,Sheep and lamb,The animals graze here.,5
+229,Two sheep.,Many sheep,The overall number of sheep.,2
+230,Tennis,Tennis,The game played.,5
+231,One Player,Number of players: Not specified,The number of players.,2
+232,Two dishes,Two plates.,The number of dish.,4
+233,Mixed Bowl,Fruit and yogurt sandwich.,The name of the dish.,3
+234,Kitchen,Kitchen,The type of room.,4
+235,One sink.,4,The number of appliances.,2
+236,Living room,Sitting area,The room's function.,3
+237,Center of room,Wall art,The art's position.,3
+238,Neat and well-equipped,White bed.,How the bed looks.,3
+239,Bed & lamp,Bed and Nightstand.,The type of furniture.,2
+240,Hotdog sandwich with pickles.,Sandwich,The food.,4
+241,"Rye bread, pickles, hotdogs, french fries.",Jalapenos and various vegetables.,The ingredients.,3
+242,Trophy,Clock,The name of the object.,5
+243,Decorating with a theme or Western decor.,Timekeeping,The name of the activity.,5
+244,Cats,Cats,Type of animal.,5
+245,Animal Proximity,Close contact,Proximity of animals.,3
+246,Baseball,Baseball,The name of the game.,5
+247,Baseball field,Baseball field,The name of the place.,3
+248,Baseball field.,Baseball Game,The name of the place.,2
+249,2,Undefined,The number of the man.,1
+250,Skateboard,Skateboard,What item the man has.,5
+251,On skateboard.,Mid-air.,The relative location of the man to the floor.,4
+252,Hotdog,Hot dog,The dog with bun.,3
+253,Three,1,The number of dogs.,1
+254,Pastries.,Donuts,The type of food.,4
+255,3,Donut Tray,The number of food.,2
+256,Bathroom,Bathroom,Location.,5
+257,One.,Toilet,Number of toys.,1
+258,Bus,Truck,The name of the vehicle.,4
+259,Road,Miami,The name of the place.,2
+260,Baseball,Baseball,Type of sport.,4
+261,No presence of electronics.,Digital nomad,Presence of electronics.,4
+262,Blue,Blue.,The color of sky.,5
+263,Flying a kite,Kite flying.,The activity of people.,4
+264,Tennis,Tennis,The game being played.,4
+265,Preparation to strike,Dynamic.,The players body motion.,3
+266,One,One,The number of people.,5
+267,Stove cooking,Home cooking,The type of cooking.,4
+268,Pensive,Reflecting,The action of woman.,4
+269,One person,One,The number of person.,2
+270,Cake,Dessert plate.,The presence of food.,5
+271,Dessert.,Dessert.,The type of food.,1
+272,Vintage living room,Living Room,The type of area.,3
+273,Vintage decor with grand piano,Room with scattered items,The items in the area.,1
+274,Living room,Living Room,The type of room.,3
+275,Sofa,Chairs,The seating type.,2
+276,Drinks,Cold drink with ice,The drink.,5
+277,Dining table.,Restaurant,The place.,2
+278,Spacious,Compact,The room's size.,3
+279,Kitchen,Kitchen dining.,The type of room.,1
+280,Female,Female.,Gender of person.,5
+281,One person,Two,Number of people.,2
+282,Sandwiches,Sandwich with chips and veggies.,The type of food.,5
+283,Two plates,Plentiful,The quantity of food.,3
+284,Chopping.,Vegetable preparation,The type of preparation.,5
+285,Vegetable arrangement.,Vegetables on sink,The arrangement of food.,4
+286,Female,Female,The gender of the person.,4
+287,Pink snow suit,Ski attire,The type of the wearing.,4
+288,Living room,Dark Wood,General location of the furniture.,3
+289,Living room,Bedroom ambiance,Specific areas of the home.,2
+290,Zero,Multiple,The number of people.,2
+291,Airplane,Airplane,The type of vehicle.,2
+292,Pizza,Pizza,The type of food.,5
+293,Plastic plate,Wax paper,The material under the pizza.,2
+294,Several,One.,Number of vehicles.,5
+295,Bus,Bus,Type of vehicle.,2
+296,GPS location.,Indoor living room.,The gps location.,5
+297,bathroom,Living Room,The type of room.,1
+298,Kitchen,Kitchen,The room type.,5
+299,Cluttered,Under construction.,The room's state.,3
+300,Bear,Brown bear,The animal.,5
+301,Brown,Brown,The color of animal.,4
+302,"Plate with muffin, potatoes, fruit, juice",Blue plate and bowl,The dishware.,4
+303,Food plate.,Inedible,The edibility.,3
+304,Dessert,Cake,The type of food.,4
+305,Rainbow-colored,Yellow and blue,The food's color.,1
+306,Green,Colorful,The color of object.,5
+307,Skateboarding,Skateboarding,The sport.,5
+308,Electronic Devices,Laptop,The type of device.,4
+309,Several devices,One.,The number of device.,3
+310,Cats.,TV,The screen observed.,4
+311,Cat,Cat,The type of animal.,2
+312,Pizza,Pizza,The type of food.,3
+313,Half pie,Single,The size of the pizza.,3
+314,Living room,Living Room,The place.,5
+315,Open and spacious,Medium-sized.,The size of place.,2
+316,Baseball,Baseball,The sport being played.,5
+317,Baseball action.,Baseball Play,The play being made.,5
+318,Tennis racket.,racket,What the person is holding.,4
+319,Female,Male,Gender.,3
+320,Double Decker bus,Two vehicles,The number of the vehicle.,5
+321,Double decker bus,Double Decker,The name of the vehicle.,3
+322,Dessert.,Donut variations,The type of food being eaten.,4
+323,Two types,Multiple types,The amount of different types of donuts.,2
+324,Beach.,Water,The person's surroundings.,5
+325,Water,Boogie board,The surface stood on.,3
+326,Kitchen,Kitchen,The type of the room.,5
+327,Room décor.,Spacious,The the size of the room.,3
+328,Green grass,Forest.,The flora.,4
+329,Wildlife,Zebras,The fauna.,4
+330,Microwave,Refrigerator,The object.,4
+331,Two objects,One object.,The number of object.,3
+332,Plate with food.,Lunch set.,The name of the product.,3
+333,Three items,Two items,The number of product.,3
+334,Bathroom,Bathroom,The name of the place.,4
+335,Toilet chair,Bathroom,The name of the object.,1
+336,Bacon-glazed donut,Donuts,The name of the object.,5
+337,None,Two,The number of miniature donuts.,2
+338,Luggage,Luggage,The type of material.,4
+339,Three people.,1,The number of people.,2
+340,Tennis,Tennis,The type of sport.,4
+341,Focused,Celebration,The amount of focus.,2
+342,Group,1,The number of people.,2
+343,Flying above.,Flying,The kite.,2
+344,Living Room,Open concept living space,The name of the room.,2
+345,360-degree view,Interior View,The type of view.,1
+346,Pizza,Pizza.,The type of food.,4
+347,Many,Five.,The number of toppings.,3
+348,Donuts,Multiple plates,The plate.,5
+349,Sweets,Dessert.,The food.,3
+350,Meal accompaniments,Electronic Devices,If electronics are present.,4
+351,Food present,Food presence.,If food is present.,2
+352,Multiple,Two,The number of zebras.,4
+353,Zebras,Zebra,The type of animal.,2
+354,Reclining with Cats,"Bed with red sheet, laptop, covers",The presence of a bed.,5
+355,"Man in black shirt with cats.
+
+Summary: Man with cats.",Yes,The presence of a human.,2
+356,Shared toilets,Functional,The toilet.,5
+357,No separation.,Bathroom essentials,The separate.,4
+358,Zebra,Zebra,The name of the animal.,3
+359,Posing for a photo,Observing,The action of the animal.,2
+360,Laptop,Laptop.,The type of computer.,4
+361,Cat,Cat,The type of animal.,3
+362,Summarized Answer: N/A,White,The color of object.,5
+363,Living Room,Modern living room,The room.,4
+364,Clam Pizza,Pizza,The name of the dish.,5
+365,Clam pizza,Two plates.,The number of the dish.,2
+366,Two people.,Two,The number of people.,4
+367,Surfboard,Surfboard,The type of sporting equipment.,3
+368,City Highway.,Intersection.,Where the signs are located.,2
+369,Highway exit signs,Street Names,What the signs say.,2
+370,City Street.,Street Crossing Instructions.,The name of the place.,4
+371,Installing no parking signs.,Walking bikes,The activity of the person.,2
+372,Multitasking,Online work,The name of the activity.,3
+373,One,One,The number of person.,3
+374,Eating vegetables.,Eating banana,The activity of the baby.,3
+375,The baby's name is not provided.,Unnamed,The name of the baby.,2
+376,Burger bun,Bread.,The bread type.,5
+377,Plate with Burger,Plate,The type of dishware.,2
+378,Dish,Ham,Then name of the object.,4
+379,Restaurant,Kitchen,The name of the place.,2
+380,White,Canine,The color of the animal.,5
+381,Mixed,Girl,The gender of the persons.,5
+382,Yellow,Green,The color of fruit.,5
+383,Bananas,Bananas,The name of the fruit.,3
+384,Bathroom,Bathroom,Type of room.,3
+385,"Small, basic bathroom",Public,Type of bathroom.,2
+386,House undergoing construction,Residential.,The type of building.,4
+387,Incomplete,Incomplete,The state of completion.,2
+388,Skiing,Skiing,The means of transportation.,4
+389,Gun,Skiing gear.,The equipment carried.,1
+390,Airplane.,Bomber plane,The type of vehicle.,5
+391,Airport Tarmac.,Above clouds,The location of the plane.,1
+392,Street signs,Location,The type of objects.,4
+393,Manhattan,Brooklyn & Athol,The location.,1
+394,Faulty Light,Approaching,The train.,5
+395,Red.,Yellow,The color of train.,3
+396,Video game,Video game,The type of game being played.,2
+397,Two men,Two men.,The number of men.,2
+398,Cows,Holstein cow,The animal.,5
+399,Cows,Two animals,The number of animal.,1
+400,Baseball field,Home plate,The name of the place.,5
+401,Baseball,Baseball,The name of the game.,4
+402,Double-decker bus,Bus,The vehicle.,5
+403,Double-decker bus,Street-level.,The vehicle height.,1
+404,Cows,Cows,Type of animal.,5
+405,Cows,2 cows,Number of animals.,3
+406,Giraffe,Giraffe,The name of the animal.,4
+407,Kneeling,Distraction.,The name of the action.,3
+408,City maintenance.,Utility work.,The type of work.,4
+409,Yellow,White and blue,The color of object.,2
+410,3,Three,The number of players.,5
+411,Baseball,Baseball,The name of the sport.,5
+412,Kite flying conditions,Neon kites,The person explaining.,3
+413,Ideal weather,Recreation,The reason for flight.,3
+414,Living Room,Studio Apartment,The room type.,5
+415,Small,Wide screen TV,The size of tv.,3
+416,Cat,Cat,The type of animal.,5
+417,Bathroom Counter,Reflection,Where the animal is located.,1
+418,Horses.,Horse,The animal.,5
+419,No information provided.,Brown,The color of animal.,5
+420,Tiled,Disarray.,The floor.,5
+421,Bathroom,Bedroom,The type of room.,4
+422,Baseball,Baseball,The sport that is being played.,5
+423,Baseball pitch.,Baseball play,The play in action.,5
+424,Chairs,Table,Four legged furniture.,5
+425,Natural Light,Sunlight,The amount of brightness.,1
+426,Informational,Street Sign,The type of sign.,3
+427,Walkway notification,W 76 St,The contents of the sign.,2
+428,One woman,One person.,The number of people.,4
+429,Tennis,Tennis,The sport.,3
+430,River boating,Docked boats.,The activity of the place.,4
+431,Two,Two,The number of the object.,2
+432,No name given.,No name is mentioned.,The name of the person.,5
+433,Loading,Toothbrushing,The name of the action.,4
+434,TV,Chair,The name of the object.,5
+435,2 objects,1,The number of object.,4
+436,Mixed items,Clutter.,The type of things on the bed.,5
+437,Bedroom,Bedroom,The type of room.,2
+438,cat,Cat,The type of the animal.,5
+439,Sitting,Standing,The action of the animal.,4
+440,Baseball,Baseball.,The game played.,5
+441,Home.,Towards the field.,The ball's direction.,5
+442,Giraffes,Giraffe,The name of the animal.,4
+443,Two,Two,The number of animal.,2
+444,Two objects,One.,The number of object.,5
+445,Baking.,Cooking appliances,The cooking.,5
+446,Computer,Apple devices,Type of electronics.,2
+447,Close,Close by,Proximity of the computer to other features of the scene.,1
+448,Banana,Attached to wires,The food item banana.,3
+449,More,Two.,Number of rows.,2
+450,Two skateboards.,Two,The number of boards.,4
+451,Two boys,Children,The person's age.,4
+452,Open floor plan,Kitchen,The type of room.,5
+453,Two rooms,Two rooms,The number of room.,3
+454,Flying kites,Flying kites.,The action of the people.,4
+455,Kite flyers.,Park-goers,The name of the people.,2
+456,Bathroom,Bathroom,The name of the place.,4
+457,Bathroom.,Bathroom amenities.,The object of the place.,3
+458,Tailfin,Airplane,The name of the object.,5
+459,Reaching Up.,Seating.,The action of the object.,2
+460,One sink.,One sink.,The number of sink.,3
+461,Mirror,Mirror,The presence of mirror.,3
+462,Electronic devices,Keyboard,The name of object.,3
+463,Co-existing,Typing,The name of actions.,2
+464,Living Room,Living room,The name of the room.,3
+465,Flat-screen TV,Multifunctional setup,The name of the device.,2
+466,Baseball,Baseball,The name of the game.,5
+467,Baseball field,Baseball Stadium,The name of the place.,5
+468,Catching,Catching,The name of action.,4
+469,Three people.,One,The number of people.,1
+470,Two items,"Plate, meat, potatoes, broccoli, knife, fork",The number of object.,4
+471,Kitchen,Food and Utensils,The kitchen.,4
+472,Table,Table,The type of furniture.,3
+473,Ambiguous,unclear,The number of people.,1
+474,One,Two,The number of people.,5
+475,Elephant,Elephant,The name of the animal.,4
+476,Vegetables,Vegetables,The type of food.,5
+477,Palm tree,Cube,The shape of the vegetables.,5
+478,Waterskiing,Parasailing,The name of the place.,4
+479,Waterskiing.,Parasailing,The name of the game.,4
+480,Not provided.,On the table,Height of the plate.,2
+481,One plate,One plate.,Number of plates.,1
+482,One plate,Two plates,The number of plate.,2
+483,Cheese fries and sandwich.,Hot Dog and Fries,The name of the dish.,2
+484,Defiant Position,Lying on bed.,The posture of the person.,5
+485,Male,Female,The gender of the person.,2
+486,Wine,Wine,Type of drink.,3
+487,Several,1 person.,Number of people.,1
+488,Laptops.,Laptop,The type of electronic device.,5
+489,Two devices,One electronic device.,The amount of electronic devices.,4
+490,Tropical Rainforest,Savanna,The biome.,5
+491,Elephants,Elephants,The animals.,3
+492,Square pizza,Pizza,The different type.,3
+493,Square pizza with toppings.,Uncut.,The pizza.,2
+494,Open-concept.,Kitchen,Type of room.,4
+495,Open concept,No dining area.,Presence of dining area.,3
+496,Two cars,Three objects.,The number of object.,4
+497,Train,Train,The object.,2
+498,Zebra,Zebra,The name of the animal.,4
+499,Safari Park,"Crossing
+",The name of the place.,2
+500,Living Room,Living room,The room type.,5
+501,One painting,7 pieces,The number of decorations.,3
+502,Bakery.,Kitchen,The place of making.,5
+503,Bakery kitchen,Activity,The kitchen room.,4
+504,House,Kitchen,The name of the object.,5
+505,Home,Kitchen,The name of the place.,3
+506,Clothing,Umbrella,The type of object.,5
+507,One,Multiple people,The number of people.,4
+508,Living room,Living room,The name of the place.,3
+509,Television,Furniture,The name of the object.,3
+510,Two,One,The number of animals.,4
+511,Cats,Cat,The type of animal.,2
+512,Bed,Medium-sized,The size of the furniture used for rest.,2
+513,One,Unknown,The number of people.,1
+514,Cat,Cat,The name of animal.,5
+515,Balancing,Sitting on the woman's shoulder.,The action of the cat.,4
+516,One.,One,The number of dog.,3
+517,Water bowl,Frisbee,The dog holding property.,1
+518,Lap desk,Bottle of wine,The name of the object.,4
+519,Not mentioned.,Beverage,The bottle of wine.,2
+520,Male,Male,The gender of the person.,5
+521,Formal clothing,Formal attire,The attire of the person.,2
+522,Edible,Edible,The edibility.,5
+523,"Bananas, bread",Dessert,The food.,2
+524,Park,Park oasis,The park area.,5
+525,Three People,Three people,The number of person.,3
+526,Sandwich,Sandwiches,Type of food.,3
+527,Partially eaten sandwich.,Two sandwiches.,How much food.,1
+528,Shelf contents,Furniture,The name of the of the object.,4
+529,Shelf,Living Room,The name of the place.,3
+530,Donut,Donuts,The food.,5
+531,Assorted,Glazed,The donut type.,3
+532,Skateboarding,Skateboarding,The hobby.,5
+533,Male,Gender: Not specified.,The  gender.,4
+534,Baseball,Baseball,Type of sport.,5
+535,4,Two,Number of people.,2
+536,City Street,Street corner,The place.,4
+537,Traffic light.,Clock,The object.,2
+538,Large,Large.,The size of th evehicle.,5
+539,Train,Steam Train,The type of vehicle.,3
+540,Bedroom,Deluxe Room,The type of room.,2
+541,Queen-size,King-sized,The size of the bed.,1
+542,TV,Television,The object in living room.,4
+543,Entertainment.,Furniture,Type of object.,3
+544,Table Items,Soda can,The object.,4
+545,Three items,Three items.,The number of object.,2
+546,One,One person.,The number of person.,5
+547,Eating cake.,Displaying half-eaten cake with cat ears on,The action of person.,4
+548,Kiwi,Length,The longest dimension of object.,4
+549,Various fruits,Mixed fruits and vegetables,The nutritional value.,4
+550,Dog,Dog,The animal.,5
+551,1 dog,One,The number of animals.,5
+552,Cat,Cat,The animal.,3
+553,Not specified.,Grey and white,The color of animal.,1
+554,None.,Four sea birds.,The number of animals.,4
+555,Boat,Boats,The type of vehicle.,3
+556,Multiple,Many,The number of object.,4
+557,Blue,Blue,The color of ocean.,4
+558,Boarding aircraft.,Plane inspection.,The activity of people.,4
+559,One,Several.,The number of people.,2
+560,Airplane,Airfield vehicles,The name of the vehicle.,4
+561,Takeoff,Airport operations,The activity of the vehicle.,3
+562,Black,Black,The color of animal.,5
+563,Horse.,Horse.,The animal.,3
+564,One,One person.,The number of person.,4
+565,Boy,Unknown,The name of the person.,4
+566,Living room,Kitchen & Dining Room,The name of the room.,4
+567,Minimalist.,Spatial organization,The type of uses.,3
+568,Group of People,One,The number of people.,2
+569,White,Red,The color of object.,1
+570,Dog,Dog,The animal.,4
+571,Yellow,No color mentioned,The color of animal.,3
+572,Elephant., Elephant,The name of the animal.,5
+573,Two.,Ecosystem,The number of living things.,2
+574,Skiing,Skiing,The hobby.,5
+575,White,Pink,The color of object.,4
+576,Storage.,Clutter,The presence of boxes.,4
+577,Living room,Kitchen,The type of room.,1
+578,One baby.,One,The number of babies.,3
+579,Small,Small,The size of the objects.,3
+580,Gourmet Coffee,Coffee,The name of the drink.,4
+581,Small,Small,The size of product.,3
+582,White,Red,The vehicle's color.,4
+583,Car,Vintage Car,The vehicle type.,3
+584,Giraffe,Giraffes,The type of animal.,5
+585,One,Two,The number of animals.,1
+586,Kites,Kite boarders.,The type of aerial objects.,1
+587,Many,3 Kit boarders,The number of aerial objects.,1
+588,Buffet,Restaurant,The type of establishment.,4
+589,Buffet Room,Kitchen plate pick-up.,The area of the room.,3
+590,Kitchen,Kitchen,The type of location.,4
+591,Vegetables,Prepped food,The type of food.,3
+592,Living Room,Stove.,The living room.,5
+593,Furniture,Appliance,The type of object.,3
+594,Two appliances,Three objects,The number of object.,4
+595,Kitchen,Plumbing.,The type of construction.,3
+596,Cat,Cat,The animal.,5
+597,"- Cat, suitcase, table","Cat, blankets, pillows, laptop",The objects.,4
+598,Bathroom rennovation needed,Bathroom,Type of room.,5
+599,One toilet.,Several,Number of toilets.,1
+600,Bowl ramp,Edge of skate park,Where in the skate park the person is skateboarding.,4
+601,Skate park,Skateboard Park,The type of park.,3
+602,Bookshelf,Furniture,The object.,5
+603,Two shelves,Three objects,The number of object.,1
+604,Giraffe.,Giraffes,The type of animal.,5
+605,At the bridge.,Over the fence,Where the animal's are looking.,2
+606,Double room,Bedroom,The name of the room.,4
+607,7 items,Two items,The number of items.,1
+608,Bathroom,Bathroom,The type of room.,4
+609,One person.,One.,The number of people.,3
+610,table,Table.,The name of the furniture.,3
+611,Flower room.,Kitchen,The name of the room.,2
+612,Skiing,Skiing.,The person's hobby.,4
+613,Female,Male,The person's gender.,1
+614,Baseball,Baseball,The type of sport.,5
+615,Swinging.,Player running,The motion of the player.,4
+616,Cow,Cows,The type of animal.,5
+617,Multiple,Five,The number of animals.,1
+618,Dog,Bulldog,The type of animal.,4
+619,Retrieving,Standing on surfboard,The animal's stance.,4
+620,Cow,Cow,The type of animal.,5
+621,Standing & Sitting,Grazing,The animal's stance.,5
+622,Street Signs,One-way street sign,The variation of sign.,4
+623,A variety,One-way,The street sign on a post.,3
+624,Van,Description,The car in the street.,4
+625,Urban landscape,Street View,The type of view.,4
+626,Red and black.,White and blue.,The color of object.,5
+627,Pizza.,Pizza slices,The dish.,2
+628,One,Four devices,The number of equipment.,4
+629,Desk,Desk Setup,The furniture.,2
+630,Coffee table,Coffee table,The type of table.,5
+631,Living Room,Suite,The type of room.,4
+632,Pizza,Pizza,The type of food.,5
+633,One person,Not mentioned,The number of people.,4
+634,Cat,Kitten,The animal.,4
+635,Several,Two,The number of animal.,3
+636,Hotel Room,Silver & White Hotel,The name of the place.,5
+637,Two chairs.,No chair.,The number of chair.,1
+638,Stone wall.,Traffic signs.,The signs in outside.,4
+639,Stone wall,Signs,Outside of the house.,4
+640,Pitcher and batter.,Swinging Ball.,The ball of swing.,4
+641,Two players,One,The number of player.,1
+642,Two,One person,The number of people.,5
+643,Male,Female,The gender.,3
+644,Group,No cows,The number of cows.,5
+645,Walking,Grass grazing.,The name of action.,2
+646,On the toilet tank.,Next to the toilet,The sink placement.,3
+647,Public restroom,Bathroom,The room type.,2
+648,Broccoli and other food.,Surf n' Turf,The variety of food.,4
+649,Broccoli,Broccoli,The type of vegetable.,4
+650,Cows,Cows,The animal.,5
+651,Many,Two cows,The number of animal.,1
+652,Two,Two people.,The number of person.,4
+653,Ski lift photo pose.,Snowboarding,The name of the game.,3
+654,Restaurant,Not specified,The name of the place.,3
+655,Plates,Food,The name of the object.,1
+656,Admiring,Eating bread,The name of the action.,4
+657,Flower arrangement,Food item,The name of the object.,3
+658,Baseball.,Baseball,The type of sport.,4
+659,Several spectators,One person.,The number of people.,1
+660,Bathroom,Bathroom,The name of the room.,5
+661,One person.,One,The number of person.,4
+662,Pizza,Pizza,Type of food.,4
+663,Zero,1,Number of missing pieces.,4
+664,Bathroom sink,Couch,The location.,4
+665,Cats.,Cats,The type of animal.,4
+666,Grade sign.,Street light sign,The sign in street.,4
+667,Warning Sign,Street Sign,Type of street sign.,3
+668,Breakfast Plate,Meal.,The name of the food.,3
+669,Breakfast dish,Breakfast,The type of food.,3
+670,Dipping sauce,No sauce,The type of sauce.,4
+671,"Sandwich, corn, dipping sauce",Meal,The type of the eatable.,3
+672,Cars themed,Birthday cake,The type of cake.,4
+673,One adult,Two people,The number of people.,3
+674,Four,Two,The number of people.,3
+675,Skiing.,Skiing,The hobby of people.,2
+676,Kitchen,Kitchen,The name of the place.,4
+677,Kitchen with white cabinets,Kitchen appliances.,The name of the object.,2
+678,Cat,Cat.,The type of animal.,5
+679,Mirror,Bowl and cat statue,The object nearby.,1
+680,Modern Eclectic,Fully equipped,The bathroom.,2
+681,Above the sink,Wall mirror.,The mirror.,2
+682,Road signs,Winter conditions,The indicators.,4
+683,Residential property.,Winter street corner,The background.,1
+684,Beach,Beach,The type of location.,5
+685,Two,One.,The number of umbrellas.,4
+686,Red,Brown,The couches' color.,3
+687,Young,Young,The person's age.,2
+688,Dining and cooking.,Relaxation,The activity of the place.,2
+689,Home,Living room,The name of the place.,1
+690,Skiing and snowboarding.,Skiing,The sport.,5
+691,Winter sports.,Orange,The color of object.,2
+692,Cart,Mobile Network,The type of carrier.,4
+693,Luggage.,Cellphone,The person's attention.,3
+694,Wooden Board,Counter,The location of the food.,4
+695,Food display,Food presence,The presence of food.,3
+696,Skis,Skis,The type of equipment in hand.,4
+697,5 people.,One person.,The amount of people involved.,4
+698,Tennis,Tennis,The type of sport.,5
+699,Unspecified,Male,The gender of the person.,4
+700,Clock-tower,Timekeeping,The activity of the object.,5
+701,Clocktower,Clock Tower,The name of the object.,5
+702,Stopped,Blue,The bicycle.,4
+703,City,City Street,The place.,2
+704,Bedroom,Bedroom,The type of the room.,5
+705,Unavailable,"Brown, blue, and white",The color of the bed.,3
+706,Giraffe,Giraffe,The animal.,2
+707,Young,Age not specified,The age of giraffe.,2
+708,Grazing.,Standing,What the animals are doing.,5
+709,Field,Grass,What the animals are standing on.,4
+710,Dog,Dog,The type of animal.,4
+711,Sitting,Balanced,The animal's stance.,3
+712,Garden plants,Flowers,The type of plants.,3
+713,Garden bench display,In front,The position of the plants.,1
+714,Double room,Standard Room,The type of room.,4
+715,Two beds,One bed.,The number of beds.,2
+716,Australia,Bedroom,The name of the place.,3
+717,Mirror,Bed,The name of the object.,1
+718,Wood.,Tile,The material of the floor.,5
+719,Canine.,Dog.,The type of animal.,5
+720,Bathroom,Bathroom,The name of the place.,4
+721,Bathroom usage.,Bathing,The activity of the place.,3
+722,Decoration.,Decorated tree,The christmas.,4
+723,Unusual Placement.,Decorating,The activity.,3
+724,Fighter Jet,Jet,The type of aircraft.,5
+725,In the air,Runway in field,The location of the aircraft.,1
+726,Possessions,Laptops,The object.,3
+727,Five objects,Three laptops,The number of object.,1
+728,Living Room,Living Room,The type of room.,4
+729,Furniture along walls.,Couch and ottoman.,The furniture in the room.,4
+730,Open sandwich.,Food,The all are food.,4
+731,Laptop users.,Plate,The background.,1
+732,Cake cutting.,Celebrating.,The activity of people.,4
+733,Crowd,Several,The number of people.,4
+734,First shelf,Same location,The places are same.,3
+735,Not mentioned,Green,The color of the wall.,1
+736,Kite,Kites,The object being flown.,3
+737,Park,Washington DC Mall,The location.,3
+738,One,Not applicable.,The number of people.,5
+739,Location,White kitchen,The kitchen.,3
+740,Female,Female,The person's gender.,3
+741,Adult,Unknown,The person's age.,1
+742,Vegetables and rice.,Vegetables,The main food.,2
+743,On a plate,Cutting board,The location of the food.,2
+744,Living Room,Kitchen,The name of the room.,5
+745,Industrial-themed,Open concept,The type of design.,2
+746,Bathroom,Bathroom,The name of the place.,5
+747,Bathroom,Bathroom fixtures,The action of the place.,5
+748,Margarita pizza,Pizza.,The name of the dish.,5
+749,Margarita pizza.,Pizza Supreme,The name of the things.,1
+750,Cat,Cat,The type of animal.,5
+751,Above.,In front,The animal's spatial relationship with the tv.,4
+752,Desk,Desk,The piece of furniture.,5
+753,Cat,Workspace.,The organism.,1
+754,Several people.,Some people,The number of people.,4
+755,Group photo,Train yard with people.,The photograph.,1
+756,Desktop essentials,Accessories.,The name of the object.,4
+757,Six objects.,Three items.,The number of object.,4
+758,Pizza Toppings,Taco toppings,The food topping.,3
+759,Pizza,Pizza,The food type.,3
+760,Rail Car,Train,The name of the vehicle.,4
+761,Wooded area,Train station,The name of the area.,2
+762,Soup and sandwich,Casserole,The type of food.,5
+763,Soup and sandwich.,Vegetable casserole,The food item.,2
+764,Range,Two,The number of bike.,5
+765,Diverse motorcycles,Two motorbikes,The bikes.,4
+766,Cat.,Cat,The name of the animal.,5
+767,Close-up,Cat's Eye View,The type of view.,3
+768,Bedroom,Living Room,The name of the room.,4
+769,One,One.,The number of people.,1
+770,Mixed Vegetables,Steamed vegetables,The vegtables.,3
+771,Blueleaf plate with varied food ,White,The plate.,1
+772,Zebras,Giraffe and hippos.,The type of animals.,5
+773,Savannah,Savannah.,The animal's habitat.,4
+774,Giraffes,Giraffe.,The animal.,3
+775,Comparison,Giraffes eating.,The activity.,2
+776,Pizza slices,Pizza,The food.,5
+777,Two boxes,Three slices,The amount of pizza.,4
+778,Computer setup,Computer desk,The object.,4
+779,Six devices,Two items,The number of object.,2
+780,Terrible condition,Damaged,The destroy toilet.,4
+781,Damaged and filthy.,Damaged bathroom,The bathroom with damage.,4
+782,Green,Yellow,The color of fruit.,5
+783,Bananas,Bananas,The name of the fruit.,5
+784,Bird,Seagull.,The name of the animal.,4
+785,Seashore,Seascape,The name of the place.,4
+786,Computer,Computer,The type of electronic device.,4
+787,Office furniture.,Desk and Chair,The furniture.,3
+788,One dish,3,The number of dish.,5
+789,Egg and toast breakfast.,Plate,The dish.,1
+790,One.,0,The number of zebras.,2
+791,Mammal,Giraffe,The type of animal.,1
+792,Three-wheeled motorcycle,Motorcycle,Type of vehicle.,5
+793,Passengers,Supplies,What the motorcyle is carrying.,4
+794,The animal's stance is sitting.,Affectionate pose.,The animal's stance.,5
+795,Cat,Cat,The animal type.,3
+796,One person,One person.,The number of people.,5
+797,Dessert,Cake,The type of food.,3
+798,Giraffe,Giraffe,The animal type.,3
+799,Ground,Wire cable,The animal's attention.,1
+800,Unknown,Name of a bird,The name of the bird.,5
+801,Furniture,Bowl,The name of the object.,4
+802,Riding motorcycle with American flag.,Riding vehicles,The activity of people.,4
+803,"Red, white, and blue",Black and White,The color of object.,3
+804,Keyboard,Desktop.,The object is computer.,5
+805,White,Color not specified,The color of computer.,2
+806,Disordered distribution,Contents Displayed,The arrangement of objects.,4
+807,Floor,Bed,The surface the objects are on.,1
+808,Cow,Cow,The animal.,5
+809,Two cows.,One cow.,The number of animal.,2
+810,Train,Train,The name of the vehicle.,4
+811,Red and yellow,Black,The color of the vehicle.,4
+812,Skillet stir-fry,Board,The cutting.,4
+813,Stir-fry.,Carrots and ham,The food.,3
+814,Lapel pin,Tie,The type of accessory.,4
+815,One person.,One,The number of people.,3
+816,Two Windows,Natural Light,Presence of a window.,4
+817,Decorative elements,Easel,Presence of easel.,3
+818,Device,Laptop,The name of the object.,5
+819,Home,Unknown,The name of the place.,2
+820,Baseball,Baseball,The name of the game.,5
+821,Two,One,The number of player.,2
+822,Train,Train,The type of vehicle.,4
+823,Above-ground,Ground level.,The vehicle's elevation.,1
+824,Three vehicles.,One vehicle.,The number of vehicles.,5
+825,Elephants,Elephant,The type of animal present.,3
+826,Large teddy bear and small teddy bears.,Small,The size of the objects.,4
+827,Soft,Soft,The hardness of the objects.,2
+828,Red and Pink,Yellow,The color of vehicle.,5
+829,"Bicycle, Bus",Tram,The name of vehicle.,2
+830,Fast food combo,Hot dogs,The name of the dish.,4
+831,1,Two,The number of the hot dogs.,2
+832,Bear,Bear,Type of animal.,4
+833,Cliff.,Forest floor,What is in front of the bear.,2
+834,Parasailing,Kite surfing,The game.,4
+835,Deserted beach.,Shoreline.,The beach.,2
+836,Tennis match,"The physical motion is ""Spectators watching.""",The physical motion.,5
+837,Tennis,Tennis,The sport.,3
+838,Two,Two,The number of people.,5
+839,Frisbee,Ultimate Frisbee,The sport.,5
+840,Snow-covered hill,Mountaintop,The name of the place.,3
+841,Four skiers,5,The number of person.,3
+842,Dog,Dog,The animal.,2
+843,Bicycle basket,Car window,The location of the animal.,1
+844,Living Room,Living room,The name of the room.,2
+845,Seating furniture,Living room furniture,The type of furniture.,1
+846,Giraffe,Giraffe,The type of animal.,4
+847,Giraffe feeding.,Upright.,The posture of the animal.,1
+848,Baseball,Baseball,The sport.,4
+849,Huddle,Playing baseball.,The physical action.,3
+850,Bathroom fixture,Toilet,The name of the object.,5
+851,Bathroom,Bathroom,The name of the place.,5
+852,Savannah,Mountain Field,The name of the place.,5
+853,Zebras,Two,The number of horse.,1
+854,Pizza,Pepperoni Mushroom Pizza,The name of the dish.,3
+855,Eight slices.,10 slices,The number of slice.,3
+856,Kitchen,Kitchen,The type of room.,5
+857,Two seats,N/A,The number of seats.,3
+858,Bathroom,Bathroom,The room type.,4
+859,Bathroom with tiled walls and floors,Damaged.,The condition of room.,2
+860,Vintage photo,Vintage city street snapshot,The old of snap.,4
+861,N/A,Unknown,The number of animal.,3
+862,Apex,In-flight,Height of the ball.,4
+863,Tennis ball,Tennis ball,Type of ball.,4
+864,Fresh bananas.,Curiosity,The sentiment of people.,4
+865,Green and yellow,Yellow,The color of object.,3
+866,Taco pizza,Pizza,The name of dish.,5
+867,Pizza Parlor,Restaurant,The name of the place.,1
+868,Bathroom fixtures.,Bathroom fixtures,The name of the equipment.,3
+869,Bathroom,Bathroom,The name of the room.,2
+870,Workspace.,Prepared,The action of the object.,5
+871,Furniture,Desk,The name of the object.,3
+872,Multi-colored,White,The color variety.,5
+873,Bathroom fixtures,Bathroom fixtures,The type of fixtures.,3
+874,Reflection,Mirror's reflection,The objects reflective ability.,4
+875,Dog,Yellow school bus,The object reflected.,1
+876,Laptop,Computer technology,The device type.,4
+877,Yogurt,Beverage,The type of consumable.,2
+878,In play.,In motion.,The state of the ball.,4
+879,Tennis,Tennis,The game played.,2
+880,Outdoors,Outdoors,Outdoors or indoors.,5
+881,Narrow,Narrow.,Width of street/path.,2
+882,Eating sandwich,Eating pizza.,The man with a food.,5
+883,Sandwich,Pizza,Type of dish.,1
+884,Cat,Cat,Type of animal.,5
+885,gray and white,Black,Color of the cat.,5
+886,Kite flying.,Kite-flying,The hobby.,5
+887,Group,Many,The number of people.,4
+888,Sitting,Relaxed pose,The posture of the animal.,5
+889,Cat,Cat,The type of animal.,4
+890,Breakfast,Sandwich,The food.,5
+891,Breakfast,Lunch,The kind of meal being served.,1
+892,Two animals.,Two dogs,The number of animals.,5
+893,Pet animals,Dogs,The type of animals.,4
+894,Bowl,Bowl,Type of container.,5
+895,Legumes and fruits,Noodles.,Type of food in container.,4
+896,Intersection,Intersection,Where the event is taking place.,3
+897,Traffic Signal,Traffic control devices,The type of sign or signal.,3
+898,Pizza,Pizza,Type of food.,5
+899,No toppings,Cheese and Other Toppings,Type of toppings.,3
+900,Food preparation,Food preparation.,The object's function.,3
+901,Kitchen prep,Grocery store,The setting.,3
+902,Bananas and mangoes,"Banana, grapes, orange, lime",The fruit.,4
+903,Five fruits,Four fruits,The number of fruit.,1
+904,Clock,Skyscraper,What object is in the background.,4
+905,Brown building,Courtyard.,What is in front of the buidling.,1
+906,Kitchen sink,Faucet.,The name of the object.,4
+907,Kitchen sink décor.,"Sink, faucet, vase",The name of the things.,3
+908,Fruit,Italian cuisine,Type of food.,3
+909,1 plate,3,Number of plates.,3
+910,Leftover pizza,Pizza,The type of food.,3
+911,Spoon,fork and knife,The type of silverware.,2
+912,Room decor,Entertainment setup,The type of objects.,5
+913,Entertainment room.,Entertainment room.,The type of room.,5
+914,Vintage bedroom furniture.,Futon or couch,The name of the objects.,4
+915,Four,Not mentioned.,The number of poster bed.,3
+916,Five people,Two people.,The number of people present.,5
+917,Video gaming,Gaming,The hobby.,4
+918,Two,One,The number of animals.,5
+919,Cats,Cat,The type of animal.,2
+920,Cat,Black cat,The animal.,5
+921,Brown,Black,The color of animal.,2
+922,Three,Herd of cattle,The number of animals.,4
+923,Cattle,Cattle,The type of animal.,2
+924,Six.,Four,The number of planes.,3
+925,Blue Angels.,Diamond Formation,The planes are flying.,2
+926,Sleeping position,Reclined in bed.,Position of the person.,5
+927,Deep Sleep.,Relaxed,Level of alertness.,1
+928,Bus,Buses,The object.,4
+929,One object.,Two.,The number of object.,3
+930,Ocean,Beach.,Direction the man is facing.,5
+931,Male,Male,Gender.,4
+932,Bikini,Bikini,The type of clothing.,4
+933,Beach volleyball,Beach walk with surfboard.,The movement of the woman.,2
+934,White,White,The color of object.,5
+935,Appetizer.,Plate with serving spoon,The dish.,4
+936,Laptop,Computer peripherals,The elctronic objects.,4
+937,Cupcakes,Not applicable.,The food item.,3
+938,Sheep,Sheep,The animal.,5
+939,Five sheep,One,The number of animal.,1
+940,Giraffe,Antelope,The animal type.,5
+941,Blue sky,Animal with long horns,The background.,2
+942,Giraffe.,Giraffe,The type of animal.,4
+943,High on a rock,Giraffe's head height.,The height of the giraffe’s head.,1
+944,Breakfast spread,Food Display,The presence of food.,3
+945,Breakfast table,Sides,The type of dish.,3
+946,Two devices,Four devices,The number of device.,4
+947,Computer peripherals,Laptops.,The type of device.,2
+948,Kitten,Cat.,The animal.,4
+949,Blue,Gray,The color of object.,2
+950,Food presentation.,Food and Drink Display.,The actions.,3
+951,Burrito with side of beans and cheese.,Pork sandwich with slaw and beer.,The name of the dishes.,1
+952,Baseball,Baseball,The sport.,4
+953,Two,Three.,The number of people.,1
+954,Skateboarder.,Skateboarder.,The name of the persons.,2
+955,Skateboarding.,Skateboarding,The name of the game.,2
+956,One giraffe.,Two,The number giraffes.,4
+957,Savannah habitat.,Field grazing,The animals are in roaming.,2
+958,Hotel room,Bedroom.,The place.,4
+959,White,Orange.,The color of object.,3
+960,Picnic meal.,Condiments,The action are same.,3
+961,Picnic Basket,Fast Food Joint,The name of the place.,2
+962,Baseball,Baseball.,The game being played.,5
+963,"Runner, Batter",Baseball Game - Player Positions,The player positions.,4
+964,Three,Multiple participants,The number of peoples.,5
+965,Skiing,Skiing,The name of the game.,5
+966,One,One,The number of bike.,5
+967,Blue,White,The color of bike.,4
+968,One room.,One room,The number of rooms.,5
+969,No bicycle,Bed and Desk,The absence of the bicycle.,3
+970,Four,Four,Number of wheels on each vehicle.,3
+971,Urban.,Grassy with fence,Type of ground.,3
+972,Skateboarding,Skateboarding,The sport.,5
+973,Skateboard - Assorted (not specified in sentence),Colorless,The color of object.,3
+974,Dining area,Open-plan living room,The name of the place.,4
+975,Table and plant,Shelves,The name of the objects.,2
+976,Christmas decor,Unconventional.,The type of decoration.,4
+977,Home décor,Festive ambiance.,The decoration's surroundings.,4
+978,Meal plate,Lunch tray contents,The plate of food.,5
+979,Sandwich,Pizza,The type of food.,3
+980,Pizza,Pizza,The type of food.,3
+981,Mason jars of fluid,Table sustainability,The objects nearby the food.,3
+982,Cat,Cat,The name of the animal.,4
+983,Sleeping,Sitting.,The action of the animal.,2
+984,Well-equipped kitchen,Kitchen essentials,The kitchen with products.,5
+985,Kitchen Essentials,Kitchen items,The variety of products.,4
+986,Docking,Waterfront bench,The motion.,4
+987,Boat,Boats,The vehicle.,4
+988,Mid-air,Skatepark,The place of riding skateboard.,4
+989,Skateboarding,Skateboarding,The name of property.,3
+990,Intersection,City street,The location.,3
+991,Intersection visibility,Traffic congestion,The reasons conveyances stop.,1
+992,Kitchen,Bathroom,The type of area within a home.,1
+993,Kitchen,Bathroom,The type of room.,1
+994,1,Two,Number of laptops.,4
+995,Table,Table,Type of surface.,2
+996,Swinging,Swing.,The state of the bat.,4
+997,Baseball,Baseball,The game played.,3
+998,2 monitors,One monitor.,The number of monitors.,4
+999,Computer displays,Computer desk,The type of table.,4
+1000,Small.,Large,The animal's size.,4
+1001,Cat,feline,The type of animal.,3
+1002,white,White,The color of toilet bowl.,4
+1003,Fixture,Fixture,The toilet in bathroom.,3
+1004,Big,Large,The size of clock.,3
+1005,Clock,Building Clock,The object is clock.,2
+1006,Baseball,Baseball,The name of the game.,5
+1007,Two participants,Crowd,The number of people.,5
+1008,Fruit.,Fruit display,The presence of fruits.,5
+1009,Missing Knife,No knife.,The absence of knife.,3
+1010,Not applicable.,One person,The number of person.,4
+1011,Plush.,Child,The type of a child.,1
+1012,No candles,Two,`the number of lighted candles.,3
+1013,Cat.,Cat,The name of the animal.,3
+1014,City Street,Intersection,The place.,3
+1015,Multiple people,Unknown.,The number of people.,1
+1016,Zero,Three.,The number of people.,4
+1017,Lonely highway,Three,The number of way.,2
+1018,Pet bonding.,Animal companionship,The actions `.,4
+1019,"""Golden retriever.""",Orange,The color of cat.,3
+1020,Sandpiper,Oystercatcher,The animal.,2
+1021,White and brown,Black with red,The color of animal.,1
+1022,Unknown.,City,The city.,4
+1023,City bus,City street,The road side.,2
+1024,Baseball,Baseball,The name of sport.,4
+1025,Baseball play,Running,The action of player.,2
+1026,Electronic devices,Computer peripherals,The type of objects.,5
+1027,One person,One person,The number of people.,1
+1028, yes,Differences in objects.,The objects are different.,5
+1029,Bathroom,Restroom,The name of the place.,4
+1030,Soda,Diet Coke,The type of drink.,4
+1031,Two chili cheese dogs,Meal combo,The amount of food.,2
+1032,Low-rise urban development,City skyline,The absence of a skyscrapers.,5
+1033,Signage.,Intersection.,The presence of the street sign.,2
+1034,Two people,One,The number of person.,4
+1035,Baseball,Baseball,The name of the game.,3
+1036,Public sidewalk,Forest,The type of location.,4
+1037,Bathroom fixtures.,Toilet,The type of object.,4
+1038,Bedroom,Bedroom,The type of room.,5
+1039,Small,Double-sized,The size of the bed.,3
+1040,Pizza,Pizza and salad.,The type of food.,5
+1041,Two dishes,Multiple,The number of dishes.,2
+1042,One.,One,The number of clock.,5
+1043,Upwards,Inside the tower,The position of the clock.,2
+1044,Sandwich with fries,Sandwiches and Fries,The type of food.,3
+1045,Meal.,Two grilled sandwiches,The quantity of food.,2
+1046,Swinging and missing.,Bat toss and run,The action of player.,5
+1047,Two,One,The number of person.,4
+1048,Truck,Bus,The type of the vehicle.,2
+1049,On the street,City Square,The place.,1
+1050,Two beverages,Indicate the specific information in the sentence or ask for clarification.,The number of beverages.,4
+1051,Breakfast table.,Table,The supportive surface.,3
+1052,Laptop,Electronics,The type of device.,5
+1053,One,Four devices.,The number of devices.,1
+1054,Tennis,Tennis,The sport.,5
+1055,One	player,One person.,The number of people.,4
+1056,Spacious,Room Dimensions,The closeness of walls.,2
+1057,Limited Furniture,Boxes,The objects inside the room.,1
+1058,Bowls.,Appetizers and salad,Type of dishes.,5
+1059,Nuts.,Cheese,Type of protein source.,2
+1060,Fast food meal.,Sandwich plate,The name of the dishes.,3
+1061,Fast food meal,Plate of food,The name of the object.,1
+1062,Cake,Cake,The type of food.,5
+1063,Party hat,Brown and pink dress,The type of clothing.,3
+1064,No meat.,Meat,The presence of meat.,5
+1065,Vegetables,"Broccoli, cauliflower",The presence of vegetables.,5
+1066,Sailboat,Waterskiing,The person with boat.,4
+1067,Variable,Fast.,The speed of boat.,2
+1068,Elephants.,Elephant,The animal.,5
+1069,3 elephants,Three elephants.,The number of animal.,4
+1070,Cake pieces,Sandwich and pizza,The types of food on the plate.,5
+1071,One plate.,One plate.,The amount of plates.,3
+1072,One vehicle.,Two vehicles,The number of vehicles.,3
+1073,Bus,Non-motorized,The type of motor vehicle.,2
+1074,Skateboarding,Skateboarding.,The type of hobby.,5
+1075,Mid-air,Trick on homemade ramp.,The position of the person.,3
+1076,Laptop,Laptop,The type of device.,3
+1077,On desk,Kitchen counter,Where the device is located.,1
+1078,Brown.,Red and gold,The color of horses.,2
+1079,Street procession,Equestrian Procession,A parade in horses.,2
+1080,"Lemons, bananas, and orange are all edible fruits.",Edible fruits.,The edibility.,4
+1081,Three fruits,Fruit.,The variety.,2
+1082,Jumping,Running,The movement of the animal.,3
+1083,Dog,Dog,The type of animal.,2
+1084,All-way stop,Intersection.,The sign.,5
+1085,Small,Multiple street signs,The size of sign.,2
+1086,Traffic Regulations,Driver's view,The perspective.,4
+1087,Signs indicate no parking.,Vehicle interior.,The setting.,4
+1088,Surfing速度,Walking,The speed of surfer.,4
+1089,Surfboard,Surfboard,The name of object.,4
+1090,Species: Cat,Tabby Cats,The species.,5
+1091,One cat,Two,The number of cats.,3
+1092,Purple,Assorted items,The color of object.,3
+1093,Four,5 men,The number of people.,2
+1094,Active,Elephant Family,The elephant.,4
+1095,Playful interaction.,Elephants in habitat.,The activity.,3
+1096,Four stuffed animals.,Zero.,The number of animal.,1
+1097,Hot dog.,Hot Dogs,The animal.,1
+1098,Elephants.,Elephants,The animal.,5
+1099,Two,Two elephants,The number of animal.,4
+1100,Cat,Cat,The type of animal.,5
+1101,Car,Blue structure,The animal's resting place.,3
+1102,Traffic signs,Flags,The objects nearby.,3
+1103,Traffic control,Warning,The sign's meaning.,3
+1104,Skateboarding.,Skateboarding.,The name of the game.,4
+1105,One,Multiple skaters,The number of people.,2
+1106,Bathroom,Bathroom,The room.,2
+1107,6,Three,The number of towels.,1
+1108,Cat,Cat,The animal.,4
+1109,Bicolor,The color of the animal is not specified in the sentence.,The color of animal.,3
+1110,Snowboarding,Skiing.,The sport.,4
+1111,Multiple,Many people.,The number of people.,3
+1112,One.,One,The number of computers.,3
+1113,Bowl of chili,Two items.,The quantity of food.,2
+1114,Side Window with Graffiti,Exterior.,Angle of photograph.,4
+1115,Residential,Residential,Type of building.,4
+1116,Kitchen,Kitchen,Type of room.,5
+1117,Kitchenware,Cabinets,Type of food containers.,4
+1118,Boats,Boats,Type of seafaring vessel.,4
+1119,Large Boat,Background Objects,Type of objects in the background.,2
+1120,Male and female.,Mixed.,The genders.,4
+1121,Tennis,Tennis,The sport.,3
+1122,Wii motes,Loft Bed,The name of the object.,4
+1123,Living room,Bedroom.,The name of the place.,1
+1124,Tennis practice.,Tennis.,The activity of the person.,5
+1125,Unnamed,Boy,The name of the person.,2
+1126,Elephant,Elephants.,The animal.,5
+1127,One,Two elephants.,The number of animal.,3
+1128,Close-up portrait,Formal attire.,The position of the man.,3
+1129,Formal attire,Formal attire,The type of clothing.,3
+1130,Cat,Cat,The species.,5
+1131,Cat grooming,Sleeping,The activity of the species.,2
+1132,Breakfast items,Fast Food,The type of food involved.,5
+1133,Table,Table,The type of furniture involved.,4
+1134,Swinging high.,Catcher behind batter.,How the player is positioned.,5
+1135,Baseball,Baseball,The sport that is being played.,3
+1136,Cooking.,Cooking,The woman in kitchen.,4
+1137,Cooking,Cooking,The action of woman.,3
+1138,Bed in front,Below,Relationship of bed to window.,5
+1139,Unmade.,Unmade,Cleanliness of bed.,4
+1140,"""Laundry room""",Kitchen,The name of the room.,4
+1141,Household cleaning supplies,Kitchen items,The type of product.,2
+1142,Female,Female,The person's gender.,4
+1143,Noise Level,Silence,How much noise the person makes.,1
+1144,Skateboarding,Skateboarding.,The person's hobby.,4
+1145,Youthful,Unspecified.,The person's age.,3
+1146,Bathroom,Bathroom,The place.,4
+1147,Photography,Bathroom use.,The activity of people.,2
+1148,Cooking.,Cooking.,The activity.,5
+1149,Equipped kitchen,Appliances arrangement.,The kitchen.,5
+1150,Tennis,Tennis,The name of the game.,4
+1151,Three players,One player,The number of the players.,2
+1152,Salt.,River,The inorganic compound in lowest elevation.,2
+1153,Two.,Several (many),The number of transport vehicles.,1
+1154,Bananas,Fresh fruits and avocados,The food items.,5
+1155,Cluster of bananas,Fruit display.,The palce of things.,5
+1156,Cat,Cats.,The type of animal.,2
+1157,Two,Several,The number of animals.,1
+1158,Zebras,Zebra,The name of the animal.,4
+1159,Two,One,The number of the zebra.,1
+1160,Many.,Two,The number of animal.,3
+1161,Zebras,Zebra,The animal.,3
+1162,Early 20th century,World War I,The era.,3
+1163,Motor Racing.,Aerial dogfights,The type of competition.,1
+1164,Dog,Dog,The animal.,5
+1165,Light-colored,Not specified.,The color of animal.,5
+1166,Elephant,Elephant.,The name of the animal.,4
+1167,Photo-taking,Providing rides,The action of animal.,2
+1168,Child,Child,The person's age.,5
+1169,Female,Boy,The person's gender.,1
+1170,Baseball,Baseball,The sport.,5
+1171,Pitch and catch.,Baseball player running to first base,The timeline of events.,3
+1172,Dining area,Bathroom,The type of area in a home.,4
+1173,Kitchen,Bathroom,The type of room in a home.,1
+1174,Bedroom with study area,Home,The name of the place.,2
+1175,Study and rest.,Home interior.,The activity of the place.,2
+1176,Dog,Dog.,The type of animal.,5
+1177,Medium,Large,The animal's size.,3
+1178,Bathroom,Bathroom,The type of room.,4
+1179,Bathroom features,Bathroom fixtures,The type of objects.,4
+1180,Truck,Car,The name of the vehicle.,5
+1181,Vehicle Collection,Stationary,The activity of the vehicle.,3
+1182,Table setting.,Food and drink,The type of items.,4
+1183,"Utensils, glass, bread, salad, stones","Beer, sandwich, fork, napkin",The items in table.,2
+1184,Device,Electronic Device,The laptop.,3
+1185,Desk,Cluttered,The desk.,2
+1186,Police Motorcycle,Police,The type of motorcycle.,4
+1187,One vehicle,Three vehicles,The number of vehicles.,2
+1188,Fireplace,Fireplace,The source of heat.,5
+1189,Close to fireplace,Wall Decor,The nearness of walls.,2
+1190,Kitchen,Kitchen,The type of room.,3
+1191,Medium,Kitchen Area,The size of the room.,3
+1192,Eiffel Tower,Landmark,The place.,5
+1193,Monochrome,Indigo,The color of object.,3
+1194,Medical professional,Desk Setup,The type of position.,5
+1195,Computer,Devices placed on the wooden desk.,The type of device.,3
+1196,Two electronics,One electronic device,The number of electronics.,4
+1197,Peripheral,Device,The type of electronics.,4
+1198,Lake View Kitchen.,Next to the living room,The kitchen area.,4
+1199,Furniture.,Furniture,The type of objects.,3
+1200,Two,Two people.,The number of people.,5
+1201,Nearby,Close,The people's distance from the cake.,2
+1202,Bulldog.,Dog,The animal.,3
+1203,Red,Blue,The color of object.,3
+1204,One plate,One plate.,The number of plates.,4
+1205,Glass,Not provided in the sentence.,The wine glass.,3
+1206,Pizza,"Pizza, Biscuit, Fruit Tray",The name of the dish.,5
+1207,Partially eaten large pizza.,Single,The number of the serve pizza.,4
+1208,Skateboard,Skateboard,The stunt object.,3
+1209,Trick.,Airborne,The speed of skateboarder.,3
+1210,Baseball,Baseball,Type of sport.,5
+1211,Two,One person.,Number of people.,1
+1212,Apple,Apples,The species of fruit.,4
+1213,Harvesting,Ripeness,The maturation of fruit.,2
+1214,One.,Bathroom.,The number of room.,3
+1215,Living Room,Bathroom,The name of the room.,3
+1216,Leaping,Playing Frisbee.,The motion.,5
+1217,Grass,Lush green park,The surface.,3
+1218,One object,Four items,The number of object.,4
+1219,High rise condo,Living room,The place.,3
+1220,Protection,Protection.,Umbrella being used.,4
+1221,Accessory,Red Umbrella,Wearing a scarf.,1
+1222,Sitting by water.,Boating.,The activity.,5
+1223,Clear,Clear,The color of water.,4
+1224,One electronic.,Two,How many electronics.,5
+1225,Photos with a smokestack,Two laptops.,What is being shown.,4
+1226,Floating,Dangling.,The position of the man.,4
+1227,Parachutist in water,Parasail surfing,The parachute with a man.,3
+1228,Floral.,Yellow polka-dotted tie.,The variety of tie.,5
+1229,Formal attire,Cat costume,A person wearing a costume.,3
+1230,One,Two cats.,The amount of animals.,3
+1231,Cat.,Cat,The animal.,2
+1232,One.,1 bed,The number of beds.,5
+1233,Books,TV,The type of entertainment.,1
+1234,One dish.,1 plate,The number of dish.,2
+1235,French toast.,White paper plate,The dish.,1
+1236,Observing scenery,Train Traveling,The activity of people.,2
+1237,view,Pink and orange,The color of object.,2
+1238,Baseball,Baseball,The sport.,5
+1239,Anticipation,Relief,The feeling of the player.,2
+1240,Ultimate Frisbee,Frisbee,The game being played.,5
+1241,Throwing and blocking,Defensive position,The posture of the people.,2
+1242,Three objects,One.,The number of object.,3
+1243,Mirror,TV,The object.,1
+1244,Bathroom,Bathroom,The name of the place.,5
+1245,Toilet with missing lid.,Bathroom fixtures.,The name of the objects.,4
+1246,Restaurant,Restaurant,Type of building.,3
+1247,Booth,Kitchen,Location within the restaurant.,1
+1248,Male,Male,The gender.,5
+1249,Stationary,Skateboarding trick,The motion.,3
+1250,Cafe,Table,The name of the place.,4
+1251,Table with food and drink,Cups,The name of the object.,1
+1252,Pastoral.,Ranch,The type of farm.,4
+1253,Cows,Cattle,The name of the animal.,3
+1254,Calico cat.,kitty,The animal is sitting.,3
+1255,Calico,Gray and white,The color of animal.,1
+1256,Gaming session.,Gaming show.,The event taking place.,5
+1257,Number of players: ,Several onlookers,The amount of people involved.,4
+1258,Elephant,Elephant.,The name of the animal.,5
+1259,India,Outdoor arrangement,The name of the place.,3
+1260,Brunch,Breakfast,The type of meal.,4
+1261,Orange Juice,Coffee,The type of beverage.,3
+1262,Red,Red,The color.,4
+1263,Three buses.,One bus.,The number of buses.,1
+1264,Two pizzas,One dish.,The number of dish.,3
+1265,Pizza.,Side dish,The dish.,3
+1266,Fruit,Fruits,Category of food.,5
+1267,Mixed fruit,Four fruits,Type of fruit.,4
+1268,One full hotdog,One hotdog,The number of hotdogs.,4
+1269,Hotdogs,Hotdog with condiments and cold beer,The food.,3
+1270,Cat,Cat,The animal.,5
+1271,Black and white,Black,The color of animal.,4
+1272,Skiing,Skiing,Type of activity.,4
+1273,Skiing downhill.,Raised,Height of feet off the ground.,4
+1274,Male,Male,The gender of the person.,5
+1275,Flying kite.,Playing Frisbee.,What the person is doing outside.,2
+1276,Items carried.,Travel essentials.,The objects carried.,5
+1277,Bag,Carry-on bag,The receptacle.,4
+1278,Flowers,Red vase with flower,The decorations.,5
+1279,Small pot,One flower,The quantity of flowers.,1
+1280,Baseball,Baseball,The name of the game.,5
+1281,Baseball bat,Baseball equipment,The name of the product.,3
+1282,Baseball,Baseball,The sport.,4
+1283,Swinging the bat.,Pitch anticipation.,The physical action.,4
+1284,Dark tiles,Close proximity,The nearness of walls.,4
+1285,Bathroom,Restroom,The room's function.,3
+1286,Table Objects,Eyeglasses,The object.,5
+1287,small,Varying sizes,The size of object.,4
+1288,King-sized,Furnishing.,The size of the product.,3
+1289,Bed,Bedroom essentials,The name of the product.,3
+1290,Large,Large,The size of clock.,5
+1291,Church Steeple.,Brick clock tower.,The object is clock.,5
+1292,Two animals,Two,The number of animal.,4
+1293,Cat.,cat eating,The animal.,3
+1294,Long,Medium-sized.,The size of the furniture.,3
+1295,Table,Dining table,The name of the furniture.,2
+1296,Three,1,The number of person.,4
+1297,Skiing.,Skiing at sunset,The name of the game.,2
+1298,Multiple,Unclear,The number of people.,3
+1299,Clock,Clock.,The type of device.,3
+1300,Bathroom,Bathroom,The name of the place.,5
+1301,Toilet Seat,Clear Toilet Tank.,The name of the object.,4
+1302,Observing.,Waving.Flags,The name of the action.,3
+1303,Overcast,Stormy,The name of the climate.,2
+1304,Three people,Three people.,The number of people present.,5
+1305,Wii,Wii,The system being played on.,5
+1306,Train,Horse and buggy,The type of vehicle.,4
+1307,Old,Sepia.,The age of the picture.,4
+1308,Traffic regulation.,Pedestrian crossing sign,The intent of the object.,4
+1309,Traffic sign,Traffic sign,The type of object.,2
+1310,Cat,Cat,Type of animal.,5
+1311,Motor scooter,In luggage,Location of cat.,3
+1312,Tennis,Tennis,The sport being played.,4
+1313,In action,Preparation.,The current progress of the tennis game.,3
+1314,Baseball field,Stands,The name of the place.,5
+1315,Pitcher.,Batter.,The name of the person.,5
+1316,Rainbow,Rainbow.,The color.,5
+1317,Multi-colored cake,Colorful Rainbow Cake,The cake.,3
+1318,Novelty furniture,Travel or Portable.,The type of use.,5
+1319,Clock Chair,Table,The name of the product.,1
+1320,Laptop,Laptop,The object utilized.,2
+1321,Dog,Cat,The animal type.,1
+1322,Male,Male,The gender.,4
+1323,Hot dog,Cheese fries.,The food.,3
+1324,Car,Service vehicles,The transport vehicle.,4
+1325,Parking lot,Airport Tarmac.,The place of vehicle.,1
+1326,Red,Red,The color of object.,5
+1327,STOP on RED,Warning signal,The sign.,4
+1328,Two cars.,Many cars.,The number of cars.,4
+1329,City Street.,Urban Street,The type of thoroughfare.,4
+1330,Train,Train,Type of vehicle.,4
+1331,Sky,Semi-developed area,Contents of the background.,3
+1332,Outdoor dining and chatting.,Drinks,The people are eating.,5
+1333,Three people.,Many,The number of people.,1
+1334,One,Two,The number of hotdogs.,2
+1335,Fast Food,Hot dogs,The type of food.,2
+1336,White,Plate - Various,The color of product.,3
+1337,Food & beverage.,Miscellaneous.,The type of product.,3
+1338,Using laptop on bed,Using a laptop in bed.,The activity of people.,4
+1339,One,One person,The number of people.,2
+1340,Fast food.,American fast food,The type of food.,3
+1341,"Two hot dogs, french fries",Combo meal,The quantity of food.,3
+1342,One dish,1,The number of dish.,2
+1343,Barbecue sandwich,Grilled beef burger with onion bun.,The name of the dish.,2
+1344,Female,Male,The person's gender.,5
+1345,Glare.,Laptop,The person's attention.,4
+1346,Laptop,Glare,The name of the object.,4
+1347,Restaurant,Glare.,The name of the place.,1
+1348,Tennis,Doubles tennis.,The game played.,5
+1349,Ready to strike,Crouching,The player's stance.,2
+1350,Game console accessories.,Stillness,The stagnancy.,4
+1351,Gaming console accessories,Laptop,The type of electronic device.,1
+1352,Zebra,Zebra,The type of animal.,3
+1353,Unknown,Two,The number of zebras.,2
+1354,Calico cat,Cat,The animal.,5
+1355,Calico,White,The color of animal.,4
+1356,dog,Dog,The name of the animal.,5
+1357,Bed,Location,The name of the places.,4
+1358,Small,Cluttered,The size of object.,5
+1359,Living room,Living room,The place.,4
+1360,Airplane,Airplane,The type of vehicle.,5
+1361,Unknown,Two planes.,The number of vehicles.,3
+1362,Sidewalk cycling with stop sign.,Cyclist,The bicycle on the road.,5
+1363,Sidewalk,Safe cycling,The riding way.,3
+1364,Baseball field.,Baseball field,The name of the place.,5
+1365,Swing ,Swing.,The name of the action.,3
+1366,On couch,Stuffed teddy bears sitting,The animal positions.,4
+1367,Various sizes,Large,The size.,3
+1368,Selling Peppers,Selling meats.,The action of the women.,5
+1369,Unnamed,Unnamed,The name of the woman.,4
+1370,Two dogs,Two dogs,The number of dogs.,5
+1371,Reindeer ears,Green harnesses,What the dog is wearing.,2
+1372,Moderate,Standing.,The speed of the people.,1
+1373,Yes.,Yes.,Whether the setting is outside.,1
+1374,Two,Two participants.,The number of participants.,5
+1375,Four.,Two,The total number of people.,3
+1376,Baseball-size,Softball,The size of the ball.,3
+1377,Umpire present,Umpire,The presence of an umpire.,2
+1378,Surfing,Surfing,The sport.,5
+1379,Male,Male,The gender.,2
+1380,Man and woman,Downhill skier,The type of skiers.,5
+1381,Skiers,Skier,The type of persons.,3
+1382,Dogs,Dog,The type of animal.,4
+1383,Two,One.,The number of animals.,3
+1384,Children,"You can summarize the answer as ""Young"".",The age.,4
+1385,Sitting,Sitting,The body pose.,2
+1386,Dog,Dogs,The species of animal.,5
+1387,Running,Two different speeds,The animal's speed.,2
+1388,Dog,Dog,The type of animal.,5
+1389,Deflated ball,Red bucket,The object being carried.,4
+1390,High ramp,Airborne,Height off the ground.,3
+1391,Snowboard.,Snow skis,Type of snow vehicle.,2
+1392,Bronco,Bull,The animal used for performance.,5
+1393,Rodeo.,Rodeo,The performance type.,4
+1394,Mountain,Riding on a metal railing.,The type of location.,3
+1395,Brown.,Green.,The color of clothing.,1
+1396,Yoga practitioners.,Circle dancers,The group.,4
+1397,Yoga practice,Dancing,The activity.,1
+1398,Soccer,Soccer,The type of sport.,5
+1399,Conversing on field,Ball kicking,The motion of the players.,1
+1400,Mammal,Dog,The type of the animals.,4
+1401,One,one,The number of animals.,2
+1402,Child.,Young,The age of the performer.,4
+1403,Jumping,Playground activities,The type of activity.,3
+1404,Bird,Dog,The animal.,5
+1405,Blue,Brown,The color of object.,1
+1406,Soccer,Soccer,The sport being played.,5
+1407,Five,One,The amount of children.,2
+1408,Athletic attire.,Blue tops and black bottoms,The type of clothes.,3
+1409,One person,Multiple,The number of persons.,2
+1410,Horseback riding.,Horseback jumping,The hobby.,4
+1411,Blue,Gray and white.,The color of animal.,2
+1412,Swimming pool,"Pool with orange water wings. 
+
+",The nature of the place.,4
+1413,No floatation device.,No floatation device,The absence of floatation device.,1
+1414,1 horse.,One horse,The number of animals.,5
+1415,One rider,large crowd,The number of people.,2
+1416,Man and child.,Infant and toddler.,The age differential's of people.,5
+1417,Multicolored toy,Man,What the children hold.,5
+1418,Snowboarding,Snowboarding,The sport.,4
+1419,Snow-covered mountain.,Snow,The ground surface.,3
+1420,Running a tire maze,Merry-go-round,The activity.,4
+1421,One,Two,The number of person.,1
+1422,Sandy beach,Beach at sunset.,The landscape.,4
+1423,Few,Two people,The number of people.,2
+1424,Bowling,Bowling.,Type of recreational activity.,5
+1425,Male,Female,Gender.,1
+1426,Water,Wave,The base of the object.,5
+1427,Hand-skimming,Wave-powered,The way the object is propelled.,1
+1428,Children,Childhood.,The age demographic of the people.,4
+1429,Girl and Boy,Boy,The gender of the people.,1
+1430,Commuting in city,Commute to work.,The activity of the person.,4
+1431,Multiple,One,The number of the person.,1
+1432,Black,Black,The color of clothing.,5
+1433,Surfing for recreation.,Surfing for recreation.,The activity being performed and its intention.,3
+1434,Two dogs,Two dogs,The number of animals.,4
+1435,Interacting,Dog jumping.,The specific activity.,4
+1436,Horses,Cattle,The type of animals.,5
+1437,Numerous,Multiple.,The number of participants.,3
+1438,Soccer,Soccer,Type of game.,4
+1439,Male,Male observer,Gender.,3
+1440,Male,Male,The sex of the person.,5
+1441,Skateboarding,Skateboarding,The type of hobby.,2
+1442,Rock Jump,Bicycle jump,The jump.,5
+1443,Rock jumping,Jumping bicycle.,The activity.,4
+1444,Dogs,Dog,The animal.,5
+1445,Lawn,In mouth,The location of the object.,4
+1446,Snowy,Cold,The weather.,5
+1447,One child.,Two,The amount of children.,3
+1448,Airborne,In the air.,The location of the athlete relative to the ground.,5
+1449,Snowboarding,Skiing,The type of sport.,5
+1450,Baby,Adult - Baby,The age differential.,4
+1451,Female,Male,The gender of the older person.,3
+1452,Ranching.,Rodeo,The type of hobby.,5
+1453,Horses,Bull,The animal ridden on.,4
+1454,One person.,One,The number of person.,5
+1455,Stunt.,Bicycle stunt.,The activity of performing.,1
+1456,Microscope,Microscope.,The complexity of the instrument.,5
+1457,Microscope,Microscope,The type of instrument.,3
+1458,Dogs,Canine,The species of the animal.,4
+1459,Two,1,The number of dogs.,1
+1460,Blue,Colorful,The color of object.,5
+1461,Swinging.,Playing with toys,The activity.,5
+1462,Bicycle,Skateboard,The type of recreational device.,1
+1463,Graffiti,Graffiti,The type of wall art.,1
+1464,White and black,Yellow and black,The color of the animals.,4
+1465,Two dogs,1,The number of animals.,3
+1466,Two dogs.,Two,The amount of dogs.,4
+1467,Leaping over wooden fence,Beach,The location.,1
+1468,Canine,Dogs,Type of animal.,5
+1469,Two,Three,Number of dogs.,1
+1470,Dog,Dog,The type of animal.,5
+1471,Brown,Black,The color of the animal.,1
+1472,Skateboarding,Skateboarding,The people's hobby.,4
+1473,Four,Two observers,The number of observers.,2
+1474,Sandy hill,Beach,The location.,4
+1475,Boy,Boy,The gender of people.,3
+1476,One dog.,One,The number of dog.,3
+1477,Field of grass and yellow flowers,Snowy area,The place of the dog played.,2
+1478,Soccer,Soccer,Type of game.,5
+1479,Pre-game warm up.,Scrimmage.,Current part of the match being played.,1
+1480,Crosswalk,Crosswalk,The people's location.,5
+1481,Clothing and bag.,Helmet,The type of personal items.,4
+1482,Dog,Dog,The type of animal.,2
+1483,Frisbee,soccer ball,The type of flying object.,1
+1484,Running,Running on grass,The speed of the dog.,5
+1485,Dog,Dog,The species of the animal.,5
+1486,Many people.,3,The number of people.,4
+1487,Skiing,Skiing,The type of hobby.,4
+1488,Fire,Fire pit,The thing the people are surrounding.,5
+1489,Around a fire,Around fire pit,The way the people are sitting.,4
+1490,Rollerblading,Skateboarding trick,The action of the person.,4
+1491,Aggressive Inline,Skateboarding,The name of the sport.,2
+1492,Skateboard,Skateboard,The type of the riding object.,5
+1493,Two skateboarders,One.,The number of persons.,1
+1494,Skateboarding.,Skateboarding,The hobby.,5
+1495,Bright,Dark,The brightness of room.,4
+1496,Dog,Golden Labrador.,The animal.,4
+1497,Orange,Golden,The color.,2
+1498,Dog,Dog,The animal.,5
+1499,Unknown.,Quick,The speed of the dog.,2
+1500,One person.,One person,The number of person.,5
+1501,Bike,Bicycle,The type of vehicle.,5
+1502,Outdoors,Woods,The environment.,5
+1503,Seven,Three,The number of people.,1
+1504,Male,Male,The sex of the player.,5
+1505,Round,Shuttlecock,The shape of the ball.,3
+1506,Waterbird,Bird,The type of animal.,4
+1507,Close.,In-flight,Distance the creature is above the water.,2
+1508,Working on laptop,Photo viewing,The activity.,4
+1509,Office,Office,The setting.,3
+1510,Market Open,Street market.,The availability of goods and services.,4
+1511,Meat market,Street market,The location of the business.,2
+1512,Bowling alley,Cosmic bowling at MonsterBowl,The ambiance of the location.,5
+1513,Bowling,Cosmic bowling,The sport being played.,5
+1514,One,1,Number of dogs.,5
+1515,Brown,Black,Color of the dogs.,1
+1516,Male,Male,The sex of the person.,4
+1517,Metal grinding,Repair work,The type of work being done.,4
+1518,Lake,Lake,The name of the place.,5
+1519,Multiple,Three,The number of people.,3
+1520,Dogs,Dogs.,The type of the animals.,5
+1521,Two dogs,Two,The number of the animals.,3
+1522,Grassy field,Grassy Field,Type of landscape.,4
+1523,Two,One,Number of dogs.,1
+1524,Cold,Cold.,The climate.,5
+1525,Three,Group,The number of people.,1
+1526,Two,One,The number of people using the slide.,1
+1527,Inflatable slide,Purple slide,The playground equipment.,1
+1528,Motorcycling,Cycling,The type of hobby.,5
+1529,Rough terrain,Dirt trail,The type of terrain.,1
+1530,Recreation,Adventure,Intention of travel.,5
+1531,Sunset,Sunset.,The setting sun.,4
+1532,Excitement,Impressive.,The sentiment of the dogs.,3
+1533,3 dogs,One.,The number of dogs.,2
+1534,white,White,The color of dog.,4
+1535,One,Two,The number of dog.,1
+1536,Child,Child,The age of the person.,3
+1537,Red shirt and white shorts,Green,The color of clothing.,1
+1538,Fallen leaves,Leaves.,The objects being played with.,4
+1539,Outdoors,On a rock,The location of the child.,4
+1540,Stunt bicycling,Stunt cycling,The type of activity.,5
+1541,Stunt Piece,Pole,The object being acted upon.,4
+1542,Bicycle,Bicycle,The type of vehicle.,5
+1543,One.,One cyclist,The number of persons.,4
+1544,Mountain,Mountain.,The name of place.,4
+1545,Climbing,Mountain climbing,The type of activities.,4
+1546,Mountains,Mountain range,The landscape.,3
+1547,Walking.,Resting,The speed of the people.,2
+1548,Running and watching,Playing in fountain.,The activity of the people.,4
+1549,Child and man,Children,The age of the people.,2
+1550,Motorcycle,Scooters,The name of the vehicle.,4
+1551,One,Four people,The number of person.,1
+1552,Football,Football,The sport.,5
+1553,Three,One.,The number of athletes.,4
+1554,White and brown,Black and brown.,The color of the animal.,5
+1555,Dog,Dog.,The type of animal.,5
+1556,One person,One person.,The number of persons.,3
+1557,Bicycle,Bike,The type of the vehicle.,3
+1558,Red,Red,The name of the color.,5
+1559,Badminton.,Tennis,The name of the game.,2
+1560,Jumping,Retrieving ball.,The action of dog.,5
+1561,1,One,The number of dog.,4
+1562,Dogs.,dogs,The type of animals.,5
+1563,Three,Two,The number of dogs.,3
+1564,One cyclist.,One,The number of people.,2
+1565,Bicycle,Motocross motorcycle,The type of vehicle.,1
+1566,Dog,Dog,The type of the animal.,5
+1567,Tan,Black,The color the dog.,3
+1568,Fish,Grilled hamburgers and hotdogs.,The food.,4
+1569,Grilling,Grilling,The method of cooking.,4
+1570,Dog,Dog,The type of animal.,5
+1571,Two animals,One,The number of animals.,3
+1572,Dog,Dog,The type of animal.,3
+1573,Black,Brown,The animal's color.,1
+1574,Dog,Dog,The species of animal.,5
+1575,Active,High energy,The intensity of the activities.,3
+1576,Rodeo,Horseback riding accident,The type of event.,5
+1577,Group,One,The number of people.,1
+1578,One.,1,Number of a boy.,4
+1579,Skateboarding,Skateboarding on handrail.,Action of a buy.,4
+1580,Parasurfing,Crouching,The state of the person.,5
+1581,Parasurfing,Surfing,The person's hobby.,5
+1582,Dancing,Dancing,The hobby.,4
+1583,Nike shoes,Orange.,The clothing.,2
+1584,BMX.,BMX bike,The method of transportation.,5
+1585,Three,One rider.,The number of riders.,2
+1586,Male,male,The sex of the person.,5
+1587,Dirt bike,ATV,The type of vehicle.,4
+1588,Wet feet.,Muddy,The wetness of the feet.,2
+1589,Lake,Green grass,The location.,2
+1590,Skateboarding,Skateboarding,The name of the game.,4
+1591,"Talented Skateboarders
+",One person.,The number of the people.,2
+1592,Dog racing,Horse Race,The type of competition.,2
+1593,Greyhounds,Horses,The type of animal.,1
+1594,Dirt,Dirt,The surface.,5
+1595,Green motocross gear,Yellow suits.,The clothes.,1
+1596,Skiing,Skiing,The sport that the person is doing.,5
+1597,Slowly,Fast,The speed with which the person is going downhill.,1
+1598,Male,Male,The gender of the person.,5
+1599,"Red shirt, white socks",Inconclusive,The dress of the boys.,1
+1600,Player's reach,Towards the ball.,The distance the player has to cross.,4
+1601,Catching ball.,Playing sports,The player's intention.,4
+1602,Female,Female,The sex of the person.,5
+1603,Above fairgrounds,Riding a carousel.,The position of the person.,4
+1604,Fast,Running,The animal's speed.,4
+1605,Red,Orange,The color of the object pursued.,2
+1606,Skiing,Skiing,The sport engaged in.,4
+1607,High jump,Downhill.,The elevation.,2
+1608,Two,Two German Shepherds.,The number of the animals.,5
+1609,Grassy field,Forest,The nature of the place.,2
+1610,Young,Youthful,The age of the person.,5
+1611,Extreme sports.,Skateboarding.,The type of hobby.,2
+1612,Dog,Dog.,The animal.,5
+1613,Light-colored,Brown,The color of animal.,1
+1614,Winter clothing,Winter clothes.,The type of attire.,5
+1615,Stationary,Slow,The speed of the people.,2
+1616,Standing,Cornering position,The body position of the person.,4
+1617,Four-wheeler,ATV,The type of transportation.,3
+1618,Asian style signs,Prominent advertising,The presence of advertising.,5
+1619,"Standing.
+",Walking,The level of physical activity.,3
+1620,Surfing,Surfing,The activity.,4
+1621,One person.,Two surfers,The number of person.,1
+1622,Male,Male,The gender of the person.,3
+1623,Surfing,Water skiing.,The activity level.,2
+1624,Female,Female.,The gender.,5
+1625,Blue,Black,The clothing color.,1
+1626,Kitchen,Kitchen.,Which room in a house.,3
+1627,Observing,Food preparation.,Stage of cooking process.,1
+1628,Beach lineup,Beach,The setting.,3
+1629,Group of beach-goers,Two people.,The number of people.,2
+1630,Skateboarding,Skateboarding,Type of recreational activity.,5
+1631,Ramp,Concrete,Type of surface.,1
+1632,Bike,Biking,The method of transportation.,4
+1633,Snowy.,Heavy dirt trail,The weather ridden through.,4
+1634,Brown,White,The color of the animal.,5
+1635,Dog,Dog,The type of animal.,5
+1636,Grass,Mowed grass,Type of outdoor surface.,5
+1637,Speed of dogs,Running Fast,Speed of dogs.,3
+1638,One person.,One person.,The number of people.,2
+1639,Bike,Ramp,The type of item possessed.,1
+1640,Male.,Male,The gender of the person.,2
+1641,Short.,"Man: Bald
+Toddler: Unknown",The type of hair of the persons.,2
+1642,paddling,Swimming.,The animal's means of traversal.,5
+1643,Brown and white,Black,The animal's color.,1
+1644,Female.,Female,The gender of the person.,3
+1645,Figure Skater,Gymnast,The profession of the persons.,2
+1646,Inactivity,Inactivity,Lack of motion.,4
+1647,Two,Multiple,Number of people.,1
+1648,Beach,Beach,The nature of the place.,5
+1649,Female,"One boy, one girl.",The gender of the persons.,1
+1650,Snow,Snow,The ground cover.,5
+1651,One,Group,The number of people.,2
+1652,Black,White,Thr apparel color.,4
+1653,Snowy.,Snowy,The weather.,3
+1654,one,One,The number of people.,4
+1655,Next to,Behind,The position of the man related to the car.,4
+1656,Two individuals.,One.,The number of people.,5
+1657,Skateboarding,Skateboarding,The sport being played.,4
+1658,Skateboarding,Skateboarding,The activity.,5
+1659,Fedora,Baseball Cap,The type of hat.,1
+1660,Jumping,Airborne movement,The method of moving.,2
+1661,Wall ride,Airborne skateboard tricks.,The elevated tricks.,1
+1662,Dogs,Dogs,The type of animals.,5
+1663,White and brown,Light brown,The color of the dogs.,3
+1664,Dog,Dogs,The type of the animals.,5
+1665,Yellow.,Tan and black,The color of the animals.,4
+1666,One,One dog,The number of animlas.,5
+1667,Dog,Dog,The type of animals.,4
+1668,1 cowboy.,One,The number of people.,4
+1669,Capturing attention,Holding on.,The intent of the person.,2
+1670,Five participants,Eight players,The number of people.,3
+1671,Roller Derby,Roller hockey,The sport.,1
+1672,Dog,Dog,Type of animal.,3
+1673,Track,Field,Location.,1
+1674,Bike,Bicycle,The type of vehicle.,4
+1675,Adult,Young,The age of the man.,3
+1676,Male,Male,The sex of the athlete.,5
+1677,Rollerblading,Skateboarding,The sport.,2
+1678,Shaking,Swimming,The motion of the animal.,4
+1679,Dog,Dog,The type of animal.,4
+1680,Small,Small,The size of the boy.,4
+1681,One,Crowded street,The amount of people involved.,2
+1682,Drinking from fountain,Playing in sprinklers.,The activity.,4
+1683,Clear,Orange,The color of object.,1
+1684,Group of women,Two,The number of people.,2
+1685,Synchronized swimming,Beach volleyball,The sport being played.,1
+1686,11,Crowd.,The number of people.,4
+1687,Football,Football,The type of sport.,4
+1688,One.,One person.,The number of people.,5
+1689,Swimming.,Beach activities,The type of activities.,4
+1690,Horse,Calf,The animal.,4
+1691,One person,Two men,The number of people.,1
+1692,Snowboarding,Snowboarding,The sport.,5
+1693,Red,Blue.,The color.,4
+1694,"1 man, 1 dog",One animal.,The number of people and animals.,1
+1695,Dog lover,Dog-loving.,The type of people.,1
+1696,Beach,Beach,The location of the children.,5
+1697,Active,High,The level of activity.,5
+1698,One.,One.,The number.,5
+1699,Balancing,Dog walking,The movement.,3
+1700,One,Two dogs.,The amount of dogs.,4
+1701,Goal: Catching prey,Retrieve ball,The goal of the dog.,1
+1702,Motocross,Cycling.,The sport.,5
+1703,Crowd,One person.,The number of people.,3
+1704,Male,Male,The gender of the person.,5
+1705,Trampoline,Air,The place they are jumping.,3
+1706,Parasailing,Surfing,The sport being played.,3
+1707,Multiple,One,The number of people.,1
+1708,Running,Sledding,The sport.,2
+1709,White,White,The color of snow.,2
+1710,Motorsports,Extreme sports,The type of hobby.,5
+1711,Biking,Biking tricks,The motion of the person.,2
+1712,Dog,Dog,The type of animal.,5
+1713,Swimming,Shaking head,The movement of the dog.,2
+1714,Kickboxing,Martial arts,The type of sport being played.,4
+1715,One,Two,The number of people involved.,2
+1716,Sidewalk running,Walking,The movement over paved surfaces.,4
+1717,Stripe.,Floral Print,The shirt's color.,2
+1718,Bicycle.,Bicycle,The type of vehicle.,4
+1719,Jumping,Cycling in woods,What the person is doing on the bicycle.,3
+1720,Bike,Bicycle,The type of vehicle.,5
+1721,Stunt riding,Performing Trick,The action of the rider.,3
+1722,Two,Two dogs.,The number of dogs.,4
+1723,Black,Black and brown,The colors of dogs.,3
+1724,white,White,The color.,5
+1725,Two people,One person.,The number of persons.,1
+1726,Whitewater rafting,Kayaking,Riding in water.,4
+1727,Wet suit,Orange kayak,The dress of the people.,4
+1728,Male,Male.,Gender.,5
+1729,Shirtless,Construction attire,Type of clothing.,3
+1730,22 players,Two,The number of members.,3
+1731,Both teams.,Collision in park,The places are same.,2
+1732,Swinging,Riding in toy vehicle.,The motion of the children.,3
+1733,2 children,2,The number of children.,3
+1734,Male,Male,Gender of person.,5
+1735,Flip trick,Ollie,Type of skateboard trick.,4
+1736,Hiking,Rock climbing,The type of activity being done.,2
+1737,Elevated.,Rock climber leaning.,The way the people are standing.,2
+1738,Red,Red,The color of the shirt.,5
+1739,Descending fast,Trick,The speed of the skateboarders.,5
+1740,Red,White,The color.,3
+1741,One,Two.,The number of persons.,2
+1742,Skateboarding,Skateboarding trick.,The person  are activity.,4
+1743,Skate park,Skateboarding.,The place are activity.,1
+1744,Rocky terrain,Cliff or Cliffside.,The type of location.,4
+1745,Catching the man,Balancing,The motion of the people.,3
+1746,Bowling,Bowling,The sport being played.,4
+1747,Female,Male,The gender.,3
+1748,Auto Racing,Motorcycle racing.,The sport.,5
+1749,Race car driver in Yamaha bicycle,Motorcycle,The object.,2
+1750,Cowboys,Cowboy,The profession of the persons.,5
+1751,Bull,Horse,The type of animals.,1
+1752,Beach,Beach,The setting.,5
+1753,Zero,Multiple,The number of people.,1
+1754,Skiing,Skiing,The people's hobby.,3
+1755,White,Black,The clothes' color.,3
+1756,Dog,Dog,The type of animal.,4
+1757,Light-colored,Brown,The color of the animal.,2
+1758,Beach,Beach Setting,The person's surroundings.,5
+1759,Child,Unknown,The person's age.,1
+1760,Skiing,Skiing,Type of recreational activity.,5
+1761,Skiing.,High in the air,Height above ground.,4
+1762,Two people,Four people,The number of people.,4
+1763,Baseball,Softball,The sport.,3
+1764,Male.,Boy,The gender of the people.,5
+1765,Jumping,Backflip,The action of the boy.,5
+1766,Muddy trail,Dirt,Type of path.,4
+1767,Bike,Bicycle,What the person is riding.,4
+1768,One,One,The number of person.,5
+1769,Rocky hill,Forest,The name of the place.,1
+1770,Horses,Horse,Type of animal being ridden.,5
+1771,Yellow,Blue.,Color of one of the jockey's clothes.,1
+1772,Sterile,Sterile.,The sterility of the room.,4
+1773,Medical team,Support Staff,The presence of support staff.,2
+1774,Rollerblading,Gap jump,The activity undertaken by the athlete.,4
+1775,Eight wheels.,Four,The number of wheels.,4
+1776,Brown and white,Brown,Color of dog.,4
+1777,Friendly and energetic.,Energetic,Temperament of dog.,3
+1778,Two players,One person.,The amount of people.,3
+1779,Roller derby,Skating,The activity.,2
+1780,Jumping,Running,The motion of the animal.,4
+1781,Dog,Dog,The type of animal.,4
+1782,Youth,Young,Age of person.,2
+1783,Skateboard Shoes,Rollerblades,What the person is wearing on their feet.,1
+1784,One,One,The number of animals.,5
+1785,Dog,Dog,The type of animals.,5
+1786,Young,Child,The person's age.,5
+1787,Standing,Happy and playful,The person's posture.,4
+1788,Rock climbing,Climbing,The type of hobby.,5
+1789,Climbing rock face,Overhanging.,The position of the person.,2
+1790,Dog,Dog,The type of animal.,3
+1791,Two animals,Two dogs,The number of animals.,1
+1792,Bird.,Bird.,The type of animal.,4
+1793,One,Two,The number of animals.,3
+1794,Male,Male,The gender of the person.,5
+1795,Skateboarding,Inline skating,The activity.,4
+1796,Bicycle race,Race,The type of competition.,5
+1797,Crowded streets,Dirt track,The setting of the race.,3
+1798,1,Two dogs,The number of dog.,5
+1799,Sniffing,Dog chasing,The action of dog.,3
+1800,High,High altitude,The altitude of the skiiers.,4
+1801,Skiing,Skiing,The sport taking place.,3
+1802,Crossing street,Crossing Street,Action being taken.,4
+1803,Two people.,3,Number of people.,1
+1804,One person.,Man+Singers+band=4.,The number of persons.,5
+1805,Clown performer,Solo act,The absence of the band.,1
+1806,Snow color.,Snowboarding.,White snow.,3
+1807,Skiing,Snowboarder,In the air.,3
+1808,One,Three kids.,The number of kids.,3
+1809,Soccer ball,Soccer ball,The type of ball.,3
+1810,Baseball,Baseball,The type of sport.,5
+1811,Two players.,8 players.,The number of players.,3
+1812,Soccer,Soccer,The game played.,5
+1813,Quick restart,Out of bounds,The game having gone out of bounds.,2
+1814,Mulching machine.,Excavating.,Both sentence workers  work in the ground.,2
+1815,Inconsistency,Discrepancy,Number of workers there are two people in the first sentence but one people in the second sentence.,1
+1816,Dog,Dog.,The type of the animal.,4
+1817,2 dogs,Three dogs,The number of animals.,2
+1818,Safety check.,Rock climbing.,The person's intentions.,4
+1819,Safety Precaution.,Observers,The presence of observers.,1
+1820,Snow,Huskies,The color is white.,5
+1821,One.,Huskies,The number of animal.,2
+1822,Ballet,Dance.,The type of art.,5
+1823,1 ballerina,Two dancers,The number of performers.,1
+1824,One,One,The number of dog.,5
+1825,Brown,Yellow.,Color of dog.,1
+1826,Bicycle,Bike,The object being ridden.,5
+1827,One bush.,No bushes.,The number of bushes.,2
+1828,Identification.,Safety Gear,The clothes' function.,3
+1829,Orange.,Orange,The clothes' color.,2
+1830,Two,Two,The number of animals.,5
+1831,Playing soccer,Staring contest,The specific activity.,1
+1832,Natural landscape,Waterfall,The type of location.,4
+1833,One,Two,The number of people.,1
+1834,Male.,Male,The gender of the herder.,4
+1835,Bull,Sheep and dog.,The type of animals present.,2
+1836,Bike,Bicycle,Type of vehicle.,5
+1837,Rugged terrain.,Woodland terrain,Type of lanscape.,2
+1838,Water and hills,Sky flying.,The setting.,4
+1839,Aerial sports,Skydiving,The hobby.,4
+1840,Bike,Dirt bike,The type of vehicle.,5
+1841,One.,One,The number of person.,5
+1842,Dog,Dog,The species of animal.,5
+1843,Competition.,Competition.,The animal's intention.,3
+1844,1,Two dogs,The number of dogs.,5
+1845,Trotting,Dog catching ball,The action of the dog.,3
+1846,Motocross,Motocross,The sport.,4
+1847,Motocross,Motorcrossing,The event.,4
+1848,One,One.,The number of persons.,5
+1849,Lakefront,Waterfront.,The nature of the place.,4
+1850,Skateboarding,Skateboarding,The people's hobby.,4
+1851,Two individuals.,One person.,The number of people.,1
+1852,Black and red,Outfit: Not specified,The color of the outfit.,4
+1853,BMX bike,Motorcycle,They type of the vehicle.,1
+1854,One,One,The number of people.,5
+1855,Red Shirt,Gray-haired man: black gloves,The clothes worn.,1
+1856,One,One person.,The number of people.,4
+1857,Unconscious.,Despair.,The person's state.,2
+1858,Skateboarding,Skateboarding,The type of hobby.,5
+1859,Young,Boy,The age of the person.,3
+1860,Soccer game,Soccer field.,The setting.,4
+1861,Yellow and blue.,Blue and orange.,The colors of jersey.,4
+1862,Four wheeler,Mountain bike.,Type of vehicle.,5
+1863,Racing.,Competition,Type of interaction between racers.,4
+1864,Movement,Activity.,The running.,2
+1865,Brown,Black/white,The color of animal.,1
+1866,1,1,Number of child.,5
+1867,Playing in the sand,Beach digging.,Activity of child.,4
+1868,Rock climbing,Rocky,The nature of the place.,3
+1869,Two people,One,The number of persons.,2
+1870,Male,Male,The gender.,5
+1871,Snowy Pine Forest,Snowy mountain with man in orange jacket.,The scenery.,2
+1872,Ramping down,Midair,The elevation of the person.,4
+1873,Skateboarding.,Skateboarding,The sport.,4
+1874,In midair,Upside down,The position of the person.,5
+1875,Extreme sports,Cycling,The type of of hobby.,4
+1876,Oriental marketplace,Farmers Market,The name of spot.,3
+1877,Multiple,Many people.,The number of people.,3
+1878,Male,Female,The adult gender.,5
+1879,Model Car Track,Cars.,The vehicle.,4
+1880,Dog,Dog,Type of animal.,5
+1881,Tan,White,Color of the dog.,1
+1882,Seated by lakeside,Sitting.,The type of position.,5
+1883,Two,One person.,The number of people.,3
+1884,Jumping,Jumping,Height of animal.,3
+1885,Sunny,Snow,Weather condition.,3
+1886,Infant,Infant.,Age of child.,5
+1887,Onesie,Swaddle,Type of clothing.,2
+1888,One,One person.,The number of persons.,4
+1889,Horses,Donkey,The type of animal.,3
+1890,Dog,Dog,The type of animal.,5
+1891,Approaching with hind legs raised.,Jumping,The motion of the animal.,2
+1892,Jumping off,Jumping into leaves,The action of the person.,4
+1893,Swing,Ground,The starting point of the jump.,2
+1894,Hiking.,Hiking,The method of traversal.,1
+1895,Unknown,Moderate pace,The traveler's speed.,1
+1896,Rock climbing,Rock climbing,The type of hobby.,5
+1897,Male,Female,The sex of the person.,1
+1898,Corral,Ranch,The setting.,3
+1899,Steer,Cattle,The animal.,2
+1900,Beside the slope,Skate park,The location.,4
+1901,Skateboarding,Skateboarding,The type of sport.,3
+1902,Two wheels,Two,The number of wheels.,5
+1903,Dirt path,Sand,The terrain ridden over.,4
+1904,Brown and white,Tan and black,The color.,4
+1905,Dog,dog,The animal.,4
+1906,Green grass,Dry yellow grass,The ground cover.,5
+1907,Green,Yellow,The color of the grass.,3
+1908,Baseball,Baseball,The sport.,5
+1909,Baseball,Giants,The team.,3
+1910,Motorcycles,Motorcycle,The vehicle type.,5
+1911,Motorcycle racing,Motorcycle racing,The type of competition.,4
+1912,Three,Two,The number of riders.,2
+1913,Racing downhill.,Jumping,The action of the riders.,2
+1914,Walking,Walking,The motion of the people.,5
+1915,Suburb,Park,The type of location.,1
+1916,Snowy.,Snowing,The weather.,5
+1917,Snowboard,Snow skis,The means of transportation.,2
+1918,Dog,Dogs,Type of animal.,4
+1919,Grass,Path,Type of surface.,4
+1920,Male,Mixed,Gender of one of the people.,5
+1921,Race,Race,Type of competition.,5
+1922,Dogs.,Dogs,The type of animals.,5
+1923,Nose-to-nose.,"One standing, one lying",The position of the animals.,3
+1924,One,One.,The number of skis.,3
+1925,One,One,The number of skiers.,2
+1926,Dogs,Dogs,The animal.,4
+1927,Two,Three,The number of dogs.,1
+1928,Baseball,Baseball,The type of the sport.,5
+1929,Red and white,Blue and white,The color of the dress.,2
+1930,Mud,Dirt.,The presence of dirt.,4
+1931,bike course,Dirt road.,The routes the cyclists are taking.,1
+1932,Playing soccer,Soccer match.,The activity of the players.,3
+1933,Soccer,Soccer,The game being played.,2
+1934,Surfing,Canoeing,The hobby.,4
+1935,Foamy,Rough,The waves.,2
+1936,Shooting,Hunting,The people's hobby.,2
+1937,One,Two people,The number of people.,1
+1938,Skateboarding,Skateboarding,The sport being played.,5
+1939,Skate park,Skatepark,The place of the action.,3
+1940,Skateboarding,Skateboard,The means of traversal.,5
+1941,Above ramp,On skateboard,The rider's elevation.,4
+1942,Climbing Wall,Climbing,The name of the action.,5
+1943,"Blue, Orange, Purple",Red,The name of the color.,4
+1944,Bird,Bird,The type of animal.,5
+1945,Black,Black and white,The color of the animal.,1
+1946,Black dog,Black dog,The type of dog.,5
+1947,Black,Black,The type of color.,4
+1948,Man,Man,The person.,5
+1949,White,Unavailable,The color of object.,3
+1950,Skateboarding.,Skateboarding,The type of sport.,5
+1951,One-arm handstand.,Skateboarding in mid-air.,The position of the person.,1
+1952,Dog,Dog.,The type of animal.,5
+1953,Chewing,Aggression,The action of the animal.,1
+1954,Baseball.,Baseball,The type of the sport.,4
+1955,Many people,Number of spectators,The number of peoples.,3
+1956,Clear and sunny,Snowy,The weather.,3
+1957,Skiing,Snowboarding,The means of traversal.,3
+1958,Dirt track,Off track,Location.,3
+1959,Two,One.,Number of cars.,1
+1960,Two wheels.,Two,The number of wheels.,4
+1961,Slope,Rocks,The obstacle jumped over.,3
+1962,Two,Two,The number of dogs involved.,3
+1963,Running,Sniffing,The speed of the dogs.,1
+1964,Dogs,Dog,The type of animal.,5
+1965,Two,Two dogs.,The number of dogs.,4
+1966,Football,Football,The type of sport.,4
+1967,Onlookers,One,The number of people.,1
+1968,Brown,Brown,The color of animal.,5
+1969,Dog,Dog,The animal.,4
+1970,Rock climbing,Rock climbing,Type of recreational activity.,4
+1971,Up,Up,Direction of movement.,3
+1972,Dog.,Dog,The type of animal.,4
+1973,Swimming.,Slow,The animal's speed.,1
+1974,Horse,Horse,The type of animal.,5
+1975,Hanging on,Under horse.,The position of the person.,1
+1976,Dog,Dog,The type of animal.,5
+1977,Brown,White,The color of the animal.,1
+1978,Dog running,No hobby specified,The hobby.,3
+1979,Two,One,The number of animal.,2
+1980,One person.,One person,The number of people.,5
+1981,Male,Unknown,The gender.,3
+1982,Grilling,Grilling,They way the food is cooked.,5
+1983,Grilling,Grilling meat,The person doing the cooking.,5
+1984,Grocery store.,Grocery store,The location.,5
+1985,Cart,Shopping,The presence of a cart.,3
+1986,Baseball,Baseball,The sport.,4
+1987,Runner,At bat,The position of the athlete.,1
+1988,Mountain,Icy rocks,The type of terrain.,4
+1989,Red,Red,The color of clothing.,4
+1990,Baseball,Baseball,The game played.,4
+1991,About to hit base,Home plate,The position on the game field.,4
+1992,Experienced,Advanced,The person's experience level.,4
+1993,Climbing,Rock climbing,The person's hobby.,4
+1994,Snow.,Snow.,The presence of snow.,5
+1995,No backpack,No backpack,The absence of backpac.,4
+1996,Sightseeing.,Crossing street,Intention of travel.,4
+1997,Urban street,Urban Street,The setting is a street in town.,3
+1998,Baseball,Baseball,Type of game.,5
+1999,Red and black,red and white,Colors of the uniform.,4
+2000,Swimming pool,Swimming pool.,The nature of the place.,5
+2001,Boy,Female.,The gender of the persons.,1
+2002,Two dogs,One dog,The number of animals.,4
+2003,Dog,Dog,The type of animal.,3
+2004,One rider.,One person.,The number of people.,5
+2005,Quarry.,Woods,The place of the game.,3
+2006,Male,Boy,The gender of the skater.,4
+2007,Skateboarding.,Rollerblading,The type of skating.,1
+2008,Spotted Cow,Cowboy on bronco,The subject of the people's attention.,5
+2009,Cowboy culture,Western culture.,The culture of the people involved.,4
+2010,Dog and cow,Dogs,The type of the animals.,2
+2011,Two,2 dogs,The number of the animals.,1
+2012,Bicycle.,Bicycle,The type of the vehicle.,5
+2013,"Bicyclers: 0 
+Onlookers: Several",One,The number of persons.,5
+2014,Climber,Hiker,The climber.,4
+2015,Yellow,Red,The color of object.,1
+2016,Skiing,Skiing,The type of hobby.,4
+2017,One,Two,The number of people.,1
+2018,Male,Male,The gender of the person.,3
+2019,Shaving.,Three activities.,The number of activities being performed.,2
+2020,Two dogs,Two,The number of animal's.,5
+2021,ground-level,Jumping,The animal's elevation.,4
+2022,Dog,Mammal,The species of animal.,4
+2023,Curving out,Hunting.,The animal's attention.,4
+2024,Martial arts competition,Karate,The type of the event.,3
+2025,Participants,Two,The number of the persons.,2
+2026,One,One person.,The number of people.,5
+2027,Unspecified.,Male,The gender.,2
+2028,No sport.,Skateboarding,The sport.,1
+2029,Multiple.,Children,The number of people.,1
+2030,Field Hockey,Roller hockey,Type of sport in general.,4
+2031,Field hockey,Roller hockey,Specific type of hockey being played.,3
+2032,One person.,1,The number of people.,5
+2033,Skateboarding,Skateboarding,The game.,3
+2034,Young,Child,The age of the participant.,5
+2035,Beach sand scooping.,Playing at the beach.,The activity going on.,2
+2036,Dog,Dog,The type of animal.,5
+2037,Ball,Sticking retrieval.,The animal's attention.,2
+2038,Man,Rainbow Shirt,The person sitting outside.,3
+2039,Outdoor Music Listening,Rainbow Shirt Person Listening,The listening of music.,3
+2040,Children,Two children,The ages of the people.,5
+2041,Playful activity.,Hair brushing,The motion of the kids.,2
+2042,BMX,BMX,The type of sport.,4
+2043,Black helmet and elbow guards,Yellow shirt,The gear being worn.,1
+2044,One.,One,The number of people.,3
+2045,Car seat in bathtub.,Kitchen,The person's location.,1
+2046,Rodeo,Rodeo,The sport being played.,4
+2047,One person.,Multiple people,The number of people.,1
+2048,Skateboarding,Skateboarding.,The person's hobby.,5
+2049,Two people,One,The number of people.,4
+2050,Birds,Crane,The thing that fly.,5
+2051,Shore,River,The water locations.,1
+2052,Bicycle,Bicycle,The equipment used.,4
+2053,High,Moderate,The activity level.,4
+2054,Skateboard,Skateboard,The object being used.,5
+2055,Staircase,Park,The location.,3
+2056,Market,Store,The type of place.,3
+2057,Produce,Toys.,The type of products.,3
+2058,Five people.,Multiple,Number of people.,5
+2059,Beach,Beach,The location.,3
+2060,Oral Presentation,Presentation,Giving a lecture.,5
+2061,Unspecified.,Male-dominated.,The disparity of gender in the audience.,3
+2062,Canine Surfing,Beach fetch,The sport being played.,2
+2063,Two,One,The number of dogs.,1
+2064,Railroad,Railroad tracks,The object being inspected.,4
+2065,Orange and white.,Orange.,The color of the clothing.,3
+2066,Two boys,Adults,The age of the people.,3
+2067,Martial Arts,Karate,The type of sport.,3
+2068,Baseball,Baseball,The type of the sport.,5
+2069,One,Three players,The number of players.,4
+2070,Young,Boy,The person's age.,5
+2071,Five people.,1 observer,The number of observers.,1
+2072,Bull riding,Bull riding,Activity of man.,4
+2073,Brown,Brown and white,Color of bull.,1
+2074,Group of cyclists,One cyclsit,The number of cyclist.,4
+2075,Cycling,Cycling,The type of sport.,3
+2076,Cycling,Cycling.,The type of sport.,4
+2077,Numerous riders,Two,The number of riders.,1
+2078,Red,White,The color of object.,4
+2079,Motorsport,Motorcycling,The activity.,2
+2080,Cycling,Cycling,The sport being played.,4
+2081,Female,Male,The gender.,1
+2082,Skateboarding.,Skateboarding.,The name of the game.,5
+2083,Skateboarding.,Skateboarding trick.,The action of the person.,1
+2084,Cowboy,Cowboy,The people's occupation.,2
+2085,Two,One person.,The number of people.,1
+2086,Vegetables,Produce,Type of food.,5
+2087,Female.,Male,Gender.,1
+2088,Dog,dog,The type of animal.,5
+2089,Playing with dog,Throwing,The action of the person.,4
+2090,Two,Two people,The number of people.,5
+2091,Outdoors,Construction site,The place they are working in.,2
+2092,Stage Presence,Sound clarity.,The closeness of amplification.,5
+2093,performing music,Public speaking,The person's intention.,5
+2094,Running,Running on a field.,The speed of dogs.,5
+2095,Two dogs,Three,The number of animals.,1
+2096,White,White,The color of animal.,5
+2097,Dog wading,Splashing,The activity.,4
+2098,Teepee,Sign,The object nearby.,4
+2099,Traditional Native Outfits,Native American-themed.,The style of outfits.,4
+2100,Two,Two animals,The number of animals.,3
+2101,Brown and black,Both animals are unspecified.,The color of the animals.,1
+2102,Clear skies.,Snowy,The weather.,4
+2103,Three participants.,Four,The number of people.,2
+2104,One,One,The number of person.,5
+2105,The location is unspecified.,Parking lot boundary,The name of place.,4
+2106,Skateboard,Skateboard.,The type of the riding object.,5
+2107,Trick,Skateboarding,The action of the person.,4
+2108,Motocross bike.,BMX bike.,The vehicle used.,3
+2109,Two,Two,The number of wheels.,3
+2110,One,Two,The number of people.,4
+2111,Ocean,Ocean,The type of envrionment.,4
+2112,One dog,One,The number of animals.,5
+2113,Dog,Dog,The kind of animals.,3
+2114,Snowy.,Snow,The presence of snow.,5
+2115,One dog.,Two,The amount of dogs.,1
+2116,Rock,Water,The ground surface.,4
+2117,One,One boy.,The number of kids.,2
+2118,Dog,Canine,Type of animal.,5
+2119,Chasing,Turning,Position of the dogs relative to one another.,2
+2120,Field Hockey,Field Hockey,The sport being played.,5
+2121,Puck,Ball,The object used in this sport.,3
+2122,Gymnastics,Gymnastics,The name of the sport.,5
+2123,Flipping,Mid-leap grimacing,The action of the gymnast.,3
+2124,Construction,Setting up,The worker.,5
+2125,Constructing tunnel,Preparing tubes,The job of the workers.,4
+2126,Two children,Children,Age of people.,5
+2127,Three people.,Three people.,Number of people.,5
+2128,One person.,1,The number of persons.,5
+2129,Mountainous.,Snow-covered mountain.,The nature of the area.,3
+2130,Running.,Running,The action of the dog.,5
+2131,Dog,Dog,The animal.,2
+2132,One person.,One person.,The number of persons.,5
+2133,Lake.,Public pool,The nature of the place.,2
+2134,Skateboarding,Skateboarding,The type of sport.,4
+2135,Cement monument,Half pipe,The type of obstacle.,3
+2136,Dog.,Dog,The type of animal.,5
+2137,Tan and black,Brown and white,The color of the animal.,2
+2138,Pool,Outdoor swimming pool,The setting.,3
+2139,Three,Two,Number of kids.,2
+2140,Male,Male,Gender.,5
+2141,Horse.,Bull,Type of animal.,1
+2142,Dogs,Dogs,The type of animals.,5
+2143,Three dogs,Two dogs,The number of animals.,1
+2144,One skier.,One,The number of people.,5
+2145,Recreational.,Stationary,The speed of the person.,4
+2146,Pink,Pink,Color of the coat.,5
+2147,Gravel,Puddle,Type of surface.,1
+2148,Bike race.,Cycling race.,The kind of competition.,5
+2149,Competition.,Racing,The intention of the riders.,4
+2150,One,One,The number of people.,5
+2151,Snow,vehicle,The thing the child is holding onto.,1
+2152,Bike,Dirt bike,The mode of transportation.,5
+2153,Mountain biking,Motorsport,The sport.,2
+2154,Skateboarding,Skateboarding,The type of sport.,5
+2155,Building's entrance,Skatepark,The place they are boarding.,3
+2156,One,One,The number of animals.,5
+2157,Black,Brown,The color of the dog.,2
+2158,Bicycles,Bicycles,The vehicle type that is in use.,5
+2159,Moving at moderate pace,Fast,The speed of the cyclists.,4
+2160,Surfing,Surfing.,The activity being performed.,4
+2161,One participant,Three,The number of participants.,1
+2162,Smiling,Comforting gesture,The motion of the people.,3
+2163,Floral,Plants,The type of background.,2
+2164,1,One person.,The number of persons.,5
+2165,Missing Blue Goggles,No blue goggles.,The absence of blue googles.,1
+2166,One,One,The number of baby.,5
+2167,Chair,Bed,The place of activity.,4
+2168,One,Three,Number of people.,3
+2169,Winter attire,Snow attire,Costume of the people.,3
+2170,Skiing,Skiing.,The sport.,5
+2171,"""Ski lift""",Snow and trees,The objects behind the skiers.,3
+2172,Young boy,Children,The youthfulness of the boys.,4
+2173,Toy Train,Toy cars,The type of toys.,2
+2174,Bikes,Bicycle,The type of vehicle.,5
+2175,Supportive,Positive,The sentiment of the people.,4
+2176,Playing with doll,Looking up,The actions involved.,5
+2177,Same gender.,Both girls.,The fact that they're both girls.,5
+2178,Plaid,Purple.,The shirt's color.,4
+2179,Brown Horse,Horse,The animal ridden.,3
+2180,Vendor.,Fruit vendors,The occupation of the women.,5
+2181,Fruits and root crops,Fruits,The objects being sold.,4
+2182,Jumping,Jumping,The action.,5
+2183,Backyard or garden,Dog playing with tennis ball,The setting.,3
+2184,Water.,City skyline,The background of the stunt.,4
+2185,High jump,Midair,The rider's elevation.,4
+2186,Snowy,Snowy,Weather condition.,4
+2187,Varying,Sledding downhill.,Speed of children.,4
+2188,Surfing,Surfing,The action of the person.,5
+2189,One person.,One,The number of people.,3
+2190,Crying,Distress,The emotional expression of the baby.,5
+2191,Green and yellow outfit,"""Minimal clothing""",The amount of clothing on the baby.,1
+2192,Rhythmic Gymnastics,Gymnastics,The type of sport.,5
+2193,Rhythmic gymnastics,Gymnastics Routine,The action of the girl.,2
+2194,Female,Female,The person's gender.,4
+2195,Floral skirt,Gray sweater,The clothes worn.,1
+2196,One,One.,The number of people.,5
+2197,Sliding.,Immobile,The person's speed.,1
+2198,Wrestling,Wrestling,The type of sport.,3
+2199,Seven people.,Two people,The number of people.,1
+2200,Bowling,Bowling,The type of sport.,5
+2201,Casual attire.,Casual,The type of clothing.,1
+2202,Skateboarding,Skateboarding,The type of sport played.,5
+2203,Child,Age not specified.,The age of the skateboarders.,2
+2204,Dog,Dog,The animal.,5
+2205,Rolling,Mid-air.,The body position of the dog.,4
+2206,Hilly.,Steep,Slope of ground.,4
+2207,Orange,Red and black,Color of clothes.,1
+2208,Outdoor,Incline,The type of location.,4
+2209,Skateboarding,Skateboarding,The type of sport.,4
+2210,Off-road biking,Extreme sports,The type of hobby.,4
+2211,Seated on a dirt bike,Upside down,The position of the rider.,3
+2212,Surfing,Surfing,The person's hobby.,5
+2213,Surfing,Mountain,The background.,2
+2214,Two,Two people,The number of people.,5
+2215,Cooking.,Washing dishes,The hobby.,2
+2216,Football Game,Celebrating,The specific activity.,4
+2217,Football game.,Team Celebration,The setting.,3
+2218,Mountain bike,Snowboard,The sporting equipment.,4
+2219,Thrilled.,Adventurous.,The sentiment of the person.,1
+2220,One.,Three.,Number of people.,5
+2221,Training in martial arts.,Sparring,Action of the people.,5
+2222,Horse,Bull,The animal.,4
+2223,One.,One rider,The number of people on an animal.,2
+2224,Dogs,Dogs,The type of animals.,5
+2225,Pawing,Animal Conflict,The movment of the animals.,2
+2226,In front of chest,Forehead,The location of the swimmer's hands.,3
+2227,Swimming,Swimming,The sport.,2
+2228,Three participants.,Two women,The number of people.,5
+2229,Martial arts competition.,Martial arts tournament,The type of event.,5
+2230,Canine,Dog,The type of animal.,5
+2231,Running,Walking,The speed of the animal.,1
+2232,Dog.,Dog,The type of animal.,5
+2233,Grassy Field,Grass,The type of terrain.,3
+2234,Muddy male soccer.,Soccer,The activity.,5
+2235,Multiple,2 players,The number of person.,3
+2236,Dog,Dog,The type of the animal.,5
+2237,White,Brown,The color of the dog.,1
+2238,Dog,Dog,The type of animal.,5
+2239,One,Two dogs,The number of animals.,2
+2240,Three dogs,Two dogs,The number of dogs.,4
+2241,"White, black, and red",Brown,The color.,2
+2242,One,1,The number of dog.,5
+2243,Black,White.,The name of the color.,4
+2244,Dog,Dog.,The type of animal.,5
+2245,Brown,Light-colored,The animal's color.,2
+2246,Soccer,Soccer,The game played.,5
+2247,In progress,Goal scored.,The state of game play.,3
+2248,Two,Three animals,The number of animals.,5
+2249,Red Chew Toy,Duck toy,The name of the toy.,4
+2250,Bicycle,Bicycle,The means of transportation.,4
+2251,Proximity to trees,Close proximity,The nearness to trees.,1
+2252,Snowy,Cold,The weather.,5
+2253,Unknown,Child,The person's age.,2
+2254,Brown,White,The color of the dog.,5
+2255,Cardio.,Dog running,The type of exercise.,4
+2256,Blue,Blue,The shirt color.,4
+2257,Window cleaning,Construction work.,The work being done.,3
+2258,Two dogs,Two dogs,The number of dogs.,5
+2259,Wrestling.,Two dogs.,The adversity.,2
+2260,Climbing,Observing.,The motion of the person.,4
+2261,Rock climbing,Hiking,The type of hobby.,2
+2262,Female,Female,The person's gender.,4
+2263,Pink jacket,Flowered dress.,The person's clothes.,1
+2264,One,One.,Number of snowboarder.,5
+2265,Jumping,Jumping,Action of the snowboarder.,5
+2266,Water play,Puddle Splashing,The game.,5
+2267,Female.,Unspecified,The gender.,3
+2268,Snowboarding,Snowboarding,The sport being played.,5
+2269,Snowboard Park,Hilly woodland.,The place of the game.,3
+2270,#7,Number 8,Number on the greyhound's jersey.,1
+2271,Greyhound,Greyhound,Breed of dog.,1
+2272,Baseball,Baseball,The sport.,5
+2273,Male,Male,The gender.,4
+2274,Unknown,One rider.,The number of riders.,5
+2275,Winter recreational activity,Setting ambiance,The purpose of the setting.,3
+2276,Running,Chasing.,The speed of the dogs.,2
+2277,Three dogs,Two dogs.,The number of dogs.,1
+2278,Locations vary.,Mid-air flip,The locations are change.,5
+2279,Recreation.,Midair flip,Their actions are same.,4
+2280,Two,Two,The number of dogs.,5
+2281,Friend ly,Aggressive.,The temperment of the dogs.,2
+2282,Snowy mountains.,Organizing Supplies,The people's immediate attention.,3
+2283,Mountain Climbing,Outdoor supply organization,The people's hobby.,3
+2284,Choral music,Music,The sound.,3
+2285,Mixed,Male,The gender.,1
+2286,Crampons.,Boots,Type of foot covering.,5
+2287,Mountainous terrain,Mountain.,Type of geological feature.,2
+2288,Field,Water,Place of activity.,5
+2289,Running,Swimming with branch,Activity of dog.,4
+2290,Ocean,Ocean view.,What people are looking at.,5
+2291,Beach trio,Cliff's edge,Position of people.,1
+2292,Surfing.,Surfing,The sport.,5
+2293,Three,One,The number of people.,4
+2294,One,One.,The number of people.,5
+2295,Buttocks,Hand,The body part that's touching wood.,1
+2296,Dog carrying stick,Jumping.,The activity of animal.,4
+2297,Dog,Dog,The animal.,4
+2298,Jumping,Leaping,Action of the dog.,5
+2299,One dog,One.,Number of dogs.,2
+2300,White and blue.,Summary: Undetermined.,The color of the surfing material.,4
+2301,One,One person,The number of persons.,3
+2302,Dog,Dog,The type of animal.,5
+2303,Resting,Running,The motion of the animal.,4
+2304,Blond toddler - Blue sweater.,N/A,The color of the wearings.,4
+2305,One,One.,The number of persons.,3
+2306,Dog,Dog,The type of animal.,5
+2307,Three,Two dogs,The number of animals.,2
+2308,3,Three,The number of persons.,5
+2309,Festive costumes,Colorful costumes,The wear of costumes.,2
+2310,Dogs,Dogs,The species of animals.,5
+2311,Gray.,White and orange,The color of the animals.,1
+2312,One person.,One,The number of people.,4
+2313,Walking,Stationary,The speed of the person.,1
+2314,Blouse,Blue shirt,The type of top.,4
+2315,Blue,Blue,The color of the top.,4
+2316,One,1,The number of dogs.,5
+2317,Red,Orange,The color.,2
+2318,Dog,Canine,The type of animlas.,5
+2319,Black,Brown and White,The color of the animlas.,1
+2320,Dog,Dog,The type of animal.,4
+2321,White,brown,The color of the animal.,3
+2322,Two,Two,The amount of cyclists.,5
+2323,Highway,Corridor,Where the cyclists are riding.,2
+2324,Park,Park,The place.,4
+2325,Eyes,Face,The body part being covered.,1
+2326,Grass,Grass,The ground surface.,5
+2327,Black and Tan,Color Uniformity.,The homogeneity of color.,3
+2328,Content.,Sleeping,The state of mind of the person.,3
+2329,Infant,Toddler,The age of the person.,3
+2330,Two people,Two,The number of person.,5
+2331,Hiking,Hiking,The activity of stream.,4
+2332,Two wheels.,Two,The number of wheels.,5
+2333,Airborne,Biking.,The relation to the ground.,1
+2334,Jumping,Leaping,The motion of the dog.,5
+2335,Two dogs,One,The number of dogs.,1
+2336,American Football,Football,The game being played.,5
+2337,In possession.,Tackled,The status of the player.,3
+2338,Young.,child,The person's age.,4
+2339,Close proximity,Close proximity.,The nearness to the water.,2
+2340,Soccer,Soccer,The name of the game.,5
+2341,Black,Not specified.,The color of the pants.,2
+2342,Dogs,Dogs,The type of animal.,5
+2343,Brown,Black and white,The color.,1
+2344,White,Brown and white.,The color of the animal.,3
+2345,Small.,Medium-sized,The size of the animal.,1
+2346,Male,Male,The gender of the persons.,5
+2347,Two people,One,The number of persons.,2
+2348,Marine Patrol.,River,The nature of the place.,3
+2349,Two patrol.,Multiple,The number of persons.,3
+2350,Running,Running,The speed of the dog.,4
+2351,White and brown,Red,The color of the dog.,2
+2352,Football game,Live game,The state of the game played.,4
+2353,Sports event,Soccer game,The setting.,3
+2354,Goggles,Goggles,The object used.,4
+2355,Underwater,Swimming pool,The place.,4
+2356,Two,Two,The number of the animals.,5
+2357,Tan and white,Two dogs.,The color of the animals.,4
+2358,Skiing and snowboarding,Skiing,The type of hobby.,5
+2359,Three people,One person.,The number of people.,4
+2360,Football,Football,The game being played.,5
+2361,Tackling.,Field.,The player's attention.,4
+2362,Black,Black,The color of the dog.,5
+2363,Playing,Fetching,What the dog is doing.,4
+2364,Outdoor Market,Tropical forest,Type of environment.,2
+2365,Fresh food.,Fruit,Type of food.,2
+2366,Snowy.,Snow-covered,The terrain.,4
+2367,Skiing,Hiking,The physical activity.,1
+2368,Tennis,Tennis,The type of the sport.,5
+2369,Blue and white,Outfit Color: N/A,The color of the outfit.,1
+2370,Two,Two,Number of dogs.,3
+2371,Red.,Pink,Color of collars.,2
+2372,Tackling,Playing football,What the players are doing.,5
+2373,Football,Football,Sport being played.,4
+2374,One person,One,The number of the persons.,5
+2375,Red and white,Green,The color of the wearings.,2
+2376,Running,Running,The speed of the dog.,5
+2377,Fluffy,Shaggy,The density of the coat.,1
+2378,Baseball,Softball,Specificity of type of sport.,5
+2379,Swinging at ball,Swinging at softball.,Action being taken.,4
+2380,Bike tricks,Cycling,The sport of biking.,4
+2381,crowd,One,The amount of people present.,3
+2382,Pitching,Sliding,The physical motion.,3
+2383,Baseball.,Baseball.,The sport.,3
+2384,Rodeo.,Lassoing or roping,The type of hobby.,5
+2385,Bronco riding.,Lasso swinging on horse,The movement of the cowboy.,4
+2386,Yellow,Yellow,The color.,4
+2387,On the ramp,Skiing,The motion.,3
+2388,Walking,Crowd,The motion of the people.,5
+2389,Urban street,Outdoors,The type of location.,4
+2390,String instruments.,Mixed instruments,The type of instrument.,4
+2391,Duo,String and percussion ensemble,The type of ensemble.,3
+2392,Motorcycle,Motorcycle,The object.,5
+2393,Positive,Motorcycle maneuver,The sentiment of the people.,1
+2394,Unknown,Apex.,Height of ball relative to ground.,2
+2395,Baseball,Baseball,Type of sport.,2
+2396,Sprinting,Dog catching ball,The action.,5
+2397,Dog,Dog,The animal.,5
+2398,Bicycle,Bicycle.,The type of vehicles.,4
+2399,One person.,One,The number of persons.,4
+2400,Surfing,Surfing,The sport.,4
+2401,Surfing on a large wave,Falling into Wave,The position of the surfers.,1
+2402,Intimate concert.,Rock concert,The event taking place.,4
+2403,Intimate concert vibe,Energetic.,The mood of the genre.,3
+2404,Wall,BMX bike,The object used in the stunt.,5
+2405,Bicycle,BMX,The vehicle type.,5
+2406,Skateboarding.,Skateboarding trick,The action of the person.,4
+2407,Skateboarding,Skateboarding,The name of the sport.,4
+2408,Hiking,Mountain Climbing,The people's hobby.,5
+2409,Two,One.,The number of climbers.,1
+2410,Boat towed innertube,Blue kayak,The water setting.,4
+2411,Innertube,Kayak,The method of transportaion.,2
+2412,Motorcycle,Motorbike,The type of vehicle.,5
+2413,Track Racing.,Motocross,The type of race.,2
+2414,One,One,The number animal.,5
+2415,Yellow,Black and white,The color of object.,2
+2416,Construction workers,Construction.,The occupation.,5
+2417,Roadworks,concrete work,The type of construction.,2
+2418,Basketball,Basketball,The type of the sport.,4
+2419,White,Red,The color of the wearing.,1
+2420,Onlookers.,Audience,Presence of others.,4
+2421,In the air.,Shooting.,Position relative to the ground.,1
+2422,Male,Boy,The gender of the person.,5
+2423,Orange.,Black.,The color of the attire.,1
+2424,One person,One,The number of persons.,5
+2425,Windsurfing,Stand-up surfing,The type of surfing.,2
+2426,Dogs,Dogs,Type of animal.,5
+2427,Fast,Unknown,Speed of dogs.,1
+2428,Tree identification.,Proximity to trees.,The nearness of trees.,3
+2429,Three people.,One,The number of people.,2
+2430,Horse,Horse,The type of animal.,4
+2431,Hurdle,Jump,The type of obstacle.,4
+2432,Basketball stadium,Basketball court.,The court.,5
+2433,Preparation.,Physical activity,The strenuousness.,1
+2434,Mountain bike,Motorcycle,The type of vehicle.,4
+2435,Forest,Wooded Area,The type of location.,4
+2436,Playful aggression,Dog playing,The animal activity.,4
+2437,Teeth,Green,The color of object.,1
+2438,Hockey,Hockey,The name of the sport.,5
+2439,Enforce rules,Game regulation,The role of the referee.,5
+2440,Snowy,Clear skies.,The weather.,4
+2441,Snowboarding,Aerial skiing,The means of traversal.,3
+2442,Close.,Far,The distance from the rider.,4
+2443,Skiing,Skiing,The sport performed.,2
+2444,Dog,Dog,The type of animal.,5
+2445,In the woods,Trail,The location of the wood.,3
+2446,Brown,Brown,The color of the animal.,4
+2447,Medium-sized,Small,The size of the animal.,4
+2448,Male,Male,The gender of the person.,5
+2449,One.,One person,The number of people.,4
+2450,Tri-colored,Beige,The color of the animals.,3
+2451,Two,Two,The number of animals.,2
+2452,White surfboard,Surfboard,The type of board.,4
+2453,Dark wetsuit.,White T-shirt,The clothing.,2
+2454,Wet.,Rainy,The nature of the street.,5
+2455,Unspecified,Female,The gender of the person.,4
+2456,Cycling.,Cycling,The people's hobby.,5
+2457,Two.,One.,The number of riders.,1
+2458,Skiing,Skiing,The sport.,5
+2459,Down the mountain,Backwards,The direction the skier is facing.,1
+2460,Female,Female,The gender.,5
+2461,Unknown,Girl,Person's age.,3
+2462,Baseball,Baseball,The game being played.,4
+2463,Swinging,Catching baseball,The action being taken.,2
+2464,1,One skier.,The number of person.,4
+2465,Ice skating,Skiing,The type of activities.,3
+2466,Park,Green grass,The place of playing.,4
+2467,One,Two,The number of dog.,3
+2468,Brown,Brown,The color of the animal.,5
+2469,Yard,Playing,The distance covered.,4
+2470,Two,Two,The number of animals.,5
+2471,Dogs running,Stick,The animal's attention.,2
+2472,Rodeo arena,Rodeo,The location of the actvities.,4
+2473,One,Group,The number of people.,1
+2474,Green,Green,The color of the clothing.,4
+2475,Scooter.,Tricycle,The transportation method.,1
+2476,Posing,Dancing,The actions.,3
+2477, Eight,Three,The number of dancers.,2
+2478,Brown and white,Black,Color of animal.,4
+2479,Dog,Dog,Type of animal.,4
+2480,Swimming with innertube,Sliding,The motion of the girl.,4
+2481,Female,Female,The sex of the the person.,4
+2482,Soccer ball,Soccer ball.,The type of ball.,5
+2483,Observing,Juggling,The activity being performed on the ball.,2
+2484,Two people,Two,The number of people.,5
+2485,Climbing,Swinging,The activity of the people.,1
+2486,Two,Two people,The amount of people.,4
+2487,Embracing,Hiking,The movement of the people.,1
+2488,Female,Female,The gender of the person.,5
+2489,Dry Technique,Sauteing.,The cooking method used.,4
+2490,Two,One,The number of the animals.,2
+2491,Brown,Brown,The color of the animals.,1
+2492,Tan,Brown and white,The color of the animal.,2
+2493,Dog,Dog,The type of animal.,2
+2494,Dogs,Dogs,The type of animal.,5
+2495,Three dogs,5,The number of animals.,1
+2496,Parade,Parade,The type of event.,5
+2497,Dancing,Parade participation,The action of people.,1
+2498,Dog,Dog,The animal.,5
+2499,Hiking.,Snowman Building,The physical activity.,1
+2500,Skateboard,Skateboard,The recreational device.,5
+2501,Trick.,Skateboarding uphill.,The stunt being performed.,3
+2502,Skateboard,Skateboarding,The means of traversal.,5
+2503,Parking lot.,City street,The location.,5
+2504,Catching object,Catch,The movement of the animal.,4
+2505,Dog,Dog,The type of animal.,3
+2506,Surfer.,Above wave,The position of the person.,5
+2507,Surfing,Surfing,The sport being played.,4
+2508,Dogs,Dog,The type of the animal.,4
+2509,Black and white,"White, black, and brown",The color of the animal.,1
+2510,Cattle herding,Bull wrangling.,The specific activity.,4
+2511,Two,Two men,The number of men.,2
+2512,Tennis.,Tennis,The competition.,5
+2513,Tennis,Tennis,The sport.,5
+2514,Football,Soccer,The sport.,3
+2515,Tackling,Kicking,The physical action.,1
+2516,Martial arts,Karate,The sport.,4
+2517,High,High martial arts performance.,The level of the activity.,3
+2518,Teasing,Chasing,The name of the action.,3
+2519,Two,Two,The number of dogs.,2
+2520,Motocross,Cycling,The sport.,5
+2521,Diverse,White,The color of people.,2
+2522,Two,Two players,The number of competitors.,5
+2523,Blue,White,The competitor's clothes color.,1
+2524,Airborne,Swiftness,The speed of the people.,4
+2525,Extreme sports,Skateboarding,The type of the hobby.,1
+2526,Proximity.,Nearby,The closeness to the stairs.,5
+2527,Grind,Grind,The type of stunt.,1
+2528,Hiking,Hiking,The hobby.,5
+2529,Group,Two,The number of people.,2
+2530,Bike,Bike,The transportation method.,4
+2531,Two,One rider.,The number of people.,4
+2532,Close,Nearby,The person's distance from water.,4
+2533,Child,Child,The person's age.,2
+2534,Female,Female.,Gender of child.,4
+2535,Water sprinkler,Bubble wand,What the child is playing with.,3
+2536,Muddy river.,Water.,The type of terrain.,4
+2537,Large boats,Motor boat,The type of boat.,3
+2538,Running,Chewing,The action of the dogs.,1
+2539,Two,One dog,The number of dogs.,1
+2540,Snowy,Winter,Weather condition.,3
+2541,Snowball.,Unknown,Height of the snow that the children are holding.,2
+2542,Surgery,Surgery.,The treatment.,5
+2543,Surgery,Surgery.,The activity.,5
+2544,Cycling,Cycling,The sport.,5
+2545,Pedaling,Slowly,The speed of cyclists.,2
+2546,Baseball,Baseball,The hobby.,5
+2547,Crowded,One.,The number of people.,4
+2548,Two,Two athletes,The number of athletes.,5
+2549,MMA cage fight,Boxing,The type of competition.,2
+2550,Windsurfing,Parasurfing,Being on the water or not.,5
+2551,Sailboard,Wave,What is being ridden.,2
+2552,Skateboard,Bicycle,The wheeled sports equipment.,3
+2553,Energetic.,Excitement,The sentiment of the crowd.,3
+2554,Spectator presence,Witnessing the event.,Presence of spectators.,5
+2555,On top,In front of.,Position of the man relative to the bull.,4
+2556,Baseball,Baseball,The sport.,5
+2557,"In summary: ""object color""",Maroon,The color of object.,4
+2558,Guitar,Guitar,The instrument used.,5
+2559,Music enthusiasts,Positive,The people's attitude.,3
+2560,Baseball,Baseball,The type of sport.,5
+2561,Swinging at a ball,Safe,The spot of the player.,1
+2562,Skateboard.,Skateboard,The object ridden.,5
+2563,Ramp,Underpass,The location.,1
+2564,Contentment,Peaceful,The people's sentiment.,5
+2565,Elderly.,Adults,The people's age.,3
+2566,Elephant,elephant,The animal.,5
+2567,Two,Three,The number of people.,4
+2568,Running,Running,The type of sport.,4
+2569,Multiple,One,The number of people.,3
+2570,Skateboarding,Skateboarding,The type of hobby.,5
+2571,Skateboarding at a ramp.,Mid-Air,The position of the person.,2
+2572,One.,One,Number of dogs.,5
+2573,Running,Chasing a ball,Action of a dog.,4
+2574,Two,Two dogs,The number of dogs.,4
+2575,Passing by,Playful interaction,The interaction between the dogs.,1
+2576,Skateboarding,Skateboarding,Kind of sport.,5
+2577,Female,Male,Gender of the skateboarder.,4
+2578,Skateboarding,Skateboarding,The name of the sport.,5
+2579,Skateboarding Jump,Skateboarding,The action of the person.,4
+2580,Indoors or outdoors,Outdoors,Whether indoors or outdoors.,5
+2581,In play.,Between players,Position of the ball relative to the players.,2
+2582,Baseball,Baseball,The type of sport.,5
+2583,Red,Orange,The color of uniform.,1
+2584,Male,Male.,Gender.,5
+2585,Cup,Bottle,Type of beverage container.,1
+2586,two,Two wheels.,The number of wheels.,5
+2587,Motorbike,Bicycle,The means of transportation.,2
+2588,Two dogs,Two,The number of dogs.,5
+2589,Playful roughhousing,Playing fetch.,The interactions of the dogs.,4
+2590,Skateboard,Bike,The type of vehicle used.,4
+2591,Boy,Male,The gender of the peroson.,3
+2592,Unknown.,Two people,The number of people.,3
+2593,Baseball,Baseball,The hobby.,1
+2594,Grocery shopping.,Grocery shopping.,The reason for the gathering.,4
+2595,Diverse shoppers,Diverse.,The variety of customers.,3
+2596,Dog,Dog,Type of animal.,5
+2597,Fast.,Jumping,Speed of dog.,3
+2598,Dog,Dog,The type of the animal.,5
+2599,Fetching,Running,The action of the animals.,4
+2600,Three people.,Two,How many people.,5
+2601,Two,Two,How many children.,4
+2602,Karate gi,Karate uniform,The type of clothes.,4
+2603,Young,Middle-aged,The age of the person.,4
+2604,Two dogs,Two,The number of the dogs.,5
+2605,Dog sniffs.,Affectionate interaction,The action of the dogs.,4
+2606,Three,3,The number of people.,4
+2607,Snow-covered hill,Walking,The prescence of ambulation.,1
+2608,Blue,Blue,The color of object.,5
+2609,Fishing,Fishing,The hobby.,2
+2610,Dog,Dog,The type of animal.,4
+2611,black pot,"Garden hose, stone bench",The type of object in the background.,2
+2612,Tie dyed,Green,The shirt color.,1
+2613,Skateboard_railing,Ramp,The incline.,1
+2614,1,One,Number of kids (1).,5
+2615,Swing set,Tire swing.,Type of swing (swing set vs. tire).,4
+2616,Wrestling,Wrestling,The type of sport.,5
+2617,Blue,Red and white,The color of the outfit.,1
+2618,One person,One skier,The number of people.,5
+2619,Skiing downhill.,Mid-air.,The position of the skier.,3
+2620,Skateboarding,Skateboarding,The sporting activity involved.,4
+2621,One,One,The number of people.,1
+2622,Construction.,Construction work.,The nature of action.,2
+2623,One,Four people,The number of persons.,2
+2624,Snowy,Snow,Weather condition.,5
+2625,Snowmobile,ATV,Type of vehicle.,3
+2626,Black and white,Black,The color of the dog.,5
+2627,Dog,Dog,The species of the animal.,5
+2628,Dirt Path,Gravel.,They type of path.,2
+2629,One cyclist,2 bikers.,The amount of people.,1
+2630,Flag football,"""Soccer""",The game being played.,5
+2631,Tag game.,Competing.,The competitive intentions of participants.,4
+2632,Male,Male,The gender.,5
+2633,One person.,One,The number of people.,3
+2634,Cowboy.,Cowboy,The type of person.,5
+2635,Bull,Calf,The type of animal.,4
+2636,Barbecue.,Outdoor cooking,The activity of the people.,3
+2637,Three people,Multiple,The number of people.,1
+2638,Cowboys,Cowboy,The people's occupation.,5
+2639,Two,One,The number of riders.,1
+2640,Males,"Two men.  
+",The gender of the persons.,5
+2641,Three.,2 men,The number of persons.,1
+2642,Dogs,Dogs,The type of animals.,5
+2643,"Black, Orange, Black and White",Brown and white.,The color of the animals.,1
+2644,Dachshund,Dog,The species of animal.,4
+2645,Ball,Chasing,The animal's attention.,3
+2646,Child,Young,The age of those playing.,4
+2647,Playful activity,Sippy cup contents.,What's ingested.,1
+2648,Bicycle,Cyclothon,The type of the vehicle.,5
+2649,High-stakes competition,Cyclothon,The nature of the ride.,4
+2650,Dogs,Dog,The species of animal.,5
+2651,Physical bond,Proximity.,The closeness of one animal to another.,2
+2652,Dog,Dogs.,The animal.,5
+2653,Brown,Brown and white,The colors.,2
+2654,Motorcycle,Bicycle,The vehicle type.,5
+2655,Experienced,Intermediate.,The level of experience.,3
+2656,Hockey,Hockey,The sport.,5
+2657,Faceoff position,Near the goal,The position of the athletes on the ice.,2
+2658,Male,Male.,The sex of the person.,5
+2659,Splash,Drifting,The motion of the person.,3
+2660,Child in stroller.,Child.,The presence of small child.,5
+2661,Four.,Two,The number of persons.,1
+2662,Running,Running into the ocean.,The movement of the boy.,4
+2663,Not submerged,Partially Submerged.,The boy being partially submerged or not.,2
+2664,Dog,Dogs,The type of animals.,5
+2665,Soccer Ball = White,Red,The color of the balls.,2
+2666,Skiing,Stationary,The motion of the person.,4
+2667,Mountain Range.,Mountain.,The type of location.,4
+2668,Wedding,Wedding,The type of event.,5
+2669,Group photo,applauding,The motion of the people.,2
+2670,Swimwear.,Swimsuit,The type of clothes.,4
+2671,1,One,The number of persons.,3
+2672,Rock climbing.,Rock climbing,The hobby.,5
+2673,Extreme sports enthusiasts.,Rock climber.,The people.,4
+2674,Female,Female,The sex of the musician.,5
+2675,Guitar.,bass,The type of instrument.,3
+2676,Wave board,Surfboard,Type of board.,5
+2677,Wakeboarding,Surfing,The water sport.,2
+2678,Skateboarding,Skateboarding,The sport.,2
+2679,Skating trick,Balancing skateboard on beam.,The trick.,2
+2680,Beach,Ocean,The place.,4
+2681,Beach activities,Sailing,The action of the kids and the people.,1
+2682,Snowy,Snowy,The weather.,5
+2683,Airborne,Flipping.,The person's connection with the ground.,4
+2684,Snowy.,Snowy,Weather condition.,4
+2685,Following,Digging,Speed of the dog.,2
+2686,one,One person,The number of persons.,5
+2687,Fishing equipment,Fishing equipment.,The belongings of the persons.,4
+2688,Mixed gender.,Woman,The gender of the persons.,5
+2689,No cellphone,No cellphone.,The absence of cellphone.,4
+2690,Male,Male,The gender.,2
+2691,Green,Orange,The color.,2
+2692,Canine,Dog,The type of animal.,3
+2693,Three,One,The number of animals.,1
+2694,Hound dog,Dogs.,The animal.,5
+2695,One,Three,The number of animals.,1
+2696,Focused,Catcher's readiness.,The catcher's attitude.,5
+2697,Baseball,Baseball,The sport played.,4
+2698,Standing,Above grass,The position on the swing.,3
+2699,Young.,Young,The age of the children.,3
+2700,Dog,Dog,Type of animal.,5
+2701,Black and white,Black,Color of the dog.,3
+2702,Bass guitar,Electric Guitar,The type of instrument.,5
+2703,Bass guitar performance.,Guitar-playing,The musical activity.,4
+2704,Horse,Horses,The animal.,4
+2705,1,Two,Number of animals.,4
+2706,Two,Two,The number of persons.,5
+2707,Roadway,Parallel Cycling,The nature of the way.,2
+2708,Snowboarding,Snowboarding,The person's hobby.,3
+2709,Teenager,Age: Unknown,The person's age.,1
+2710,Boy,Male,The gender of the person.,5
+2711,Blue and white shorts.,Spiderman t-shirt,The clothes.,4
+2712,Snowy mountains,Snowy mountain,The setting.,5
+2713,Red snow gear,Backpack.,The person's equipment.,2
+2714,Motorcycle,Motorcycle,The vehicle.,4
+2715,Leaning for a sharp turn.,Speeding,The driving action.,3
+2716,three,One,Number of people.,4
+2717,Forest,Winter forest.,Type of scenery in the background.,2
+2718,Dog,Dogs,The type of animal.,5
+2719,White and brown.,"Black, golden, black and white",The color of dogs.,2
+2720,Dog,Dog.,The species of animal.,5
+2721,Running,Walking,The speed of the animal.,3
+2722,Black and white,Black and white,The color of the animals.,5
+2723,Two,One,The number of animals.,1
+2724,Ocean,Water,The name of the location.,5
+2725,Brown,Black and white,The color of the dog.,2
+2726,Playful Romping,Dog Colliding,Action of dogs.,3
+2727,Brown and white,Golden,Color of second dog.,1
+2728,Skateboard jump.,Cliff Jump,The type of stunt performed.,3
+2729,Skateboarding,Skateboarding,The sport.,3
+2730,White horse,Horse,The animal.,2
+2731,Female.,Male,The gender of the rider.,1
+2732,Rodeo clown,Cowboy.,The person's occupation.,5
+2733,Thrown,On bull.,The person's elevation.,4
+2734,Baseball,Baseball,The name of sport.,5
+2735,Baseball field,Base.,The place of player.,2
+2736,Unknown,4 firemen,The number of people.,3
+2737,Emergency response.,Emergency response,The type of work.,2
+2738,Two people,Two people,The number of people.,5
+2739,Two people,Two people,The number of people underwater.,1
+2740,Skateboarding angle.,Oblique.,The angle of skating.,4
+2741,Skateboarding,Skating.,The name of the sport.,3
+2742,Ball,Soccer ball.,Type of toy.,4
+2743,Small,Soccer ball,Size of ball.,1
+2744,Three people,One.,The number of people.,2
+2745,Child,Adolescent.,The age of the person jumping.,1
+2746,Fruit preparation.,Food preparation.,The person's intention.,3
+2747,Crouched,Sitting,The person's position.,2
+2748,Microscopes,Specimen,The object.,5
+2749,Three,One,The number of people.,1
+2750,Duck,Bird,Type of animal.,4
+2751,Not mentioned.,Tall,Height of animal.,1
+2752,Red,Orange,Color of guitar.,2
+2753,Red guitar,Orange Guitar,String instrument being played.,2
+2754,Baseball,Baseball,The type of sport.,5
+2755,Three people,One,The number of people.,1
+2756,Swimming,Swimming,The hobby of people.,5
+2757,Black,Blue,The color of object.,2
+2758,Football,Football,The sport.,5
+2759,Tackled,Play,The physical action.,1
+2760,Horseback,Lassoing animal.,The position of the people.,3
+2761,Roping a steer,Lassoing an animal,The movement of the people.,3
+2762,Outdoors,Backyard,The name of the place.,1
+2763,Shoveling snow,Sitting,The action of the person.,1
+2764,Gymnastics,Gymnastics,The method of performance.,3
+2765,Balancing beam gymnastics,Pending,The state of the person's performance.,2
+2766,Dog,dog,The animal.,4
+2767,Air,Grass,The location of movement.,2
+2768,Bicycle,BMX,Object being ridden.,5
+2769,Ramp_Height,Jump.,The dirt elevation.,2
+2770,Bike,Bicycle,The type fo the vehicle.,4
+2771,Ruggedterrain,Snowy forest,The nature of the place.,3
+2772,Multiple,One child,The amount of people.,5
+2773,Wet.,Splashing.,The wetness of the children.,3
+2774,Electric Guitar,Guitars,The type of the music instruments.,5
+2775,One,3 Guitars,The number of music instruments.,1
+2776,Baseball,T-ball,The type of sport.,4
+2777,Red and white,T-ball uniform,The type of uniform.,4
+2778,Inverted and airborne,Airborne,The position of the person.,2
+2779,Skateboarding.,Snowboarding,The type of sport.,2
+2780,Blank,Black,The color of the pants.,5
+2781,Skateboarding.,Skateboarding.,The name of the action.,5
+2782,Children,Children,The age group.,5
+2783,Multiple,Twelve,The number of people.,4
+2784,Green,Red,The color of the object.,5
+2785,Dog,Dog,The type of animal.,4
+2786,Ski-jumping,snowmobile jump,The name of the action.,5
+2787,Two skiers,Crowd,The number of people watching.,3
+2788,Three,Two bikers.,The number of bikers.,2
+2789,BMX,Mountain bike,The type of bike.,1
+2790,Sitting,Sitting,The posture of the people.,3
+2791,Next to table.,Colorful display,The arrangement of the merchandise.,2
+2792,Dancing,Dancing.,Activity of people.,5
+2793,5.,Five.,Number of people.,3
+2794,Beach,Beach,The type of location.,5
+2795,Dog,Human.,The type of living creature.,1
+2796,Sitting upright.,Horizontal Position,Position of the person on the horse.,3
+2797,Horses,Horse,Type of animal.,2
+2798,Football,Football,The game being played.,5
+2799,Football.,Field goal preparation.,The activity.,3
+2800,Attempted bite,Mouthful bite.,The type of bite.,5
+2801,Dog,Dog,The type of animal.,5
+2802,Sledding,Skipping,The physical activity.,4
+2803,Dog,dog,The animal.,3
+2804,Snow,Snow.,Weather.,5
+2805,Frolicking,Running,Speed of movement.,4
+2806,Running,Track Cycling,The type of sport.,5
+2807,"Orange shirt - ahead
+Green shirt - running",Running race,The position of the people.,3
+2808,Dirt path.,Muddy beach,The location.,3
+2809,Running,Running,The type of movement of the dog.,3
+2810,Construction Worker,Construction Worker,The occupation of the man.,5
+2811,White,Not provided in the sentence.,The color of object.,2
+2812,Window shopping.,Window shopping,Type of shopping.,3
+2813,Man observing,Man observing,Presence of a man observing.,2
+2814,Two dogs.,Two,The number of dogs.,4
+2815,Toy,Orange,The existance of a toy.,3
+2816,Skateboarding,Skateboarding,The sport.,5
+2817,Khaki,Pink,The color of the shirt.,3
+2818,Dog,Dog,The animal.,5
+2819,Approaching.,Not mentioned,The speed of animal.,1
+2820,yellow,Orange,The color of the object.,3
+2821,Two dogs,Two dogs,The number of animals.,3
+2822,Cycling,Cycling,The sport.,5
+2823,One cyclist.,Group,The number of people.,1
+2824,Male,Male.,Gender.,5
+2825,Basket on shoulder,Cart near man,Position of objects relative to man.,1
+2826,Blue,Blue,The color of helmet.,5
+2827,Exploring,Biking with feet on handlebars,The motion of the person.,1
+2828,Beach,Rocky Beach,The type of location.,4
+2829,Playing on the beach.,Surfing,The motion of the person.,1
+2830,Children,Three,The number of people.,3
+2831,Water Feature,Pool,The presence of water.,3
+2832,Black and white.,Black and white.,The color.,3
+2833,Running,Walking,The locomotion.,3

@@ -1,0 +1,43 @@
+sentence1,sentence2,condition,label,correction
+A guy zooming in the air on his skateboard off of a city bench.,A man on a skateboard is on a ramp in a wide open space.,The number of people.,5,-1
+"Young woman in orange dress about to serve in tennis game, on blue court with green sides.",A girl playing tennis wears a gray uniform and holds her black racket behind her.,The color of the dress.,5,1
+"Young woman in orange dress about to serve in tennis game, on blue court with green sides.",A girl playing tennis wears a gray uniform and holds her black racket behind her.,The name of the game.,4,5
+A slice of pizza and a fork sit on a tray covered in wax paper.,a close up of a person cutting a pizza with half and half toppings,The name of the food.,4,-1
+a close up of a giraffe laying on a ground near many large rocks,A giraffe reaches up his head on a ledge high up on a rock.,The type of animal.,5,-1
+a close up of a giraffe laying on a ground near many large rocks,A giraffe reaches up his head on a ledge high up on a rock.,The animal's posture.,2,-1
+The big brown dog looks at the small black dog in tall grass .,A dog walks in the grass towards a dog lying down .,The number of animals.,3,5
+"A woman cuts a ""welcome to the neighborhood"" cake for a crowd of people.",Several people in a group are having a good time while two cakes are ready to be sliced.,The number of people.,4,-1
+Two teams are playing soccer in a large stadium that is filled with spectators .,A player on the red soccer team has just scored a goal while the opposing team watches the ball go in .,The game played.,5,-1
+one cat sits on a table while another sits on top of what looks like an old refrigerator,two cats are both on the floor and one of them is eating a snack,The animal.,3,5
+A dog runs over the snow carrying a large stick in its mouth .,A black and white dog is playing with a white ball .,The type of the animals.,4,-1
+A man in a shirt and tie with his hands in his pockets leaning against a wall.,"The man is wearing a dress coat, suit and tie, but not dress pants. ",The gender of the person.,5,-1
+A baseball player batting at home plate with a catcher and umpire looking on.,"Three baseball players wait anxiously for the ball to be pitched, during a game",The name of the sport.,5,-1
+A woman in an oversized black shirt plays a black and red guitar in a musky room .,"A bass player girl , who is performing at a concert one of the bands songs .",The sex of the musician.,5,-1
+"A city highway with exit signs above that say ""Exit 7 E23 St 3/4 mile"" and ""Exit 8 495 Midtown Tun E34 St"".","A street sign pointing in one direction with the word ""Spring St"" as the other sign points in the other direction of ""Broadway"".",Where the signs are located.,2,-1
+White and brown dog with mouth open running on grass .,A dog with a red collar and its tongue hanging out runs through tall grass .,The color of the dog.,2,-1
+A long haired cat sitting on a bathroom counter in front of a mirror.,The cat lies on a mirror and its reflection looks back up at it.,The type of animal.,5,-1
+A small white dog leaps over a root in the woods .,a little brown dog running through a field of grass,The color of the animal.,3,2
+A man is wearing a yellow jacket is wrangling an out of control horse in an outdoor stadium .,"Two men on horseback , each swinging lassos , are chasing a calf inside a rodeo ring .",The number of people.,1,-1
+Small children in a third world country sitting together .,Children playing in a street on makeshift skateboards .,The sport.,1,-1
+A glass of red wine and a bowl of chili with corn chips on a wooden board,A plate with a sandwich and chips sitting on a counter with a bottle.,The location of the food.,4,-1
+A person on a snowboard is completing a trick on a half pipe in the snow white colored mountains .,A person wearing a blue jacket walking up a hill through snow with red skies .,The sport.,4,-1
+A mountain biker jumping a slope outdoors in a forest area .,a cyclist is making his bike jump between two rocks .,The number of wheels.,4,-1
+A plate full of cut salad with a fork and a glass full of cold drink with ice.,"A dish which contains broccoli, cauliflower and meat is pictured on top of a wooden tray.",The presence of vegetables.,5,-1
+A bicyclist goes over a dirt ramp and catches some air .,A skateboarder performing an aerial trick on a half pipe .,The speed of the people.,4,-1
+Brown dog and German shepherd standing near each other in the grass near water .,Two dogs with the same coloring look like they are going to bite each other in the face .,The number of dogs.,5,-1
+A boy is flying in midair while snowboarding in a hilly and wooded area .,A person wearing a black sweatshirt and red pants is riding on a snowboard on a green box .,The person's age.,1,3
+The big brown dog looks at the small black dog in tall grass .,A dog walks in the grass towards a dog lying down .,The color of the animals.,1,3
+A set of Wii motes sits on a futon in a mildly cluttered living room.,A room with a bunk bed over a couch and a desk with computer.,The name of the place.,1,-1
+The man is holding a baby near a carnival game .,A new dad sees that his fatherhood is continuing .,Fatherhood.,4,-1
+Three women are working with microscopes while wearing white .,A female is in a lab looking at a yellow liquid .,The female.,4,-1
+A desk and chair  with a monitor and laptop sitting next to a window.,A bright light in a living room next to a table and a folded up stepstool.,The room.,4,3
+"A girl sitting on a counter next to a blender, some cups and a microwave.","An assortment of items on top of a desk, one of which is a laptop computer.",The location.,4,2
+Surf n' Turf with broccoli and carrots really looks good on a white plate.,"A picture of someone's dinner. Steak with carrots and greens on the side, on a green plate.
+",The color of the plate.,3,1
+A black and white dog is playing with a ball on a lawn .,A small dog jumping an obstacle in a grassy field .,The size.,5,3
+A table setting with a candle and a glass with limes on the side.,"A tall case of flowers on an elaborate dining area sit alongside two wine glasses and a dish.
+",The dish.,1,3
+One little boy trying to hit the ball with all of his strength .,A baseball player in blue is running the bases while a player in red tries to tag him out .,The sport.,2,3
+A baseball player gets ready to swing for a ball as the catcher prepares to catch it.,The batter is swinging at the pitch with catcher and  umpire focused at the ball.,The sport.,3,5
+5 men in yellow vest working at construction site .,Workman on a scaffold are finishing a ceiling of a building .,The occupation.,5,-1
+Two players fencing inside a gym with several spectators in the background .,A crowd of people watch a martial arts demonstration .,The sport.,4,3

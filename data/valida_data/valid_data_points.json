@@ -1,0 +1,862 @@
+[
+    {
+        "sentence1": "A person standing on a sidewalk holding a sandwich that has carrots on it.",
+        "sentence2": "A dish served containing pickles, tomatoes, and bread with a side of french fries.",
+        "condition": "The number of person.",
+        "answer1": "The keyword that matches the given condition is \"person\".",
+        "answer2": "unknown",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A person standing on a sidewalk holding a sandwich that has carrots on it.",
+        "sentence2": "A dish served containing pickles, tomatoes, and bread with a side of french fries.",
+        "condition": "The type of work.",
+        "answer1": "unknown",
+        "answer2": "unknown",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "This bathroom stall has toilet tissue on the floor while the toilet is raised.",
+        "sentence2": "A full trashcan is beside the commode in a public restroom toilet that needs to be cleaned.",
+        "condition": "The room's function.",
+        "answer1": "unknown",
+        "answer2": "public restroom toilet",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "This bathroom stall has toilet tissue on the floor while the toilet is raised.",
+        "sentence2": "A full trashcan is beside the commode in a public restroom toilet that needs to be cleaned.",
+        "condition": "The location of trash.",
+        "answer1": "unknown",
+        "answer2": "beside toilet",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "An older man holding a glass of wine while standing between two beautiful ladies.",
+        "sentence2": "a group of people gather around a table with bottles and glasses of wine.",
+        "condition": "The people's demeanor.",
+        "answer1": "Unknown",
+        "answer2": "unknown",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A monkey mug in front of a computer with a stuffed penguin beside it.",
+        "sentence2": "A laptop computer sitting on top of a table next to two computer monitors.",
+        "condition": "The name of the device.",
+        "answer1": "unknown",
+        "answer2": "laptop computer, computer monitors",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A monkey mug in front of a computer with a stuffed penguin beside it.",
+        "sentence2": "A laptop computer sitting on top of a table next to two computer monitors.",
+        "condition": "The name of the animal.",
+        "answer1": "monkey, penguin",
+        "answer2": "unknown",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A plate full of food, a bowl of food, and a drink, and a bowl full of chips",
+        "sentence2": "This plate has a sandwich which is cut in half and a side of coleslaw.",
+        "condition": "The type of meal.",
+        "answer1": "food, drink, chips",
+        "answer2": "Sandwich, coleslaw",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A plate full of food, a bowl of food, and a drink, and a bowl full of chips",
+        "sentence2": "This plate has a sandwich which is cut in half and a side of coleslaw.",
+        "condition": "The quantity of food.",
+        "answer1": "A plate full of food, a bowl of food, and a drink, and a bowl full of chips  \nCondition: The quantity of food  \n\nAnswer: plate, bowl",
+        "answer2": "unknown",
+        "common_score": "two",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A large red and blue boat sitting on top of a lake next to other boats.",
+        "sentence2": "Part of a ship sits in the shallow end of the bay next to a city.",
+        "condition": "The type of conveyance.",
+        "answer1": "boat",
+        "answer2": "unknown",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A guy zooming in the air on his skateboard off of a city bench.",
+        "sentence2": "A man on a skateboard is on a ramp in a wide open space.",
+        "condition": "The number of people.",
+        "answer1": "unknown",
+        "answer2": "1",
+        "common_score": "two",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A guy zooming in the air on his skateboard off of a city bench.",
+        "sentence2": "A man on a skateboard is on a ramp in a wide open space.",
+        "condition": "The sport.",
+        "answer1": "skateboard",
+        "answer2": "skateboard",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "Young woman in orange dress about to serve in tennis game, on blue court with green sides.",
+        "sentence2": "A girl playing tennis wears a gray uniform and holds her black racket behind her.",
+        "condition": "The color of the dress.",
+        "answer1": "orange",
+        "answer2": "gray",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "Young woman in orange dress about to serve in tennis game, on blue court with green sides.",
+        "sentence2": "A girl playing tennis wears a gray uniform and holds her black racket behind her.",
+        "condition": "The name of the game.",
+        "answer1": "The name of the game is unknown.",
+        "answer2": "Tennis",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A slice of pizza and a fork sit on a tray covered in wax paper.",
+        "sentence2": "a close up of a person cutting a pizza with half and half toppings",
+        "condition": "The name of the food.",
+        "answer1": "pizza",
+        "answer2": "pizza",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A slice of pizza and a fork sit on a tray covered in wax paper.",
+        "sentence2": "a close up of a person cutting a pizza with half and half toppings",
+        "condition": "The type of items.",
+        "answer1": "unknown",
+        "answer2": "pizza, toppings",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "a close up of a giraffe laying on a ground near many large rocks",
+        "sentence2": "A giraffe reaches up his head on a ledge high up on a rock.",
+        "condition": "The animal's posture.",
+        "answer1": "laying",
+        "answer2": "The keywords matching the given condition \"The animal's posture\" from the sentence are \"reaches up\".",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "a room with a brown sofa,computer on a table next to a window and a red book shelf ",
+        "sentence2": "A bedroom with a purple light behind on the wall and flowers in front of a bed area that is on the floor.",
+        "condition": "The number of people in the room.",
+        "answer1": "unknown",
+        "answer2": "unknown",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A fire hydrant at a crossroads intersection. The hydrant looks like its fading with age.",
+        "sentence2": "There is a large access panel in the sidewalk next to the fire hydrant.",
+        "condition": "The fire hydrant.",
+        "answer1": "The fire hydrant",
+        "answer2": "fire hydrant",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "female tennis player jumping off the ground and swinging racket in front of an audience",
+        "sentence2": "A woman holding a tennis racket getting ready to hit the ball while another woman watches behind her.",
+        "condition": "The number of the player.",
+        "answer1": "unknown",
+        "answer2": "The keyword that matches the condition \"The number of the player\" is unknown.",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "female tennis player jumping off the ground and swinging racket in front of an audience",
+        "sentence2": "A woman holding a tennis racket getting ready to hit the ball while another woman watches behind her.",
+        "condition": "The name of the game`.",
+        "answer1": "unknown",
+        "answer2": "Tennis",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A red and a black laptop on a round black table near two people sitting down.",
+        "sentence2": "Some sort of mechanical device with a key board is hooked up to something like a tablet.",
+        "condition": "The number of people.",
+        "answer1": "two",
+        "answer2": "unknown",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A red and a black laptop on a round black table near two people sitting down.",
+        "sentence2": "Some sort of mechanical device with a key board is hooked up to something like a tablet.",
+        "condition": "The object's function.",
+        "answer1": "unknown",
+        "answer2": "unknown",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "This dinner platter has roast beef and mashed potatoes with gravy, vegetables, greens, and bread.",
+        "sentence2": "Food sirs on a blue paisley plate on top of a Christmas themed table cloth.",
+        "condition": "The type of meal.",
+        "answer1": "unknown",
+        "answer2": "unknown",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "This dinner platter has roast beef and mashed potatoes with gravy, vegetables, greens, and bread.",
+        "sentence2": "Food sirs on a blue paisley plate on top of a Christmas themed table cloth.",
+        "condition": "The variety of food.",
+        "answer1": "roast beef, mashed potatoes, vegetables, greens, bread",
+        "answer2": "unknown",
+        "common_score": "two",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A black and white photo of surfers walking along the shore with their surfboards.",
+        "sentence2": "A person on a surfboard with their hands up at the peak of a small wave in the water.",
+        "condition": "The sport.",
+        "answer1": "surfing",
+        "answer2": "surfboard, wave",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A bicycle in a store window reflecting images of the cars and building across from it.",
+        "sentence2": "A blue bike is chained to a pole while a brown and black dog sits in a window.",
+        "condition": "The sport.",
+        "answer1": "unknown",
+        "answer2": "Unknown",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A bicycle in a store window reflecting images of the cars and building across from it.",
+        "sentence2": "A blue bike is chained to a pole while a brown and black dog sits in a window.",
+        "condition": "The color of object.",
+        "answer1": "Unknown",
+        "answer2": "blue, brown, black",
+        "common_score": "two",
+        "common_difficulty": "simple",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "A child happily kicks her foot while lying in bed as a smiling adult woman looks on.",
+        "sentence2": "A beautiful little girl sitting on top of a bed holding a stuffed animal.",
+        "condition": "The type of furniture.",
+        "answer1": "bed",
+        "answer2": "bed",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A child happily kicks her foot while lying in bed as a smiling adult woman looks on.",
+        "sentence2": "A beautiful little girl sitting on top of a bed holding a stuffed animal.",
+        "condition": "The movement of the child.",
+        "answer1": "kicks",
+        "answer2": "unknown",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "a man on a beach lungin in the air with a freezbie between his legs",
+        "sentence2": "A male, on a sandy beach, holding a surfboard over his head, walking toward the lifeguard.",
+        "condition": "The number of people.",
+        "answer1": "1 person",
+        "answer2": "The keyword that matches the given condition is \"one\" as there is a male person in the sentence.",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "There is an image of a horse in a stall looking at the camera.",
+        "sentence2": "One horse has its mouth on the ground and the other horse is facing the opposite direction of the first.",
+        "condition": "The type of animal.",
+        "answer1": "horse",
+        "answer2": "horse",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "On this plate there is croissant sandwich with egg and cheese, and diced potatoes.  ",
+        "sentence2": "A piece of meat covered in ketchup next to a hamburger on a green plate.",
+        "condition": "The type of food.",
+        "answer1": "Croissant sandwich, egg, cheese, potatoes",
+        "answer2": "meat, ketchup, hamburger, plate",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "On this plate there is croissant sandwich with egg and cheese, and diced potatoes.  ",
+        "sentence2": "A piece of meat covered in ketchup next to a hamburger on a green plate.",
+        "condition": "The food with plate.",
+        "answer1": "croissant sandwich, diced potatoes",
+        "answer2": "hamburger, meat, ketchup, plate",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "An interesting living room with futuristic furniture and garish curtains with metallic red polka dots.",
+        "sentence2": "A flat screen TV sitting on top of a wooden table in front of a window.",
+        "condition": "The living room.",
+        "answer1": "An interesting living room",
+        "answer2": "Unknown",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "An interesting living room with futuristic furniture and garish curtains with metallic red polka dots.",
+        "sentence2": "A flat screen TV sitting on top of a wooden table in front of a window.",
+        "condition": "The different activity.",
+        "answer1": "unknown",
+        "answer2": "unknown",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "a piece of cake sitting on a plate with a fork and nothing else",
+        "sentence2": "A dessert that features chocolate cake, ice cream, and strawberries on a white plate. ",
+        "condition": "The number of thing.",
+        "answer1": "The keywords that match the given condition \"The number of thing\" in the sentence are: one",
+        "answer2": "chocolate cake, ice cream, strawberries",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "a out dated old kitchen that needs to be revamped containing a old stove and cabinets that lacked doors.",
+        "sentence2": "A counter cluttered with many items, including a tea kettle, a pot, a food scale and more.",
+        "condition": "The name of the things.",
+        "answer1": "stove, cabinets",
+        "answer2": "tea kettle, pot, food scale",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "a out dated old kitchen that needs to be revamped containing a old stove and cabinets that lacked doors.",
+        "sentence2": "A counter cluttered with many items, including a tea kettle, a pot, a food scale and more.",
+        "condition": "The name of the object.",
+        "answer1": "stove, cabinets",
+        "answer2": "tea kettle, pot, food scale",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A red cow and her baby calf enjoying the sunshine in a pasture of tall grass.",
+        "sentence2": "A brown horse with a white patch on his face and nose grazes in a pasture.",
+        "condition": "The color of animal.",
+        "answer1": "red",
+        "answer2": "brown",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "no"
+    },
+    {
+        "sentence1": "A red cow and her baby calf enjoying the sunshine in a pasture of tall grass.",
+        "sentence2": "A brown horse with a white patch on his face and nose grazes in a pasture.",
+        "condition": "The animal.",
+        "answer1": "cow, calf",
+        "answer2": "horse",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A zebra rolling around in the dirt near an oxen and a herd of zebras.",
+        "sentence2": "A bunch of zebras some drinking water and some laying down in the grass.",
+        "condition": "The type of animal.",
+        "answer1": "zebra, oxen, herd",
+        "answer2": "Zebras",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A zebra rolling around in the dirt near an oxen and a herd of zebras.",
+        "sentence2": "A bunch of zebras some drinking water and some laying down in the grass.",
+        "condition": "The animal's attention.",
+        "answer1": "unknown",
+        "answer2": "unknown",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "An adult is holding their arm out while birds land on their hand to get food.",
+        "sentence2": "A bird on top of a womans glove as she stands in a grassy field.",
+        "condition": "The number of people.",
+        "answer1": "1",
+        "answer2": "1",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "An adult is holding their arm out while birds land on their hand to get food.",
+        "sentence2": "A bird on top of a womans glove as she stands in a grassy field.",
+        "condition": "The animal.",
+        "answer1": "birds",
+        "answer2": "bird",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A hotel bedroom with stone walls, a bed with plain white linen, and a wall-mounted heating and air conditioning unit.",
+        "sentence2": "A bed with a white comforter sits in a room with red print on the walls.",
+        "condition": "The type of room.",
+        "answer1": "unknown",
+        "answer2": "unknown",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A hotel bedroom with stone walls, a bed with plain white linen, and a wall-mounted heating and air conditioning unit.",
+        "sentence2": "A bed with a white comforter sits in a room with red print on the walls.",
+        "condition": "The material of the walls.",
+        "answer1": "stone",
+        "answer2": "unknown",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A wood table sitting by a wood framed bed with a lamp on it.",
+        "sentence2": "A microwave, refrigerator, television, and wooden drawers sit in the corner of a bedroom. ",
+        "condition": "The room type.",
+        "answer1": "unknown",
+        "answer2": "unknown",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A wood table sitting by a wood framed bed with a lamp on it.",
+        "sentence2": "A microwave, refrigerator, television, and wooden drawers sit in the corner of a bedroom. ",
+        "condition": "The number of objects.",
+        "answer1": "two",
+        "answer2": "4 (microwave, refrigerator, television, drawers)",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A surf board sticking up out of the sand in front of the shoreline.",
+        "sentence2": "A beach with two surfers holding boards and single board laying in the sand.",
+        "condition": "Location.",
+        "answer1": "shoreline",
+        "answer2": "beach,sand",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A surf board sticking up out of the sand in front of the shoreline.",
+        "sentence2": "A beach with two surfers holding boards and single board laying in the sand.",
+        "condition": "Number of people.",
+        "answer1": "Unknown",
+        "answer2": "two surfers, single board",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A dining table next to a den with chairs, a couch and a television.",
+        "sentence2": "A view of the inside of a house with chair, television, clock, pictures, and other items.",
+        "condition": "The name of the object.",
+        "answer1": "dining table, den, chairs, couch, television",
+        "answer2": "chair, television, clock, pictures",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A dining table next to a den with chairs, a couch and a television.",
+        "sentence2": "A view of the inside of a house with chair, television, clock, pictures, and other items.",
+        "condition": "The name of the action.",
+        "answer1": "unknown",
+        "answer2": "unknown",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "An oak table and chairs in a dining room, with an open doorway into the kitchen.",
+        "sentence2": "Three couches positioned around a coffee table near a window in a living room.",
+        "condition": "The table.",
+        "answer1": "table",
+        "answer2": "coffee table",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "An oak table and chairs in a dining room, with an open doorway into the kitchen.",
+        "sentence2": "Three couches positioned around a coffee table near a window in a living room.",
+        "condition": "The kitchen.",
+        "answer1": "kitchen",
+        "answer2": "unknown",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "And elephant behind a low log fence and someone leaning on the fence, taking a picture in another direction.",
+        "sentence2": "A man and a small boy are riding on an elephant in the sun.",
+        "condition": "The name of the animal.",
+        "answer1": "Elephant",
+        "answer2": "Elephant",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "One cat sitting on a chiar and another sitting on a table next to it",
+        "sentence2": "A cat with a remote control, a smart phone and a few other items on it's back.",
+        "condition": "The animal.",
+        "answer1": "cat, animal",
+        "answer2": "cat",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "One cat sitting on a chiar and another sitting on a table next to it",
+        "sentence2": "A cat with a remote control, a smart phone and a few other items on it's back.",
+        "condition": "The number of animal.",
+        "answer1": "Two",
+        "answer2": "unknown",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "a kitchen that is fully furnished with a cart in the center of it.",
+        "sentence2": "An orderly kitchen area utilizes bold red walls, glass front cabinet doors and up to date stainless appliances.",
+        "condition": "The kitchen.",
+        "answer1": "The kitchen",
+        "answer2": "The keywords matching the condition \"The kitchen\" in the given sentence are \"kitchen area\".",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "a kitchen that is fully furnished with a cart in the center of it.",
+        "sentence2": "An orderly kitchen area utilizes bold red walls, glass front cabinet doors and up to date stainless appliances.",
+        "condition": "The place.",
+        "answer1": "kitchen",
+        "answer2": "kitchen area",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A blond haired woman surf in blue short holds her board near the shore.",
+        "sentence2": "A person carrying a surfboard into the waves near another person floating on a surfboard.",
+        "condition": "The sport.",
+        "answer1": "surf",
+        "answer2": "surfing",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A blond haired woman surf in blue short holds her board near the shore.",
+        "sentence2": "A person carrying a surfboard into the waves near another person floating on a surfboard.",
+        "condition": "The color of object.",
+        "answer1": "blond, blue",
+        "answer2": "unknown",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A wide shot of a modern kitchen with a glass table in the foreground.",
+        "sentence2": "A kitchen with nice wooden cabinets and flooring, but with one cabinet door missing.",
+        "condition": "The name of the object.",
+        "answer1": "table",
+        "answer2": "cabinet",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A wide shot of a modern kitchen with a glass table in the foreground.",
+        "sentence2": "A kitchen with nice wooden cabinets and flooring, but with one cabinet door missing.",
+        "condition": "The name of the place.",
+        "answer1": "Unknown",
+        "answer2": "unknown",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A person has his hand back with a racket and his feet are spread apart.",
+        "sentence2": "A tennis player wearing a blue outfit stretches up high with his racket on a tennis court.",
+        "condition": "The activity.",
+        "answer1": "Unknown",
+        "answer2": "Playing tennis",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A person has his hand back with a racket and his feet are spread apart.",
+        "sentence2": "A tennis player wearing a blue outfit stretches up high with his racket on a tennis court.",
+        "condition": "The racket.",
+        "answer1": "racket",
+        "answer2": "racket",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "a bench sitting in a yard with a little pond and a lot of pretty flowers",
+        "sentence2": "The wooden bench is framed by a pair of bushes and a young tree.",
+        "condition": "The color of object.",
+        "answer1": "unknown",
+        "answer2": "Wooden, unknown",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "a bench sitting in a yard with a little pond and a lot of pretty flowers",
+        "sentence2": "The wooden bench is framed by a pair of bushes and a young tree.",
+        "condition": "The object.",
+        "answer1": "bench, yard, pond, flowers",
+        "answer2": "bench, bushes, tree.",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A train with many cars is on one of three sets of train tracks",
+        "sentence2": "Two red trains traveling next to each other next to a lush green hillside.",
+        "condition": "The type of vehicle.",
+        "answer1": "train, cars",
+        "answer2": "Trains",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A train with many cars is on one of three sets of train tracks",
+        "sentence2": "Two red trains traveling next to each other next to a lush green hillside.",
+        "condition": "The number of vehicles.",
+        "answer1": "many cars",
+        "answer2": "Two",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "The rear of a bus and a traffic light are pictured in a downtown night scene.",
+        "sentence2": "This is a picture of a busy downtown cross walk with several cars in the flow of traffic.",
+        "condition": "The location of the scenery.",
+        "answer1": "unknown",
+        "answer2": "busy downtown cross walk",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "The rear of a bus and a traffic light are pictured in a downtown night scene.",
+        "sentence2": "This is a picture of a busy downtown cross walk with several cars in the flow of traffic.",
+        "condition": "The vehicles in sight.",
+        "answer1": "bus, traffic light",
+        "answer2": "cars",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A person skiing downhill on a ski slope that has flags stationed on a course.",
+        "sentence2": "A skier in a red suit bends over while riding skies and holds long ski poles.",
+        "condition": "The name of the game.",
+        "answer1": "Unknown",
+        "answer2": "unknown",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A person skiing downhill on a ski slope that has flags stationed on a course.",
+        "sentence2": "A skier in a red suit bends over while riding skies and holds long ski poles.",
+        "condition": "The type of play.",
+        "answer1": "unknown",
+        "answer2": "unknown",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A snow skier skiing through a fenced course with a large building in the background.",
+        "sentence2": "A person in a blue jacket on a snowboard on the side of a snowy mountain.",
+        "condition": "The snow.",
+        "answer1": "snow",
+        "answer2": "snowboard, snowy mountain",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A snow skier skiing through a fenced course with a large building in the background.",
+        "sentence2": "A person in a blue jacket on a snowboard on the side of a snowy mountain.",
+        "condition": "The actvity.",
+        "answer1": "skiing",
+        "answer2": "Snowboarding",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "The sun shines over the tree top while a horse grazes in a field.",
+        "sentence2": "A group of live stock some sheep geese and cows are outside in a field.",
+        "condition": "The grazes field.",
+        "answer1": "grazes, field",
+        "answer2": "live stock, sheep, geese, cows",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "The sun shines over the tree top while a horse grazes in a field.",
+        "sentence2": "A group of live stock some sheep geese and cows are outside in a field.",
+        "condition": "The activity.",
+        "answer1": "unknown",
+        "answer2": "unknown",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A woman wearing a blue shirt, black shorts, and pink shoes swings a tennis racket.",
+        "sentence2": "Lady with back to the camera and let up in the air playing tennis.",
+        "condition": "The gender.",
+        "answer1": "woman",
+        "answer2": "Lady",
+        "common_score": "five",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A woman wearing a blue shirt, black shorts, and pink shoes swings a tennis racket.",
+        "sentence2": "Lady with back to the camera and let up in the air playing tennis.",
+        "condition": "The physical motion.",
+        "answer1": "swings",
+        "answer2": "unknown",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A cluttered office space with a work desk under bare windows and tightly crowded furniture.",
+        "sentence2": "A pea green room with a couch, a table, a TV and a bookshelf.",
+        "condition": "The color of room.",
+        "answer1": "unknown",
+        "answer2": "pea green",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A cluttered office space with a work desk under bare windows and tightly crowded furniture.",
+        "sentence2": "A pea green room with a couch, a table, a TV and a bookshelf.",
+        "condition": "The room with products.",
+        "answer1": "unknown",
+        "answer2": "couch, table, TV, bookshelf",
+        "common_score": "four",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "Two make tennis players jumping up in the air towards one another and holding a tennis racket in their hands.",
+        "sentence2": "A tennis player on a court speaking with a man and a ball catcher standing off to the side.",
+        "condition": "The presence of a net.",
+        "answer1": "unknown",
+        "answer2": "unknown",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "Two make tennis players jumping up in the air towards one another and holding a tennis racket in their hands.",
+        "sentence2": "A tennis player on a court speaking with a man and a ball catcher standing off to the side.",
+        "condition": "The number of men.",
+        "answer1": "Unknown",
+        "answer2": "2 men",
+        "common_score": "three",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A group of elephants of different sizes walking together on dirt with a rock formation and trees in the background.",
+        "sentence2": "One elephant is squirting water out of its mouth and the other is putting water into its mouth.",
+        "condition": "The animal.",
+        "answer1": "elephants",
+        "answer2": "Elephant",
+        "common_score": "one",
+        "common_difficulty": "simple",
+        "common_similarity": "yes"
+    },
+    {
+        "sentence1": "A group of elephants of different sizes walking together on dirt with a rock formation and trees in the background.",
+        "sentence2": "One elephant is squirting water out of its mouth and the other is putting water into its mouth.",
+        "condition": "The physical actions.",
+        "answer1": "walking",
+        "answer2": "squirting, putting",
+        "common_score": "five",
+        "common_difficulty": "hard",
+        "common_similarity": "yes"
+    }
+]

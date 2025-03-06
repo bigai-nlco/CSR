@@ -1,0 +1,616 @@
+text,condition,label,score
+serves really good sushi .,sushi,Positive,2
+not the biggest portions but adequate .,portions,Neutral,1
+green tea creme brulee is a must !,green tea creme brulee,Positive,2
+– i ca n't say enough about this place .,place,Positive,2
+it has great sushi and even better service .,sushi,Positive,2
+it has great sushi and even better service .,service,Positive,2
+the entire staff was extremely accomodating and tended to my every need .,staff,Positive,2
+i 've been to this restaurant over a dozen times with no complaints to date .,restaurant,Positive,2
+the owner is belligerent to guests that have a complaint .,owner,Negative,0
+good food !,food,Positive,2
+this is a great place to get a delicious meal .,meal,Positive,2
+the staff is pretty friendly .,staff,Positive,2
+the onion rings are great !,onion rings,Positive,2
+– i was highly disappointed in the food at pagoda .,food,Negative,0
+"the lemon chicken tasted like sticky sweet donuts and the honey walnut prawns , the few they actually give you ..... were not good .",lemon chicken,Negative,0
+"the lemon chicken tasted like sticky sweet donuts and the honey walnut prawns , the few they actually give you ..... were not good .",honey walnut prawns,Negative,0
+"nice ambience , but highly overrated place .",ambience,Positive,2
+"nice ambience , but highly overrated place .",place,Negative,0
+worst service i ever had,service,Positive,2
+everyone that sat in the back outside agreed that it was the worst service we had ever received .,service,Negative,0
+"our waiter was non - existent and after our food finally arrived over an hour after we ordered , we were not given any water or utensils .",waiter,Negative,0
+"i complained to the manager , but he was not even apologetic .",manager,Negative,0
+fabulous italian food !,italian food,Positive,2
+– i highly recommend mioposto .,mioposto,Positive,2
+i am so happy to have a wonderful italian restaurant in my neighborhood .,italian restaurant,Positive,2
+the wine list is wonderful and the food reminds me of my recent trip to italy .,wine list,Positive,2
+the wine list is wonderful and the food reminds me of my recent trip to italy .,food,Positive,2
+i love this restaurant,restaurant,Positive,2
+"– i will never forget the amazing meal , service , and ambiance i experience at this restaurant .",meal,Positive,2
+"– i will never forget the amazing meal , service , and ambiance i experience at this restaurant .",service,Positive,2
+"– i will never forget the amazing meal , service , and ambiance i experience at this restaurant .",ambiance,Positive,2
+"the wine list is incredible and extensive and diverse , the food is all incredible and the staff was all very nice , good at their jobs and cultured .",wine list,Positive,2
+"the wine list is incredible and extensive and diverse , the food is all incredible and the staff was all very nice , good at their jobs and cultured .",food,Positive,2
+"the wine list is incredible and extensive and diverse , the food is all incredible and the staff was all very nice , good at their jobs and cultured .",staff,Positive,2
+i have not a bad thing to say about this place .,place,Positive,2
+the food was great !,food,Positive,2
+"it 's * very * reasonably priced , esp for the quality of the food .",food,Positive,2
+i had the kafta plate and it was perfect .,kafta plate,Positive,2
+finally a meal that you will remember for a long time !,meal,Positive,2
+"– in a age of incremental cost cutting in restaurants , its nice to see a place that bucks that trend , and just plain delivers high quality food and good service , period .",food,Positive,2
+"– in a age of incremental cost cutting in restaurants , its nice to see a place that bucks that trend , and just plain delivers high quality food and good service , period .",service,Positive,2
+this is the place to relax and enjoy the finest quality food the industry can offer .,place,Positive,2
+this is the place to relax and enjoy the finest quality food the industry can offer .,food,Positive,2
+caution - its real food for people who love the best .,food,Positive,2
+i liked the atmosphere very much but the food was not worth the price .,atmosphere,Positive,2
+i liked the atmosphere very much but the food was not worth the price .,food,Negative,0
+i may not be a sushi guru but i can tell you that the food here is just okay and that there is not much else to it .,food,Negative,0
+"rice is too dry , tuna was n't so fresh either .",rice,Negative,0
+"rice is too dry , tuna was n't so fresh either .",tuna,Negative,0
+i have eaten here three times and have found the quality and variety of the fish to be excellent .,fish,Positive,2
+"however , the value and service are both severely lacking .",service,Negative,0
+"furthermore , while the fish is unquestionably fresh , rolls tend to be inexplicably bland .",fish,Positive,2
+"furthermore , while the fish is unquestionably fresh , rolls tend to be inexplicably bland .",rolls,Negative,0
+the service ranges from mediocre to offensive .,service,Negative,0
+"on a recent trip , our waiter was extremely dismissive , while no less than three staff members waited hand - and - foot on a pair of japanese girls seated nearby .",waiter,Negative,0
+"on a recent trip , our waiter was extremely dismissive , while no less than three staff members waited hand - and - foot on a pair of japanese girls seated nearby .",staff members,Negative,0
+freshest sushi – i love this restaurant .,sushi,Positive,2
+freshest sushi   – i love this restaurant .,restaurant,Positive,2
+they pay such detail to everything from miso soup to complex rolls .,miso soup,Positive,2
+they pay such detail to everything from miso soup to complex rolls .,rolls,Positive,2
+the sashimi was the freshest and most tender i have ever tasted .,sashimi,Positive,2
+their apps are all delicious .,apps,Positive,2
+the only drawback is that this place is really expensive and the portions are on the small side .,place,Negative,0
+the only drawback is that this place is really expensive and the portions are on the small side .,portions,Negative,0
+"but the space is small and lovely , and the service is helpful .",space,Positive,2
+"but the space is small and lovely , and the service is helpful .",service,Positive,2
+– the food was not great & the waiters were rude .,food,Negative,0
+– the food was not great & the waiters were rude .,waiters,Negative,0
+great service,service,Positive,2
+my service was stellar !,service,Positive,2
+the bus boy even spotted that my table was shaking a stabilized it for me .,bus boy,Positive,2
+"food was fine , with a some little - tastier - than - normal salsa .",food,Positive,2
+"food was fine , with a some little - tastier - than - normal salsa .",salsa,Positive,2
+"the food was great , the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me .",food,Positive,2
+"the food was great , the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me .",margaritas,Positive,2
+"the food was great , the margaritas too but the waitress was too busy being nice to her other larger party than to take better care of my friend and me .",waitress,Negative,0
+mama mia – i live in the neighborhood and feel lucky to live by such a great pizza place .,pizza place,Positive,2
+"the only problem is you really have to warm up the pizza before it 's edible , even when you order ahead .",pizza,Negative,0
+best sushi in town .,sushi,Positive,2
+the best calamari in seattle !,calamari,Positive,2
+– ... and the best summertime deck experience -- they will even bring you a blanket if you get cold in the seattle evening weather .,deck,Positive,2
+a perfect place to take out of town guests any time of the year .,place,Positive,2
+"endless fun , awesome music , great staff ! ! !",music,Positive,2
+"endless fun , awesome music , great staff ! ! !",staff,Positive,2
+– by far the best bar in the east village ...,bar,Positive,2
+"every time "" 0-sixtynine "" is called the bartender buys everyone drinks !",bartender,Positive,2
+great draft and bottle selection and the pizza rocks .,pizza,Positive,2
+great draft and bottle selection and the pizza rocks .,draft and bottle selection,Positive,2
+definitely has one of the best jukebox 's i 've seen in a long long time .,jukebox 's,Positive,2
+"the food is great , the bartenders go that extra mile .",food,Positive,2
+"the food is great , the bartenders go that extra mile .",bartenders,Positive,2
+the owners are great fun and the beer selection is worth staying for .,owners,Positive,2
+the owners are great fun and the beer selection is worth staying for .,beer selection,Positive,2
+and the upstairs is a great place to hang out .,upstairs,Positive,2
+"not alot of smoking places left in new york , but i have found my favorite smoking balconey in the city .",balconey,Positive,2
+the sushi here is delicious !,sushi,Positive,2
+they have a wide variety of fish and they even list which oceans they come from ; atlantic or pacific .,fish,Positive,2
+"i 've had the jellyfish , horse mackerel , blue fin tuna and the sake ikura roll among others , and they were all good .",jellyfish,Positive,2
+"i 've had the jellyfish , horse mackerel , blue fin tuna and the sake ikura roll among others , and they were all good .",horse mackerel,Positive,2
+"i 've had the jellyfish , horse mackerel , blue fin tuna and the sake ikura roll among others , and they were all good .",blue fin tuna,Positive,2
+"i 've had the jellyfish , horse mackerel , blue fin tuna and the sake ikura roll among others , and they were all good .",sake ikura roll,Positive,2
+my only negative comment is that i wish the pieces were a little bigger .,pieces,Negative,0
+"the decor is rustic , traditional japanese .",decor,Neutral,1
+"the crowd is mixed yuppies , young and old .",crowd,Neutral,1
+the service was courteous and attentive .,service,Positive,2
+mediocre food,food,Neutral,1
+the outside patio area has an abbreviated menu .,menu,Neutral,1
+my g / f and i both agreed the food was very mediocre especially considering the price .,food,Negative,0
+"we are locals , and get the feeling the only way this place survives with such average food is because most customers are probably one - time customer tourists .",food,Negative,0
+"we are locals , and get the feeling the only way this place survives with such average food is because most customers are probably one - time customer tourists .",place,Negative,0
+service was decent .,service,Neutral,1
+drinks were good .,drinks,Positive,2
+unless you are just stopping in for a few drinks i would n't recommend going here .,drinks,Positive,2
+"excellent food , nice ambience , fairly expensive",food,Positive,2
+"excellent food , nice ambience , fairly expensive",ambience,Positive,2
+– i loved the pumpkin ravioli and the goat cheese gnocchi ( 5 big ones to a plate instead of 20 or so little gnocchis ) and my sister loved her filet mignon on top of spinach and mashed potatoes .,pumpkin ravioli,Positive,2
+– i loved the pumpkin ravioli and the goat cheese gnocchi ( 5 big ones to a plate instead of 20 or so little gnocchis ) and my sister loved her filet mignon on top of spinach and mashed potatoes .,goat cheese gnocchi,Positive,2
+– i loved the pumpkin ravioli and the goat cheese gnocchi ( 5 big ones to a plate instead of 20 or so little gnocchis ) and my sister loved her filet mignon on top of spinach and mashed potatoes .,filet mignon on top of spinach and mashed potatoes,Positive,2
+the ambiance was a peaceful and relaxing break amongst all the kids running around in downtown disney .,ambiance,Positive,2
+"it was romantic - and even nice even with my sister , reminded me of italy , and had artwork and music that kept up the feeling of being in a mediterrean villa .",artwork,Positive,2
+"it was romantic - and even nice even with my sister , reminded me of italy , and had artwork and music that kept up the feeling of being in a mediterrean villa .",music,Positive,2
+best indian food in l.a.,indian food,Positive,2
+the chicken curry and chicken tikka masala are my favorite meat dishes .,chicken curry,Positive,2
+the chicken curry and chicken tikka masala are my favorite meat dishes .,chicken tikka masala,Positive,2
+the chana masala ( garbanzo beans ) are also excellent .,chana masala ( garbanzo beans ),Positive,2
+"it 's located in a strip mall near the beverly center , not the greatest location , but the food keeps me coming back for more .",location,Neutral,1
+"it 's located in a strip mall near the beverly center , not the greatest location , but the food keeps me coming back for more .",food,Positive,2
+never too crowded and always great service .,service,Positive,2
+i think i have probably tried each item on their menu at least once it is all excellent .,menu,Positive,2
+i can highly recommend their various saag and paneer and korma .,saag,Positive,2
+i can highly recommend their various saag and paneer and korma .,paneer,Positive,2
+i can highly recommend their various saag and paneer and korma .,korma,Positive,2
+i appreciate their delivery too .,delivery,Positive,2
+nice food but no spice !,food,Positive,2
+– i really enjoyed my meal here .,meal,Positive,2
+"i had yummy lamb korma , saag paneer , samosas , naan , etc .",lamb korma,Positive,2
+"i had yummy lamb korma , saag paneer , samosas , naan , etc .",saag paneer,Positive,2
+"i had yummy lamb korma , saag paneer , samosas , naan , etc .",samosas,Positive,2
+"i had yummy lamb korma , saag paneer , samosas , naan , etc .",naan,Positive,2
+the food was all good but it was way too mild .,food,Positive,2
+i should have thought to bring it up but never expected the food to be that mild .,food,Negative,0
+"the naan was some of the best i 've had and i really enjoyed the bhartha , not too tomatoey .",naan,Positive,2
+"the naan was some of the best i 've had and i really enjoyed the bhartha , not too tomatoey .",bhartha,Positive,2
+"even the chickpeas , which i normally find too dry , were good .",chickpeas,Positive,2
+"– i do n't understand how i was a stranger to this place for so long ... the fajita salad , the colorado , the fajitas - everything is delicious .",fajita salad,Positive,2
+"– i do n't understand how i was a stranger to this place for so long ... the fajita salad , the colorado , the fajitas - everything is delicious .",colorado,Positive,2
+"– i do n't understand how i was a stranger to this place for so long ... the fajita salad , the colorado , the fajitas - everything is delicious .",fajitas,Positive,2
+"– i do n't understand how i was a stranger to this place for so long ... the fajita salad , the colorado , the fajitas - everything is delicious .",place,Positive,2
+i love the warm & cosy environment .,environment,Positive,2
+i just found out that you can have the place to yourself on nights and weekends for a private party - ca n't wait to celebrate my next birthday there .,place,Positive,2
+"best restaurant in the world , great decor , great customer service , friendly manager",restaurant,Positive,2
+"best restaurant in the world , great decor , great customer service , friendly manager",decor,Positive,2
+"best restaurant in the world , great decor , great customer service , friendly manager",customer service,Positive,2
+"best restaurant in the world , great decor , great customer service , friendly manager",manager,Positive,2
+i am never disappointed with there food .,food,Positive,2
+the atmosphere is great .,atmosphere,Positive,2
+great lunch spot,lunch spot,Positive,2
+– great financial district mexican spot .,mexican spot,Positive,2
+"always busy , but they are good at seating you promptly and have quick service .",service,Positive,2
+"everything i 've had here is good , taco salads , burritos , enchiladas i love this place .",taco salads,Positive,2
+"everything i 've had here is good , taco salads , burritos , enchiladas i love this place .",burritos,Positive,2
+"everything i 've had here is good , taco salads , burritos , enchiladas i love this place .",enchiladas,Positive,2
+"everything i 've had here is good , taco salads , burritos , enchiladas i love this place .",place,Positive,2
+also have great margaritas !,margaritas,Positive,2
+lebanese food ! yum !,lebanese food,Positive,2
+"– i 've been to open sesame only once , but i 'm still reeling from the experience ! !",open sesame,Positive,2
+the food is simply unforgettable !,food,Positive,2
+"the presentation of the food was an added bonus , it looked just as great as it tasted !",food,Positive,2
+my best friend had the chicken shawarma and she still raves about it being the best anywhere !,chicken shawarma,Positive,2
+the staff are friendly and the decor was ethic and colorful .,staff,Positive,2
+the staff are friendly and the decor was ethic and colorful .,decor,Positive,2
+go to open sesame ! ! !,open sesame,Positive,2
+holy hummus !,hummus,Positive,2
+"– the food is here is incredible , though the quality is inconsistent during lunch .",food,Positive,2
+"– the food is here is incredible , though the quality is inconsistent during lunch .",lunch,Negative,0
+"dinners have always been excellent , in terms of food quality .",dinners,Positive,2
+the open sesame combo plate is a bargain for the heap of food given .,open sesame combo plate,Positive,2
+"the side of potatoes is to die for , as is the labne ( yogurt dip ) .",side of potatoes,Positive,2
+"the side of potatoes is to die for , as is the labne ( yogurt dip ) .",labne ( yogurt dip ),Positive,2
+"also , they serve the best hummus in america , with a drizzle of fragrant olive oil ( which , i believe is the traditional way ) !",hummus,Positive,2
+the only drawback is the crowded seating and the slow service .,seating,Negative,0
+the only drawback is the crowded seating and the slow service .,service,Negative,0
+"however , this place is a gem , and i wo n't stop going back .",place,Positive,2
+great beer,beer,Positive,2
+– my first time to dine at this restaurant was with my son and it was absolutely horrible !,restaurant,Negative,0
+i swore never to return for a warm beer and mediocre meal .,beer,Negative,0
+i swore never to return for a warm beer and mediocre meal .,meal,Negative,0
+the band was very good and the service was attentive .,band,Positive,2
+the band was very good and the service was attentive .,service,Positive,2
+"we ordered a selection of the small plates , and the shoe string onions , goat cheese pizza , grilled asparagus and fried brie with fruit were all very good .",shoe string onions,Positive,2
+"we ordered a selection of the small plates , and the shoe string onions , goat cheese pizza , grilled asparagus and fried brie with fruit were all very good .",goat cheese pizza,Positive,2
+"we ordered a selection of the small plates , and the shoe string onions , goat cheese pizza , grilled asparagus and fried brie with fruit were all very good .",grilled asparagus,Positive,2
+"we ordered a selection of the small plates , and the shoe string onions , goat cheese pizza , grilled asparagus and fried brie with fruit were all very good .",fried brie with fruit,Positive,2
+"we have since returned and also had a great experience , sampling more small plates and a variety of the beer ( cold and good ) .",beer,Positive,2
+"we did have the same waiter the second time , so maybe the service is spotty and our luck is good .",waiter,Positive,2
+sunday afternoons there is a band playing and it is lots of fun .,band,Positive,2
+seattle 's best winelist,winelist,Positive,2
+– ray 's ( suprisingly ) has the city 's best & most diverse wine list .,wine list,Positive,2
+"the sommelier is fantastic , down - to - earth , & extremely knowlegable .",sommelier,Positive,2
+i would go back for the wine experience alone .,wine,Positive,2
+not the place it once was,place,Negative,0
+"– it is sad to see a place that was once "" the "" place to meet and eat for bfast or lunch , now be the place that is a big "" dont bother . """,place,Negative,0
+"the food is not what it once was ( potions have seriously seen downsizing ) prices have gone up , and the service is the worst i have experienced anywhere ( including mainland europe ) .",food,Negative,0
+"the food is not what it once was ( potions have seriously seen downsizing ) prices have gone up , and the service is the worst i have experienced anywhere ( including mainland europe ) .",potions,Negative,0
+"the food is not what it once was ( potions have seriously seen downsizing ) prices have gone up , and the service is the worst i have experienced anywhere ( including mainland europe ) .",service,Negative,0
+"the food is not what it once was ( potions have seriously seen downsizing ) prices have gone up , and the service is the worst i have experienced anywhere ( including mainland europe ) .",food,Negative,0
+what may be interesting to most is the worst sevice / attitude comes from the owners of this establishment .,owners,Negative,0
+"this establishment really made a marked decline after ( and this is recurring story ) the airing of food televisions "" diners , drive - ins , and dives "" hosted by guy fieri , in which schooner or later was subject of .",establishment,Negative,0
+"perhaps now , scooner or later falls into the "" dive "" category .",scooner or later,Negative,0
+i hope one day scooner or later returns to what it once was .,scooner or later,Negative,0
+open & cool place with the best pizza and coffee,place,Positive,2
+open & cool place with the best pizza and coffee,pizza,Positive,2
+open & cool place with the best pizza and coffee,coffee,Positive,2
+– mioposto has a very creative & delicious pizza menu .,pizza menu,Positive,2
+"the coffe is very good , too .",coffe,Positive,2
+great open and friendly ambience .,ambience,Positive,2
+this place is charming and relaxing .,place,Positive,2
+the servers behind the counter are always friendly and helpful .,servers behind the counter,Positive,2
+it 's a great place to enjoy food and meet friends .,food,Positive,2
+it 's a great place to enjoy food and meet friends .,place,Positive,2
+– after 12 years in seattle ray 's rates as the place we always go back to .,ray 's,Positive,2
+"great food , spectacular location , and friendly service keep us coming back year after year .",food,Positive,2
+"great food , spectacular location , and friendly service keep us coming back year after year .",location,Positive,2
+"great food , spectacular location , and friendly service keep us coming back year after year .",service,Positive,2
+enjoyed the food,food,Positive,2
+food was good and cheap .,food,Positive,2
+i had the kafta plate and i enjoyed it .,kafta plate,Positive,2
+atmosphere was nice .,atmosphere,Positive,2
+"service was kind of slow , our waitress took forever to give us our check even though it was n't that busy .",service,Negative,0
+"service was kind of slow , our waitress took forever to give us our check even though it was n't that busy .",waitress,Negative,0
+still i would recommend this place .,place,Positive,2
+what else can you say nice people amazing food wow,food,Positive,2
+what else can you say nice people amazing food wow,people,Positive,2
+great food with an awesome atmosphere !,food,Positive,2
+great food with an awesome atmosphere !,atmosphere,Positive,2
+"– eggs , pancakes , potatoes , fresh fruit and yogurt -- everything they serve is delicious .",eggs,Positive,2
+"– eggs , pancakes , potatoes , fresh fruit and yogurt -- everything they serve is delicious .",pancakes,Positive,2
+"– eggs , pancakes , potatoes , fresh fruit and yogurt -- everything they serve is delicious .",potatoes,Positive,2
+"– eggs , pancakes , potatoes , fresh fruit and yogurt -- everything they serve is delicious .",fresh fruit,Positive,2
+"– eggs , pancakes , potatoes , fresh fruit and yogurt -- everything they serve is delicious .",yogurt,Positive,2
+"the best place for a leisure sunday breakfast amidst yachts , then take a stroll through the nearby farmer 's market .",place,Positive,2
+great meal – the fish on the omikase platter was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect ! ! ! !,meal,Positive,2
+great meal – the fish on the omikase platter was absolutely decadent -- there was none of the stringiness that sometimes accompanies fair sushi -- this fish was perfect ! ! ! !,fish on the omikase platter,Positive,2
+"plus , i am allergic to rice , and the waitstaff was unbelievably accomodating -- did n't even bat an eye !",waitstaff,Positive,2
+and the waiter suggested a perfect sake ! !,waiter,Positive,2
+and the waiter suggested a perfect sake ! !,sake,Positive,2
+unbeatable sushi !,sushi,Positive,2
+"melt in your mouth nigiri and sashmi , and very tasty rolls too .",nigiri,Positive,2
+"melt in your mouth nigiri and sashmi , and very tasty rolls too .",sashmi,Positive,2
+"melt in your mouth nigiri and sashmi , and very tasty rolls too .",rolls,Positive,2
+be sure to try the oyster roll .,oyster roll,Positive,2
+"– how to describe the best sushi in nyc : hmmmm , delicious , amazing , fantastic , suculent , perfect , nah , all of the above .",sushi,Positive,2
+"i ca n't saybenough good things about this restaurant , and i ca n't wait for my next several visits .",restaurant,Positive,2
+the best chuwam mushi i have ever had .,chuwam mushi,Positive,2
+"good sushi , high price",sushi,Positive,2
+one of the best sushi place in town .,sushi place,Positive,2
+the house special roll is really good .,house special roll,Positive,2
+a cozy spot for Positive,spot,Positive,2
+"– i ca n't believe murphy 's has been around for over 25 years , amazing .",murphy 's,Positive,2
+"brunch at murphy 's is to die for , my specialty ... egg white omelet , the food is always freshly prepared .",brunch,Positive,2
+"brunch at murphy 's is to die for , my specialty ... egg white omelet , the food is always freshly prepared .",food,Positive,2
+"brunch at murphy 's is to die for , my specialty ... egg white omelet , the food is always freshly prepared .",egg white omelet,Positive,2
+it 's the perfect spot for a romantic date for 2 or a secret rendezvous !,spot,Positive,2
+save room for   scrumptious desserts .,desserts,Positive,2
+the restaurant offers an extensive wine list and an ambiance you wo n't forget !,wine list,Positive,2
+the restaurant offers an extensive wine list and an ambiance you wo n't forget !,ambiance,Positive,2
+– best mexican place for lunch in the financial district .,mexican place,Positive,2
+love the enchiladas and chicken soup - and be sure to check out their specials .,enchiladas,Positive,2
+love the enchiladas and chicken soup - and be sure to check out their specials .,chicken soup,Positive,2
+love the enchiladas and chicken soup - and be sure to check out their specials .,specials,Positive,2
+the cooks have been at the restaurant for years and cook family recipes .,cooks,Positive,2
+"can get busy on fridays for a table but once seated , the service is so efficient you can be in and out of there quickly .",service,Positive,2
+the sushi was excellent and the wait staff was quick .,sushi,Positive,2
+the sushi was excellent and the wait staff was quick .,wait staff,Positive,2
+the atmosphere was just okay .,atmosphere,Neutral,1
+"space was limited , but the food made up for it .",space,Negative,0
+"space was limited , but the food made up for it .",food,Positive,2
+well i guess it 's hard to be seated when one is invisible to the staff .,staff,Negative,0
+we stood there for 10 minutes while employees walked back and forth ignoring us .,employees,Negative,0
+"finally , my wife stood face to face in front of one of the staff and she asked , "" are you waiting for a table ? """,staff,Negative,0
+the caesar salad i ordered had so much lemon i could n't eat it .,caesar salad,Negative,0
+"great food , better margaritas !",food,Positive,2
+"great food , better margaritas !",margaritas,Positive,2
+"– this is one of my top lunch spots , huge portions , fast service and amazing margaritas ! !",portions,Positive,2
+"– this is one of my top lunch spots , huge portions , fast service and amazing margaritas ! !",service,Positive,2
+"– this is one of my top lunch spots , huge portions , fast service and amazing margaritas ! !",margaritas,Positive,2
+"it gets really busy , so get there on the early side so you can grab a seat , if you do have to wait , its not bad because the service is quick !",service,Positive,2
+"check out the art on the walls , very colorful !",art on the walls,Positive,2
+i love this place !,place,Positive,2
+– i have been eating at this place for over 8 years now and i have never had one bad meal .,meal,Positive,2
+i highly recommend this place to all that want to try indain food for the first time .,indain food,Positive,2
+the lunch menu is an awesome deal !,lunch menu,Positive,2
+"plenty of food , trust me .",food,Positive,2
+fresh ingrediants and super tasty .,ingrediants,Positive,2
+"best food , phenominal service",food,Positive,2
+"best food , phenominal service",service,Positive,2
+"for the finicky sushi eater and those who have sampled the best nyc has to offer , the fish is the freshest and the service is superb .",fish,Positive,2
+"for the finicky sushi eater and those who have sampled the best nyc has to offer , the fish is the freshest and the service is superb .",service,Positive,2
+"not only can the selection be innovative , but there 's a nice balance of traditional sushi as well .",selection,Positive,2
+"not only can the selection be innovative , but there 's a nice balance of traditional sushi as well .",sushi,Positive,2
+the nicest waiters in town .,waiters,Positive,2
+– this place is unbelievably over - rated .,place,Negative,0
+"if i want to stand in line on sunday for an hour to get average brunch food , then i would put murphy 's at the top of the list .",brunch food,Neutral,1
+the regular menu here is slightly above average that is not worth the snotty attitude that you receive .,regular menu,Neutral,1
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",sushi,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jelly$t$ , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",fish,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",sake,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",soho location,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",salmon,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",tuna,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",fluke,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",yellow tail,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",cod,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",mackeral,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",jellyfish,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",sea urchin,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",shrimp,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",lobster,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",sea bream,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",trout,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",milk fish,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",blue fin tuna,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",eel,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",crab,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",sardine,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",monk fish,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",roe,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",scallop,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",oysters,Positive,2
+"your a sushi fan , you love expertly cut fish , great sake , a killer soho location , and of course : salmon , tuna , fluke , yellow tail , cod , mackeral , jellyfish , sea urchin , shrimp , lobster , sea bream , trout , milk fish , blue fin tuna , eel , crab , sardine , monk fish , roe , scallop , oysters , and a varity of toro .",toro,Positive,2
+"there is only one place on the east coast that has it all , plus a lot more .",place,Positive,2
+bring your cell phone cause you may have to wait to get into the best sushi restaurant in the world : blue ribbon sushi .,blue ribbon sushi,Positive,2
+"hands down , the best tuna i have ever had .",tuna,Positive,2
+blue ribbon lives up to it 's fantastic reputation .,blue ribbon,Positive,2
+great value sushi with high quality & nice setting .,sushi,Positive,2
+great value sushi with high quality & nice setting .,setting,Positive,2
+try the chef 's choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty .,rolls,Positive,2
+try the chef 's choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty .,smoked yellowtail,Positive,2
+try the chef 's choice for sushi as the smoked yellowtail was incredible and the rolls were also tasty .,chef 's choice for sushi,Positive,2
+poor customer service /poor pizza .,customer service,Negative,0
+poor customer service / poor pizza .,pizza,Negative,0
+"– as with most restaurants in seattle , mioposto 's service was bad and the food was overpriced .",service,Negative,0
+"– as with most restaurants in seattle , mioposto 's service was bad and the food was overpriced .",food,Negative,0
+"i know many people have their favorite types of pizza and pizza places , but mioposto 's pizza lacks quality and good taste .",pizza,Negative,0
+"to be honest , i 've had better frozen pizza .",pizza,Negative,0
+the only positive thing about mioposto is the nice location .,location,Positive,2
+the only positive thing about mioposto is the nice location .,mioposto,Negative,0
+"i was frankly shocked when i read the bad reviews - this place is fantastic ; it has not let us down in any way , and we 've eaten here more than 10 times .",place,Positive,2
+"the food is fantastic , and the waiting staff has been perfect every single time we 've been there .",food,Positive,2
+"the food is fantastic , and the waiting staff has been perfect every single time we 've been there .",waiting staff,Positive,2
+"the only problem would be the wait , but we usually just have a drink in the front while waiting .",wait,Neutral,1
+seafood plus,seafood,Positive,2
+"the appetizer of oysters , lobster , crab ( small size ) made a perfect entre for my wife .","appetizer of oysters , lobster , crab ( small size )",Positive,2
+seabass on lobster risotto was the best .,seabass on lobster risotto,Positive,2
+caesar salad was superb .,caesar salad,Positive,2
+great bottle of wine .,bottle of wine,Positive,2
+leave room for dessert .,dessert,Positive,2
+"the food was ok , but the service was so poor that the food was cold buy the time everyone in my party was served .",food,Neutral,1
+"the food was ok , but the service was so poor that the food was cold buy the time everyone in my party was served .",service,Negative,0
+we had a very hard time getting the waitress ' attention and finally had to get up and go inside to speak to a manager .,waitress,Negative,0
+as it turns out the owner was seated right next to us and when he came over to check on our problems was very dismissive and offered a token 20 % discount on our bill .,owner,Negative,0
+avoid the place,place,Negative,0
+when i got there i sat up stairs where the atmosphere was cozy & the service was horrible !,atmosphere,Positive,2
+when i got there i sat up stairs where the atmosphere was cozy & the service was horrible !,service,Negative,0
+i waited for 10 - 15 minutes for service ordered a beer & was never served again .,service,Negative,0
+i went home & looked them up online again where i discovered there is a link for a give away that does n't work so emailed the restaurant about the non existent service & deceptive link .,restaurant,Negative,0
+after sitting at the bar for over 20 minutes the bar keep had made only 2 drinks & kept telling us she 'd be right with us .,bar keep,Negative,0
+we left without ever getting service .,service,Negative,0
+best crab cakes in town,crab cakes,Positive,2
+– that s a big statement considering i 've been pulling crab traps and making the cakes myself since i was about seven - but something about these little devils gets better every time .,cakes,Positive,2
+"if you can , come to this place by boat and make it a whole evening .",place,Positive,2
+"great seasonal fish and seafood , with a classy waterfront setting .",seasonal fish,Positive,2
+"great seasonal fish and seafood , with a classy waterfront setting .",seafood,Positive,2
+"great seasonal fish and seafood , with a classy waterfront setting .",waterfront setting,Positive,2
+"great pizza , poor service",pizza,Positive,2
+"great pizza , poor service",service,Negative,0
+"– love their pizza , especially the mushroom pizza.",pizza,Positive,2
+"– love their pizza , especially the mushroom pizza .",mushroom pizza,Positive,2
+also love their caeser salad .,caeser salad,Positive,2
+"prefer to order it and pick it up though because i do n't like the servers , one young woman in particular .",servers,Negative,0
+"prefer to order it and pick it up though because i do n't like the servers , one young woman in particular .",young woman,Negative,0
+management should really take notice and train their waitstaff and teach them some proper manners .,waitstaff,Negative,0
+management should really take notice and train their waitstaff and teach them some proper manners .,management,Negative,0
+"many people talk about the great pizza and poor service , so it ca n't just be the rantings of a few dissatisfied customers .",pizza,Positive,2
+"many people talk about the great pizza and poor service , so it ca n't just be the rantings of a few dissatisfied customers .",service,Negative,0
+it 's a great little place with tons of potential to be a neighborhood joint if the service were n't so impersonal and corporate - like .,place,Positive,2
+it 's a great little place with tons of potential to be a neighborhood joint if the service were n't so impersonal and corporate - like .,service,Negative,0
+great breakfast,breakfast,Positive,2
+– this place is famous for their breakfast .,breakfast,Positive,2
+the food is great and they make a mean bloody mary .,food,Positive,2
+the food is great and they make a mean bloody mary .,bloody mary,Positive,2
+i love breakfast here .,breakfast,Positive,2
+their crab eggs benedict is addicting .,crab eggs benedict,Positive,2
+"all their menu items are a hit , and they serve mimosas .",menu items,Positive,2
+best chinese food i have tasted in a long time,chinese food,Positive,2
+the ambiance of the restaurant was nice and good for fine dinning .,ambiance,Positive,2
+the staff was very nice and courteous and obviously chinese .,staff,Positive,2
+"so about the prawns , they were fresh and had a slight crispiness about the batter ... soooo good ... the walnuts were cut in smaller pieces and very crunchy and tasty .",prawns,Positive,2
+"so about the prawns , they were fresh and had a slight crispiness about the batter ... soooo good ... the walnuts were cut in smaller pieces and very crunchy and tasty .",batter,Positive,2
+"so about the prawns , they were fresh and had a slight crispiness about the batter ... soooo good ... the walnuts were cut in smaller pieces and very crunchy and tasty .",walnuts,Positive,2
+best honey walnyt prawns that we have every tasted .,honey walnyt prawns,Positive,2
+the brocollis were so fresh and tasty .,brocollis,Positive,2
+"i would normally not finish the brocolli when i order these kinds of food but for the first time , every piece was as eventful as the first one ... the scallops and prawns was so fresh and nicely cooked .",scallops,Positive,2
+"i would normally not finish the brocolli when i order these kinds of food but for the first time , every piece was as eventful as the first one ... the scallops and prawns was so fresh and nicely cooked .",prawns,Positive,2
+"i would normally not finish the brocolli when i order these kinds of food but for the first time , every piece was as eventful as the first one ... the scallops and prawns was so fresh and nicely cooked .",brocolli,Positive,2
+for desert we had the mango ginger creme brulee ... oh la la yummy ! ! !,mango ginger creme brulee,Positive,2
+we are for sure coming back to this restaurant .,restaurant,Positive,2
+chintzy portions,portions,Negative,0
+"– the sushi here is perfectly good , but for $ 5 a piece , either the slices of fish should be larger , or there should be no pretense that this is a moderately priced restaurant ( even for nyc ) .",sushi,Positive,2
+"– the sushi here is perfectly good , but for $ 5 a piece , either the slices of fish should be larger , or there should be no pretense that this is a moderately priced restaurant ( even for nyc ) .",restaurant,Negative,0
+"– the sushi here is perfectly good , but for $ 5 a piece , either the slices of fish should be larger , or there should be no pretense that this is a moderately priced restaurant ( even for nyc ) .",sushi,Negative,0
+i 'm astonished that this restaurant is categorized as $ $ $ rather than $ $ $ $ .,restaurant,Negative,0
+"terrible service , food ok , pricey",service,Negative,0
+"terrible service , food ok , pricey",food,Neutral,1
+"in other words , if they are n't making $ $ off of you then you do n't rate high on their ' service scale ' .",service,Negative,0
+"food wise , its ok but a bit pricey for what you get considering the restaurant is n't a fancy place .",food,Neutral,1
+"food wise , its ok but a bit pricey for what you get considering the restaurant is n't a fancy place .",restaurant,Negative,0
+if i needed to name some they would include the location to the beach or golden gate park .,location,Positive,2
+another plus is the open feel of the restaurant with glass walls on all sides .,feel,Positive,2
+another plus is the open feel of the restaurant with glass walls on all sides .,glass walls,Positive,2
+amazing spanish mackeral special appetizer and perfect box sushi ( that eel with avodcao -- um um um ) .,spanish mackeral special appetizer,Positive,2
+amazing spanish mackeral special appetizer and perfect box sushi ( that eel with avodcao -- um um um ) .,box sushi,Positive,2
+amazing spanish mackeral special appetizer and perfect box sushi ( that eel with avodcao -- um um um ) .,eel with avodcao,Positive,2
+"as usual the omikase did n't disappoint in freshness , although it scored low on creativity and selection .",omikase,Positive,2
+"their specialty rolls are impressive , though i ca n't remember what we had .",specialty rolls,Positive,2
+great selection of sakes .,selection of sakes,Positive,2
+green tea creme brulee gets better each time i have it .,green tea creme brulee,Positive,2
+it is n't the cheapest sushi but has been worth it every time .,sushi,Neutral,1
+very poor customer service .,customer service,Negative,0
+"– schooner or later 's charming location along the marina in long beach and average food does not , unfortunately , compensate for its very poor customer service .",location along the marina in long beach,Positive,2
+"– schooner or later 's charming location along the marina in long beach and average food does not , unfortunately , compensate for its very poor customer service .",food,Neutral,1
+"– schooner or later 's charming location along the marina in long beach and average food does not , unfortunately , compensate for its very poor customer service .",customer service,Negative,0
+"while this diner had reasonably good food , the restaurant staff seemed completely indifferent to our presence , and this attitude was reflected in the lack of service .",food,Positive,2
+"while this diner had reasonably good food , the restaurant staff seemed completely indifferent to our presence , and this attitude was reflected in the lack of service .",restaurant staff,Negative,0
+"after one member of our party had been bumped repeatedly by a waitress , a polite request that he not be bumped sent the waitress into an abusive rant .",waitress,Negative,0
+"a brief conversation with the manager at the end of the meal was the greatest disappointment -- to say we had been "" blown off "" would be an understatement .",manager,Negative,0
+"the manager continually interrupted with "" is there anything else i can do for you ? "" , a strange comment because she had hardly listened , let alone responded to our expression of disappointment at our experience .",manager,Negative,0
+you are with a hot date and he / she has an urge for sushi ... then this might be the place .,sushi,Positive,2
+"the fish was fresh , though it was cut very thin .",fish,Positive,2
+great service .,service,Positive,2
+good sake selection .,sake selection,Positive,2
+dungeness crabs here !,dungeness crabs,Positive,2
+– ray 's is the place to go for high quality seafood dinners .,seafood dinners,Positive,2
+we were only in seattle for one night and i 'm so glad we picked rays for dinner !,rays,Positive,2
+i love dungeness crabs and at ray 's you can get them served in about 6 different ways !,dungeness crabs,Positive,2
+we shared the family platter and i especially enjoyed the black cod in sake kasu .,black cod in sake kasu,Positive,2
+i ended the meal with the unusual dessert of a port and chocolate tasting .... yummy !,dessert of a port and chocolate tasting,Positive,2
+and the service was simply spendid - quite a delight .,service,Positive,2
+great breakfast,breakfast,Positive,2
+"– great drinks , corn beef hash , coffee , b fast burritos , gluten free menu .",drinks,Positive,2
+"– great drinks , corn beef hash , coffee , b fast burritos , gluten free menu .",corn beef hash,Positive,2
+"– great drinks , corn beef hash , coffee , b fast burritos , gluten free menu .",coffee,Positive,2
+"– great drinks , corn beef hash , coffee , b fast burritos , gluten free menu .",b fast burritos,Positive,2
+"– great drinks , corn beef hash , coffee , b fast burritos , gluten free menu .",menu,Positive,2
+the service is fantastic at this fun place .,service,Positive,2
+the service is fantastic at this fun place .,place,Positive,2
+"if there is a line very day of the week for the entire time a place is open , you know it is great .",place,Positive,2
+best neighborhood standby .,standby,Positive,2
+in grammercy / union square / east village this is my neighbors and my favorite spot .,spot,Positive,2
+"the music is great , no night better or worse , the bar tenders are generous with the pouring , and the lighthearted atmosphere will lifts you spirits .",music,Positive,2
+"the music is great , no night better or worse , the bar tenders are generous with the pouring , and the lighthearted atmosphere will lifts you spirits .",bar tenders,Positive,2
+"the music is great , no night better or worse , the bar tenders are generous with the pouring , and the lighthearted atmosphere will lifts you spirits .",atmosphere,Positive,2
+"oh , and the cheese fries are awesome !",cheese fries,Positive,2
+"good food , great service , average prices ( for the strip )",food,Positive,2
+"good food , great service , average prices ( for the strip )",service,Positive,2
+– i decided to eat at stack because of their price fixed pre - show dinner .,price fixed pre - show dinner,Neutral,1
+"when i walked in , i was taken aback by their incredible wood decor .",wood decor,Positive,2
+"the music playing was very hip , 20 - 30 something pop music , but the subwoofer to the sound system was located under my seat , which became annoying midway through dinner .",music,Positive,2
+"the music playing was very hip , 20 - 30 something pop music , but the subwoofer to the sound system was located under my seat , which became annoying midway through dinner .",subwoofer to the sound system,Negative,0
+i got the shellfish and shrimp appetizer and it was alright .,shellfish and shrimp appetizer,Neutral,1
+"it was n't the freshest seafood ever , but the taste and presentation was ok .",seafood,Neutral,1
+"i picked the asparagus , which turned out to be incredible and perfectly prepared .",asparagus,Positive,2
+"the 9 oz steak came next and it tasted great , at least initially .",9 oz steak,Positive,2
+the steak was done to my exact liking ( medium rare ) and was nice and juicy .,steak,Positive,2
+"it?s served with either a peppercorn sauce or red wine reduction , though both were indistinguishable in taste .",peppercorn sauce,Neutral,1
+"it?s served with either a peppercorn sauce or red wine reduction , though both were indistinguishable in taste .",red wine reduction,Neutral,1
+"though , one thing i realized later on was that the restaurant either used msg or a meat tenderizer on the steak .",steak,Negative,0
+the desert was the perfect ending to an almost perfect dinner .,desert,Positive,2
+the desert was the perfect ending to an almost perfect dinner .,dinner,Positive,2
+but the servers were extremely attentive and very friendly .,servers,Positive,2
+"overall , i would go back and eat at the restaurant again .",restaurant,Positive,2
+"good sake , good food – i honestly do n't know much about japanese food at all .",sake,Positive,2
+"good sake , good food – i honestly do n't know much about japanese food at all .",food,Positive,2
+server made several sake suggestions which were very good .,sake,Positive,2
+server made several sake suggestions which were very good .,server,Positive,2
+had many dishes but the best was the lobster 3 ways .,lobster 3 ways,Positive,2
+the waiter was a bit unfriendly and the feel of the restaurant was crowded .,waiter,Negative,0
+the waiter was a bit unfriendly and the feel of the restaurant was crowded .,feel,Negative,0
+"also , there was only one bathroom stall - probably need more for such big crowds .",bathroom stall,Negative,0
+"most importantly , we were so excited about the food after seeing the very creative menu .",menu,Positive,2
+"at best , the food was good and definately overpriced .",food,Neutral,1
+for the amount of food we got the prices should have been lower .,food,Negative,0
+my favortie pizza joint in seattle,pizza joint,Positive,2
+"– this is my "" must bring out of town guests to "" restaurant and they always enjoy and rave about it .",restaurant,Positive,2
+the pizza is delicious and the salads are fantastic .,pizza,Positive,2
+the pizza is delicious and the salads are fantastic .,salads,Positive,2
+"i 've always found the wait staff and , if you sit at the bar , the cooks very friendly .",wait staff,Positive,2
+"i 've always found the wait staff and , if you sit at the bar , the cooks very friendly .",cooks,Positive,2
+i also really enjoy the simplicity of the decor and intimate feeling of a small restaurant .,decor,Positive,2
+i also really enjoy the simplicity of the decor and intimate feeling of a small restaurant .,feeling,Positive,2
+– my husband and i love eating at mioposto café .,mioposto café,Positive,2
+we ’re ca n’t say enough about their delicious gourmet pizza ’s !,pizza ’s,Positive,2
+you wo n’t be disappointed by their menu .,menu,Positive,2
+the pizza ’s are thin crust and the menu offers very creative combinations and toppings .,menu,Positive,2
+the pizza ’s are thin crust and the menu offers very creative combinations and toppings .,pizza ’s,Positive,2
+the pizza ’s are light and scrumptious .,pizza ’s,Positive,2
+try the pizza ensalata !,pizza ensalata,Positive,2
+the pizza ’s are not huge and the crust is thin … keep that in mind when you ’re ordering .,pizza ’s,Neutral,1
+the pizza ’s are not huge and the crust is thin … keep that in mind when you ’re ordering .,crust,Neutral,1
+the food is sinful .,food,Positive,2
+the staff was really friendly .,staff,Positive,2
+the atmosphere was great .,atmosphere,Positive,2
+"the specialty here is decadent pancakes , but i 've been back now four times , and i 've been wowed every time .",pancakes,Positive,2
+nothing on the menu is less than amazing .,menu,Positive,2
+"go with some friends , wait the half hour or so with a cup of joe , and enjoy more than your average breakfast .",breakfast,Positive,2
+good eats .,eats,Positive,2
+i do n't know why anyone would want to write a great review about this place .,place,Negative,0
+"i have been to this place , folks and it is bad .",place,Negative,0
+maybe it is good for that one night once in a blue moon when the chefs decide to use fish that 's half - way decent .,fish,Negative,0
+"i have been here , spent tons of money on a chef special dinner and it was a major dissappointment .",chef special dinner,Negative,0
+fancy pieces of exotic fish on a $ 100 dollar plate and not one was eatable .,plate,Negative,0
+fancy pieces of exotic fish on a $ 100 dollar plate and not one was eatable .,exotic fish,Negative,0
+– the atmosphere is great for any special occasion you might want to celebrate .,atmosphere,Positive,2
+the best dish are the honwy walnut prawns - just outstanding .,honwy walnut prawns,Positive,2
+the service is really attentive and charming .,service,Positive,2
+"the service was excellent , the coffee was good even by starbucks standards and the food was outstanding .",service,Positive,2
+"the service was excellent , the coffee was good even by starbucks standards and the food was outstanding .",coffee,Positive,2
+"the service was excellent , the coffee was good even by starbucks standards and the food was outstanding .",food,Positive,2
+– i recently had the pleasure of dining as this delightful restaurant on 2nd street and wow what a great evening we had .,restaurant,Positive,2
+"the food is fantastic , authentic , delicious and very , very affordable .",food,Positive,2
+the decor was beautiful and unique .,decor,Positive,2
+"there was a really nice vibe about the place ... good music , atmosphere and happy looking people .",music,Positive,2
+"there was a really nice vibe about the place ... good music , atmosphere and happy looking people .",atmosphere,Positive,2
+"there was a really nice vibe about the place ... good music , atmosphere and happy looking people .",vibe,Positive,2
+"there was a really nice vibe about the place ... good music , atmosphere and happy looking people .",people,Positive,2
+our server was very professional and friendly .,server,Positive,2
+to the owners of open sesame ... bravo ... i ca n't wait to come back to dine at your restaurant !,open sesame,Positive,2
+it 's a tiny place so if you get there before 8 pm on a weekend ( thurs?sun ) you will find it easier to get a table or a seat at the sushi bar .,place,Neutral,1
+"everything , and i mean everything on the menu is delectable .",menu,Positive,2
+the waiters are very experienced and helpful with pairing your drink choice to your food tastes or vice versa .,waiters,Positive,2
+"the sushi is as fresh as it comes?you'd think ocean was in their backyard , no joke !",sushi,Positive,2
+"if you 're interested in good tasting ( without the fish taste or smell ) , large portions and creative sushi dishes this is your place ...",portions,Positive,2
+"if you 're interested in good tasting ( without the fish taste or smell ) , large portions and creative sushi dishes this is your place ...",sushi dishes,Positive,2
+big thick pepperoni,pepperoni,Positive,2
+– the pepperoni 's cut real thick -- yum .,pepperoni 's,Positive,2
+"the pizza itself is not exactly the best i 've had ever , but still pretty good .",pizza,Positive,2
+sit in the balcony,balcony,Positive,2
+food was good and appetizing .,food,Positive,2
+"portions was just enough for me , but may not be for a big eater .",portions,Neutral,1
+fair menu selection .,menu selection,Neutral,1
+"the appetizer was interesting , but the creme brulee was very savory and delicious .",appetizer,Positive,2
+"the appetizer was interesting , but the creme brulee was very savory and delicious .",creme brulee,Positive,2
+indoor ambience was modern .,indoor ambience,Positive,2
+"if it 's nice outside , request for a table in the balcony .",balcony,Positive,2
+it 's a great place to people watch .,place,Positive,2
+although the service could be improved considering the money you put in .,service,Negative,0
+our drinks kept coming but our server came by a couple times .,server,Negative,0
+late night dinning with exeptional food .,food,Positive,2
+"we were seated right away , the table was private and nice .",table,Positive,2
+the service was exceptional - sometime there was a feeling that we were served by the army of friendly waiters .,service,Positive,2
+the service was exceptional - sometime there was a feeling that we were served by the army of friendly waiters .,waiters,Positive,2
+"the food was very good , filet mignon was probably the best i 've ever try .",food,Positive,2
+"the food was very good , filet mignon was probably the best i 've ever try .",filet mignon,Positive,2
+"the portions are big though , so do not order too much .",portions,Neutral,1
+groovy music made the dinner casual .,music,Positive,2
+i have a but here - there was a bathroom attendant in the restroom which was odd .,restroom,Negative,0
+"the bathroom itself is very small with two toilets and only one sink , the girl was staying totally on the way hanging out paper towels from the dispenser .",bathroom,Negative,0
+this place rocks ! !,place,Positive,2
+"– mercedes restaurant is so tasty , the service is undeniably awesome !",service,Positive,2
+"– mercedes restaurant is so tasty , the service is undeniably awesome !",mercedes restaurant,Positive,2
+"the chips   and salsa are so yummy , and the prices are fabulous .",chips   and salsa,Positive,2
+"the atmosphere is aspiring , and   the decor is festive and amazing ..",atmosphere,Positive,2
+"the atmosphere is aspiring , and   the decor is festive and amazing ..",decor,Positive,2
+"the catering is out of this world , and raouls chicken vegetable soup rocks my world ! ! !",raouls chicken vegetable soup,Positive,2
+"the catering is out of this world , and raouls chicken vegetable soup rocks my world ! ! !",catering,Positive,2
+"drinks are suberb , and i feel like i am in a third world country when i walk in the door .",drinks,Positive,2
+- mediocre service /quality,service,Neutral,1
+the presentation of snooze is excellent and it is one of those places that you feel more sophisticated just for being there ; but peel back the layers and you have an overpriced ihop with a high brow menu .,snooze,Positive,2
+the presentation of snooze is excellent and it is one of those places that you feel more sophisticated just for being there ; but peel back the layers and you have an overpriced ihop with a high brow menu .,menu,Negative,0
+the presentation of snooze is excellent and it is one of those places that you feel more sophisticated just for being there ; but peel back the layers and you have an overpriced ihop with a high brow menu .,snooze,Negative,0
+"to start off , approximately 8 - 10 oz of orange juice will cost you $ 3 .",orange juice,Negative,0
+"they serve it in a tall , skinny hour - glass shaped glass to disguise the fact that you a getting a small juice at the price of a half gallon in a supermarket .",juice,Negative,0
+i should have just asked for the check when i saw that ; but their menu was so unique that i continued .,menu,Positive,2
+"the pancakes were certainly inventive but $ 8.50 for 3 - 6 "" pancakes ( one of them was more like 5 "" ) in the pancake flight ( sample of 3 different pancakes ) is well over - priced .",pancakes,Positive,2
+"the pancakes should be larger ( at least 8 "" ) to justify the expense even with the unique offerings .",pancakes,Negative,0
+"on my meal i had to send back my eggs for a simple request of breaking the yokes before cooking , and would have had to send them back again if i had n't rejected the meal all together .",eggs,Negative,0
+"on my meal i had to send back my eggs for a simple request of breaking the yokes before cooking , and would have had to send them back again if i had n't rejected the meal all together .",meal,Negative,0
+i rejected it because in the process of attempting to fix the eggs they broke something else in the dish and i was too frustrated to continue .,dish,Negative,0
+to their credit they removed the dish from the check ; but no manager stopped by to ask what the problem was .,manager,Negative,0
+"in the end our check came to $ 27 for 4 small pancakes , a breakfast burrito , an orange juice and an iced tea ( i had water ) .",pancakes,Negative,0
+"in the end our check came to $ 27 for 4 small pancakes , a breakfast burrito , an orange juice and an iced tea ( i had water ) .",breakfast burrito,Negative,0
+"in the end our check came to $ 27 for 4 small pancakes , a breakfast burrito , an orange juice and an iced tea ( i had water ) .",orange juice,Negative,0
+"in the end our check came to $ 27 for 4 small pancakes , a breakfast burrito , an orange juice and an iced tea ( i had water ) .",iced tea,Negative,0
+much more than just a great view !,view,Positive,2
+– i am exceedingly pleased to report that my dinner at ray 's boathouse last friday completely exceeded my expectations .,ray 's boathouse,Positive,2
+"ray 's is something of a seattle institution , but given its gorgeous sound views , i had suspected that the accolades were more due to the scenery than to the food and service .",sound views,Positive,2
+imagine my happy surprise upon finding that the views are only the third - best thing about ray 's !,views,Positive,2
+imagine my happy surprise upon finding that the views are only the third - best thing about ray 's !,ray 's,Positive,2
+"to start things off , our lovely server brooke was quickly on hand to take my drink order .",brooke,Positive,2
+"my party of two was feeling particularly ambitious , and we splurged on the shilshole sampler ... a beautiful assortment of enormous white gulf prawns , smoked albacore tuna , ray 's fantastic manila clams seasoned with dill , scallops in a tasty soy dressing , and a tiny pile of dungeness crab atop a sublime butter sauce .",white gulf prawns,Positive,2
+"my party of two was feeling particularly ambitious , and we splurged on the shilshole sampler ... a beautiful assortment of enormous white gulf prawns , smoked albacore tuna , ray 's fantastic manila clams seasoned with dill , scallops in a tasty soy dressing , and a tiny pile of dungeness crab atop a sublime butter sauce .",manila clams,Positive,2
+"my party of two was feeling particularly ambitious , and we splurged on the shilshole sampler ... a beautiful assortment of enormous white gulf prawns , smoked albacore tuna , ray 's fantastic manila clams seasoned with dill , scallops in a tasty soy dressing , and a tiny pile of dungeness crab atop a sublime butter sauce .",soy dressing,Positive,2
+"my party of two was feeling particularly ambitious , and we splurged on the shilshole sampler ... a beautiful assortment of enormous white gulf prawns , smoked albacore tuna , ray 's fantastic manila clams seasoned with dill , scallops in a tasty soy dressing , and a tiny pile of dungeness crab atop a sublime butter sauce .",butter sauce,Positive,2
+"my party of two was feeling particularly ambitious , and we splurged on the shilshole sampler ... a beautiful assortment of enormous white gulf prawns , smoked albacore tuna , ray 's fantastic manila clams seasoned with dill , scallops in a tasty soy dressing , and a tiny pile of dungeness crab atop a sublime butter sauce .",shilshole sampler,Positive,2
+"for my entr&eacute;e , i completely enjoyed the seared alaskan sea scallops complemented by chard , artichoke hearts , fennel , and pecorino toscano .",seared alaskan sea scallops,Positive,2
+the scallops are apparently cooked in a black olive butter which really makes them unique ( not to mention tasty ) .,scallops,Positive,2
+my friend enjoyed the grilled alaskan king salmon with delectable creamed washington russet potatoes and crisp green beans .,grilled alaskan king salmon,Positive,2
+my friend enjoyed the grilled alaskan king salmon with delectable creamed washington russet potatoes and crisp green beans .,creamed washington russet potatoes,Positive,2
+my friend enjoyed the grilled alaskan king salmon with delectable creamed washington russet potatoes and crisp green beans .,green beans,Positive,2
+"i had a taste of all three items on her plate , and they were superb .",plate,Positive,2
+"our server continued to be attentive throughout the night , but i did remain puzzled by one issue :   who thinks that ray 's is an appropriate place to take young children for dinner ?",server,Positive,2
+"our server continued to be attentive throughout the night , but i did remain puzzled by one issue :   who thinks that ray 's is an appropriate place to take young children for dinner ?",ray 's,Neutral,1
+"all considered , i have to say that ray 's boathouse is deserving of its title as a seattle institution .",ray 's boathouse,Positive,2
+"while i could have done without the youth who shared the evening with us , our wonderful server and food made the experience a very positive one .",server,Positive,2
+"while i could have done without the youth who shared the evening with us , our wonderful server and food made the experience a very positive one .",food,Positive,2

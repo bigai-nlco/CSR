@@ -1,0 +1,260 @@
+,condition,label,sentence
+0,appetizers,positive,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!"
+1,salads,positive,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!"
+2,steak,positive,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!"
+3,pasta,positive,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!"
+4,food,positive,"All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!"
+5,portions,positive,And really large portions.
+6,food,positive,And really large portions.
+7,anecdotes/miscellaneous,positive,Go inside and you won't want to leave.
+8,anecdotes/miscellaneous,negative,Save yourself the time and trouble and skip this one!
+9,sweet lassi,positive,The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable.
+10,lamb chettinad,positive,The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable.
+11,garlic naan,positive,The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable.
+12,rasamalai,negative,The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable.
+13,food,conflict,The sweet lassi was excellent as was the lamb chettinad and the garlic naan but the rasamalai was forgettable.
+14,Service,positive,Service was quick.
+15,service,positive,Service was quick.
+16,bills,negative,"Oh, don't even let me start with how expensive the bills were!"
+17,price,negative,"Oh, don't even let me start with how expensive the bills were!"
+18,Service,positive,Service is top notch.
+19,service,positive,Service is top notch.
+20,lambc hops,positive,The best thing I tasted were the lambc hops.
+21,food,positive,The best thing I tasted were the lambc hops.
+22,anecdotes/miscellaneous,positive,Overall I would recommend it and go back again.
+23,anecdotes/miscellaneous,negative,I've been here a couple of times and have not been impressed.
+24,seafood,positive,"Even though its good seafood, the prices are too high."
+25,prices,negative,"Even though its good seafood, the prices are too high."
+26,food,positive,"Even though its good seafood, the prices are too high."
+27,price,negative,"Even though its good seafood, the prices are too high."
+28,food,positive,"In addition, the food is very good and the prices are reasonable."
+29,prices,positive,"In addition, the food is very good and the prices are reasonable."
+30,food,positive,"In addition, the food is very good and the prices are reasonable."
+31,price,positive,"In addition, the food is very good and the prices are reasonable."
+32,food,positive,The food is great and authentic.
+33,food,positive,The food is great and authentic.
+34,anecdotes/miscellaneous,neutral,I was at Rao's last Wed.
+35,garlic shrimp,positive,"I recommend the garlic shrimp, okra (bindi), and anything with lamb."
+36,okra (bindi),positive,"I recommend the garlic shrimp, okra (bindi), and anything with lamb."
+37,lamb,positive,"I recommend the garlic shrimp, okra (bindi), and anything with lamb."
+38,food,positive,"I recommend the garlic shrimp, okra (bindi), and anything with lamb."
+39,menu,positive,"The menu was impressive with selections ranging from a burger, to steak, to escargot."
+40,burger,neutral,"The menu was impressive with selections ranging from a burger, to steak, to escargot."
+41,steak,neutral,"The menu was impressive with selections ranging from a burger, to steak, to escargot."
+42,escargot,neutral,"The menu was impressive with selections ranging from a burger, to steak, to escargot."
+43,food,positive,"The menu was impressive with selections ranging from a burger, to steak, to escargot."
+44,breads,positive,very good breads as well.
+45,food,positive,very good breads as well.
+46,food,positive,"Anyway, the food is good, the price is right and they have a decent wine list."
+47,price,positive,"Anyway, the food is good, the price is right and they have a decent wine list."
+48,wine list,positive,"Anyway, the food is good, the price is right and they have a decent wine list."
+49,food,positive,"Anyway, the food is good, the price is right and they have a decent wine list."
+50,price,positive,"Anyway, the food is good, the price is right and they have a decent wine list."
+51,food,negative,The food was lousy -too sweet or too salty and the portions tiny.
+52,portions,negative,The food was lousy -too sweet or too salty and the portions tiny.
+53,food,negative,The food was lousy -too sweet or too salty and the portions tiny.
+54,coconut rice,positive,But the coconut rice was good.
+55,food,positive,But the coconut rice was good.
+56,Tom Kha soup,negative,And the Tom Kha soup was pathetic.
+57,food,negative,And the Tom Kha soup was pathetic.
+58,food,negative,The food now is inconsistent.
+59,food,negative,The food now is inconsistent.
+60,crunchy tuna,positive,"Try the crunchy tuna, it is to die for."
+61,food,positive,"Try the crunchy tuna, it is to die for."
+62,prices,positive,Reasonable prices.
+63,price,positive,Reasonable prices.
+64,food,positive,Everything at Sala Thai is tasty and well-portioned.
+65,service,positive,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.
+66,food,positive,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.
+67,price,positive,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.
+68,food,positive,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.
+69,price,positive,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.
+70,service,positive,Add to that great service and great food at a reasonable price and you have yourself the beginning of a great evening.
+71,food,negative,"Unfortunately, the food was NOT something to get worked up about."
+72,food,negative,"Unfortunately, the food was NOT something to get worked up about."
+73,food,positive,The food is great and reasonably priced.
+74,priced,positive,The food is great and reasonably priced.
+75,food,positive,The food is great and reasonably priced.
+76,price,positive,The food is great and reasonably priced.
+77,anecdotes/miscellaneous,positive,I got enough reasons to keep coming back!!!
+78,calzones,negative,"Their calzones are horrific, bad, vomit-inducing, YUCK."
+79,food,negative,"Their calzones are horrific, bad, vomit-inducing, YUCK."
+80,turnip cake,negative,"A few tips: skip the turnip cake, roast pork buns and egg custards."
+81,roast pork buns,negative,"A few tips: skip the turnip cake, roast pork buns and egg custards."
+82,egg custards,negative,"A few tips: skip the turnip cake, roast pork buns and egg custards."
+83,food,negative,"A few tips: skip the turnip cake, roast pork buns and egg custards."
+84,bagels,positive,The bagels are fabulous.
+85,food,positive,The bagels are fabulous.
+86,anecdotes/miscellaneous,positive,I never had anything I didn't like here.
+87,anecdotes/miscellaneous,negative,I definitely wouldn't go back.
+88,ambiance,positive,"While the ambiance and atmosphere were great, the food and service could have been a lot better."
+89,atmosphere,positive,"While the ambiance and atmosphere were great, the food and service could have been a lot better."
+90,food,negative,"While the ambiance and atmosphere were great, the food and service could have been a lot better."
+91,service,negative,"While the ambiance and atmosphere were great, the food and service could have been a lot better."
+92,ambience,positive,"While the ambiance and atmosphere were great, the food and service could have been a lot better."
+93,food,negative,"While the ambiance and atmosphere were great, the food and service could have been a lot better."
+94,service,negative,"While the ambiance and atmosphere were great, the food and service could have been a lot better."
+95,waitress,positive,"Our waitress was sweet and accomodating, not overbearing."
+96,service,positive,"Our waitress was sweet and accomodating, not overbearing."
+97,anecdotes/miscellaneous,neutral,I have tried literally every restaurant on curry row.
+98,fish,positive,"My goodness, everything from the fish to the rice to the seaweed was absolutely amazing."
+99,rice,positive,"My goodness, everything from the fish to the rice to the seaweed was absolutely amazing."
+100,seaweed,positive,"My goodness, everything from the fish to the rice to the seaweed was absolutely amazing."
+101,food,positive,"My goodness, everything from the fish to the rice to the seaweed was absolutely amazing."
+102,anecdotes/miscellaneous,neutral,I went to this restaurant with a woman that I met recently.
+103,spreads,positive,"Good spreads, great beverage selections and bagels really tasty."
+104,beverage selections,positive,"Good spreads, great beverage selections and bagels really tasty."
+105,bagels,positive,"Good spreads, great beverage selections and bagels really tasty."
+106,food,positive,"Good spreads, great beverage selections and bagels really tasty."
+107,food options,positive,The food options rule.
+108,food,positive,The food options rule.
+109,Japanese Tapas,positive,Consistently good Japanese Tapas.
+110,food,positive,Consistently good Japanese Tapas.
+111,anecdotes/miscellaneous,neutral,I went to Ruby Foo's after work with a group of 6.
+112,sushi,negative,The sushi was awful!
+113,food,negative,The sushi was awful!
+114,anecdotes/miscellaneous,positive,My boyfriend and I went there to celebrate my birthday the other night and all I can say is that it was magnificent.
+115,ambience,negative,Now it's so crowded and loud you can't even talk to the person next to you.
+116,anecdotes/miscellaneous,positive,"Go, go, hurry, before everyone finds out about it."
+117,anecdotes/miscellaneous,positive,I've been many time and have never been disappointed.
+118,food,positive,The food was great.
+119,food,positive,The food was great.
+120,anecdotes/miscellaneous,positive,Don't leave without trying One Night in Tokyo.
+121,anecdotes/miscellaneous,positive,I would go back tho.
+122,anecdotes/miscellaneous,positive,Definately check it out!!!
+123,anecdotes/miscellaneous,positive,You cannot go wrong with this place.
+124,anecdotes/miscellaneous,positive,"As a Japanese native, I've lived in the Tristate area for over 8 years, but I was just so amazed at this place."
+125,anecdotes/miscellaneous,positive,I loving bringing friends here -and I do so every chance I get.
+126,meal,positive,With the theater 2 blocks away we had a delicious meal in a beautiful room.
+127,room,positive,With the theater 2 blocks away we had a delicious meal in a beautiful room.
+128,food,positive,With the theater 2 blocks away we had a delicious meal in a beautiful room.
+129,ambience,positive,With the theater 2 blocks away we had a delicious meal in a beautiful room.
+130,food,positive,Even my Indian friend couldn't believe how good and tasty everything was.
+131,anecdotes/miscellaneous,positive,We were not dissappointed in the least bit by this little gem.
+132,anecdotes/miscellaneous,positive,A pleasant surprise.
+133,anecdotes/miscellaneous,positive,This was a repeat visit and we'll definitely be back again.
+134,pizza,positive,I love the fact that the pizza tastes so good and is so cheap.
+135,food,positive,I love the fact that the pizza tastes so good and is so cheap.
+136,price,positive,I love the fact that the pizza tastes so good and is so cheap.
+137,Service,positive,"Service was prompt, friendly and great."
+138,service,positive,"Service was prompt, friendly and great."
+139,anecdotes/miscellaneous,positive,OU MUST TRY THIS RESTAURANT.
+140,anecdotes/miscellaneous,positive,All pretty good.
+141,anecdotes/miscellaneous,positive,"Have eaten at Ginger House several times, and it's always good."
+142,lamb chop,positive,"I haven't eat a lamb chop as delicious as that, the salads are really nice dressed with lemon and extra virgnin olive oil."
+143,salads,positive,"I haven't eat a lamb chop as delicious as that, the salads are really nice dressed with lemon and extra virgnin olive oil."
+144,food,positive,"I haven't eat a lamb chop as delicious as that, the salads are really nice dressed with lemon and extra virgnin olive oil."
+145,service,negative,Drawbacks: service is slow and they don't toast!
+146,service,negative,Drawbacks: service is slow and they don't toast!
+147,anecdotes/miscellaneous,positive,It is by far my favorite restaurant in Brooklyn.
+148,anecdotes/miscellaneous,negative,I've been to Joya twice and I will never go again.
+149,anecdotes/miscellaneous,positive,A hearty two thumbs up!
+150,anecdotes/miscellaneous,positive,Great find!!!
+151,anecdotes/miscellaneous,positive,"If only they delivered, they'd make a mint!"
+152,anecdotes/miscellaneous,negative,Was surprisingly disappointed.
+153,prices,positive,The prices were fantastic.
+154,price,positive,The prices were fantastic.
+155,anecdotes/miscellaneous,positive,I'm told that it is open 24hrs which is good.
+156,anecdotes/miscellaneous,positive,What more could you want?
+157,anecdotes/miscellaneous,positive,Excellent experience.
+158,anecdotes/miscellaneous,positive,Definitely a neighborhood favorite.
+159,food,negative,"The food is terrible and overall, I would have to say avoid at all costs."
+160,food,negative,"The food is terrible and overall, I would have to say avoid at all costs."
+161,food,positive,The food is prepared quickly and efficiently.
+162,food,positive,The food is prepared quickly and efficiently.
+163,food,positive,"The food is fresh, delicious, and reasonably priced."
+164,priced,positive,"The food is fresh, delicious, and reasonably priced."
+165,food,positive,"The food is fresh, delicious, and reasonably priced."
+166,price,positive,"The food is fresh, delicious, and reasonably priced."
+167,anecdotes/miscellaneous,positive,This is my favorite Italian restaurant in all of New York City.
+168,anecdotes/miscellaneous,negative,"Anyway, this is the last time I cross the williamsburg."
+169,anecdotes/miscellaneous,positive,I am bringing my whole family back next time.
+170,anecdotes/miscellaneous,positive,Love YUKA.
+171,waiter,neutral,"As we were leaving, the couple standing by the door said to another waiter, we're not in a hurry."
+172,anecdotes/miscellaneous,neutral,"As we were leaving, the couple standing by the door said to another waiter, we're not in a hurry."
+173,anecdotes/miscellaneous,neutral,I have been coming to this neighborhood spot for years.
+174,anecdotes/miscellaneous,positive,We will be back.
+175,outdoor atmosphere,positive,The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful.
+176,ambience,positive,The outdoor atmosphere of sitting on the sidewalk watching the world go by 50 feet away on 6th avenue on a cool evening was wonderful.
+177,toppings,neutral,"A large is $20, and toppings are about $3 each."
+178,price,neutral,"A large is $20, and toppings are about $3 each."
+179,spicy tuna,positive,The spicy tuna and salmon are the best we've ever had.
+180,salmon,positive,The spicy tuna and salmon are the best we've ever had.
+181,food,positive,The spicy tuna and salmon are the best we've ever had.
+182,anecdotes/miscellaneous,positive,A guaranteeed delight!
+183,food,positive,"The food was very good, a great deal, and the place its self was great."
+184,place,positive,"The food was very good, a great deal, and the place its self was great."
+185,food,positive,"The food was very good, a great deal, and the place its self was great."
+186,ambience,positive,"The food was very good, a great deal, and the place its self was great."
+187,price,positive,"The food was very good, a great deal, and the place its self was great."
+188,food,positive,The food is usually good but it certainly isn't a relaxing place to go.
+189,place,negative,The food is usually good but it certainly isn't a relaxing place to go.
+190,food,positive,The food is usually good but it certainly isn't a relaxing place to go.
+191,ambience,negative,The food is usually good but it certainly isn't a relaxing place to go.
+192,dinner,neutral,"After dinner, take your date to the HUGE dance floor, probably one of the biggest you'll see in NY."
+193,dance floor,positive,"After dinner, take your date to the HUGE dance floor, probably one of the biggest you'll see in NY."
+194,ambience,positive,"After dinner, take your date to the HUGE dance floor, probably one of the biggest you'll see in NY."
+195,server,positive,The server was really cool and served us our food and drinks with a smile.
+196,served,positive,The server was really cool and served us our food and drinks with a smile.
+197,food,neutral,The server was really cool and served us our food and drinks with a smile.
+198,drinks,neutral,The server was really cool and served us our food and drinks with a smile.
+199,service,positive,The server was really cool and served us our food and drinks with a smile.
+200,dishes,positive,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had)."
+201,lamb sausages,positive,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had)."
+202,sardines with biscuits,positive,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had)."
+203,large whole shrimp,positive,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had)."
+204,pistachio ice cream,positive,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had)."
+205,food,positive,"The dishes offered were unique, very tasty and fresh from the lamb sausages, sardines with biscuits, large whole shrimp to the amazing pistachio ice cream (the best and freshest I've ever had)."
+206,office lunch,neutral,Went there for an office lunch.
+207,anecdotes/miscellaneous,neutral,Went there for an office lunch.
+208,dinner,neutral,"We've only eaten in the restaurant once, but we have ordered many times for dinner."
+209,anecdotes/miscellaneous,neutral,"We've only eaten in the restaurant once, but we have ordered many times for dinner."
+210,aluminum body,positive,I liked the aluminum body.
+211,screen,positive,Lightweight and the screen is beautiful!
+212,build quality,negative,"From the build quality to the performance, everything about it has been sub-par from what I would have expected from Apple."
+213,performance,negative,"From the build quality to the performance, everything about it has been sub-par from what I would have expected from Apple."
+214,costing,positive,It was truly a great computer costing less than one thousand bucks before tax.
+215,Boots up,positive,Boots up fast and runs great!
+216,runs,positive,Boots up fast and runs great!
+217,tech support,neutral,"Call tech support, standard email the form and fax it back in to us."
+218,service,positive,The service I received from Toshiba went above and beyond the call of duty.
+219,internet speed,positive,I would recommend it just because of the internet speed probably because thats the only thing i really care about.
+220,screen,positive,The screen shows great colors.
+221,battery life,positive,"The battery life has not decreased since I bought it, so i'm thrilled with that."
+222,price,positive,The price and features more than met my needs.
+223,features,positive,The price and features more than met my needs.
+224,mouse buttons,negative,the mouse buttons are hard to push.
+225,design,negative,This is the complete opposite to an ergonomic design.
+226,technical service,negative,The technical service for dell is so 3rd world it might as well not even bother.
+227,built in camera,positive,The built in camera is very useful when chatting with other techs in remote buildings on our campus.
+228,Keyboard,positive,Keyboard good sized and wasy to use.
+229,wifi,positive,Great wifi too.
+230,Games,negative,Games being the main issue.
+231,price,positive,The price is another driving influence that made me purchase this laptop.
+232,price tag,negative,But see the macbook pro is different because it may have a huge price tag but it comes with the full software that you would actually need and most of it has free future updates.
+233,software,positive,But see the macbook pro is different because it may have a huge price tag but it comes with the full software that you would actually need and most of it has free future updates.
+234,updates,positive,But see the macbook pro is different because it may have a huge price tag but it comes with the full software that you would actually need and most of it has free future updates.
+235,price,positive,It's a great product for a great price!
+236,speed,positive,Excellent speed for processing data.
+237,twin packing,positive,"The Macbook arrived in a nice twin packing and sealed in the box, all the functions works great."
+238,functions,positive,"The Macbook arrived in a nice twin packing and sealed in the box, all the functions works great."
+239,switchable graphic card,positive,The switchable graphic card is pretty sweet when you want gaming on the laptop.
+240,gaming,neutral,The switchable graphic card is pretty sweet when you want gaming on the laptop.
+241,battery life,neutral,I would like at least a 4 hr. battery life.
+242,speed,positive,It has good speed and plenty of hard drive space.
+243,hard drive space,positive,It has good speed and plenty of hard drive space.
+244,driver updates,negative,"The driver updates don't fix the issue, very frustrating."
+245,features,positive,Im glad that it has such great features in it.
+246,performance,positive,I always have used a tower home PC and jumped to the laptop and have been very satisfied with its performance.
+247,GarageBand,neutral,My sister has the same Mac as me and she is in a band and uses GarageBand to record and edit.
+248,price,negative,and looks very sexyy:D really the mac book pro is the best laptop specially for students in college if you are not caring about price.
+249,extended warranty,negative,"Also, the extended warranty was a problem."
+250,support,negative,"My opinion of Sony has been dropping as fast as the stock market, given their horrible support, but this machine just caused another plunge."
+251,glass screen,positive,I also liked the glass screen.
+252,technical support,negative,"When I called Toshiba, they would not do anything and even tried to charge me $35 for the phone call, even though they didn't offer any technical support."
+253,staff,negative,"(Beware, their staff could send you back making you feel that only they know what a computer is."
+254,programs,negative,The only thing that I don't like about my mac is that sometimes there are programs that I want to be able to run and I am not able to.
+255,Wireless,positive,"Wireless has not been a issue for me, like some others have meantioned."
+256,battery life,negative,"MacBook Notebooks quickly die out because of their short battery life, as well as the many background programs that run without the user's knowlede."
+257,background programs,negative,"MacBook Notebooks quickly die out because of their short battery life, as well as the many background programs that run without the user's knowlede."
+258,price,positive,All for such a great price.
